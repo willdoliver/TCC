@@ -1,0 +1,15 @@
+{
+    "name" : William Souza,
+    "age" : "23",
+    "e-mail" :william@alunos.utfpr.edu.br,
+    "info" : {
+        "hometown" : "Curitiba",
+        "job" : "Student"
+    }
+}
+
+
+Consulta MongoDB
+
+db.NomeColeção.find({condição}, {atributo:1})
+db.Curitiba.find({name:"Universidade Tecnológica Federal do Paraná"})

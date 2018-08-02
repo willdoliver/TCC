@@ -1,0 +1,10 @@
+502aa937e4b0be57fd4cac73	Acai-House
+5267409f11d22bdef095af11	Airport
+4bb4b6e0613fb713751194e6	Airport
+4dfe5325fa7628b893ebe3bc	Arcade
+4cd54e53fb5954813949dd50	Arcade
+4c8d3bff55fba093469766ab	Arcade
+4b8ae6f4f964a5200b8832e3	Art-Museum
+4d27b1464ab78eec0a412d26	Art-Museum
+4c459edb36d6a593ec106ca8	Art-Museum
+4d5d20e7ddac721e720675fe	Art-Museum
