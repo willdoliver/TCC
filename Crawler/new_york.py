@@ -3,94 +3,81 @@ import json
 import requests
 import pymongo
 from pymongo import MongoClient
-
 import time
 from datetime import date
 import re
+import os
 import random
 import smtplib
 
 #info para email
 destinatario = 'william@alunos.utfpr.edu.br'
-texto = 'Sucesso na execucao do Crawler de New York'
+texto = 'Crawler de New York '
 
-params = dict(
-  client_id='JPPSFUBOFCATOBDMFZC013CMEVMJTYOPEPJ3AXHRASYB320A',
-  client_secret='KFOZHELXV3AJLPKENB1PCNSHJUZASJ3SDX13YW4NVZRVOBU4',
-  v='20170801',
-  #ll='-25.5662655951,-49.3168304175',
-  #query='coffee',
+params4 = dict(
+  client_id='W3K2WFYXXNW5DZIIOSQHOAGS4WVGHEQILLZMK10KKQ0Q3H4A',
+  client_secret='0O52YL2LI4ZZVTV1EJ1NRUIXTU35LYN24DUSU2PSVRQFJE3W',
+  v='20180323',
   limit=1
 )
 
-
 client = MongoClient()
 db = client.new_york
-ini = time.time()
+
 today = str(date.today())
+date = {'data consulta':today}
 
 arq = open('/home/sda3/william/id_new_york.txt','r')
-requests_num = 0
-#percorre o arquivo linha por linha e separa por virgula cat,url
+#arq = open('id_new_york.txt','r')
+sucess = 0
+
 for i in arq.readlines():
 	#se categoria = termo inserido na entrada
 	words = i.split('	')
 	id_place = words[0]
-
-	#print id_place
 	url = 'https://api.foursquare.com/v2/venues/' + id_place + '?m=swarm'
-	#print url
-
-	limit = 0
+	#print (url)
+	
 	resp = ''
 	while resp == '':
 		try:
-			resp = requests.get(url=url, params=params)
-			requests_num += 1
+			resp = requests.get(url=url, params=params4)
 		except:
-			print ('Erro de Request')
-			time.sleep(15)
-
-	try:
-		print (requests_num)
-		#print (id_place)
-	except:
-		print  ('\n pulou \n')
-	
-	date = {'data consulta':today}
+			try:
+				time.sleep(21)
+				resp = requests.get(url=url, params=params4)
+			except:
+				#print ('Erro de Request')
+				pass
 	
 	try:
 		data = json.loads(resp.text)
 		data.update(date)
+		http_code = data['meta']['code']
+		if http_code == 200:
+			sucess += 1
+			posts = db.new_york
+			#post_id = posts.insert_one(data).inserted_id
+		else:
+			break
 	except:
-		data = ''
-	
-	try:
-		posts = db.new_york
-		post_id = posts.insert_one(data).inserted_id
-	except:
-		print ('Erro ao inserir no banco')
+		#print ('Erro na requisicao, nao inserido no banco')
+		pass
 
-	#sleep randomico
-	aux2 = random.randint(1,20)
-	if aux2 == 10:
-		print ('sleep rand = 10')
-		time.sleep(30)
 	#sleep para cada iteracao
-	aux = random.randint(10,30)
-	print ('sleep = ', aux, '\n')
-	time.sleep(aux)
-
-fim = time.time()
+	sleep1 = random.randint(10,30)
+	sleep2 = random.randint(1,4)
+	#print ('sleep = '+ str(sleep1*sleep2))
+	time.sleep(sleep1*sleep2)
 
 #logando no email
 remetente = 'william@alunos.utfpr.edu.br'
 senha = 'Fzr07br!'
 #mensagem do corpo do email
 msg = '\r\n'.join([
-    '%s' % texto + ' ' + today,
-    '%s' % id_place
+    '%s' % texto + str(sucess) + ' - ' + today
     ])
+
 #enviando email
 server = smtplib.SMTP('smtp.gmail.com:587')
 server.starttls()
