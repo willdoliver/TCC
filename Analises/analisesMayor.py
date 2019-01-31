@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 
 ############ Formulas ############
 #
-#	P∗log(N+1)		
-#	R∗log(N+1)
+#	X1 = P∗log(N+1)		
+#	X2 = R∗log(N+1)
 #	
 #	P = Troca de Prefeitos
 #	R = Reaparicao de Prefeitos
@@ -32,6 +32,38 @@ def remove_repetidos(lista):
             l.append(i)
     l.sort()
     return l
+
+def calc_reaparicao(mayors):
+	size = len(mayors)
+
+	if size < 2 :
+		return 0
+
+	print(mayors)
+	total = 0
+	for info,value in enumerate(mayors):
+		print("[%s]= %s" % (info, value))
+	# exit(0)
+	for info,value in enumerate(mayors):
+		current = mayors[info]
+
+		aux = 0
+		while (aux <= size-2):
+			print( str(aux) +' <> '+ str(size) )
+			try:
+				print(current +' - '+ mayors[aux+2])
+				if current == mayors[aux+2]:
+					print( "total: " + str(total) )
+					total += 1
+					aux += 1
+					del mayors[0]
+					continue
+				aux += 1
+			except:
+				print(total)
+				exit(0)
+
+	return total
 
 # Loop para coletar categorias unicas
 with open('Req200/cwbShort.json', 'r') as f:
@@ -57,6 +89,7 @@ with open('Req200/cwbShort.json', 'r') as f:
 		qtd_dias = 0
 		resultMax = 0
 		trocaMax = 0
+		reapMax = 0
 		dateMax = ''
 		mayors = []
 		total = []
@@ -64,8 +97,8 @@ with open('Req200/cwbShort.json', 'r') as f:
 
 		for item in o["all"]:
 
-			# if cat == "Shopping Mall" and item["categories"][0]["name"] == "Shopping Mall":
-			if cat == item["categories"][0]["name"]:
+			if cat == "Shopping Mall" and item["categories"][0]["name"] == "Shopping Mall":
+			# if cat == item["categories"][0]["name"]:
 				
 				dates.append(item["data consulta"])
 
@@ -114,14 +147,16 @@ with open('Req200/cwbShort.json', 'r') as f:
 						except:
 							continue
 					#print(mayors)
-					
+
+					reapPrefs = calc_reaparicao(mayors)
 					trocaPrefs = len(list(set(mayors)))
 					resultTroca = round(trocaPrefs * (math.log( sum(total)+1 )),2)
 
 					if resultTroca > resultMax:
 						resultMax = resultTroca
 						dateMax = str(dates[0]) +' - '+ str(dates[-1])
-						trocaMax = trocaPrefs		
+						trocaMax = trocaPrefs
+						reapMax = reapPrefs	
 			else:
 				continue
 		try:
@@ -141,9 +176,10 @@ for res in results:
 	# print(res[])
 	print(res[1]) # Categoria
 	print("P = " + str( res[3]) ) # quantidade de trocas
-	print(res[0]) # ResultMax - numero maximo para o periodo calculado
+	print("X1: " + res[0]) # ResultMax - numero maximo para o periodo calculado
 	print(res[2]) # data do periodo
 	print("-------------------")
+	print(mayors)
 
 					# FAZER O MESMO PARA OS DEMAIS LOCAIS ---------------
 
