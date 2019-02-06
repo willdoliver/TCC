@@ -33,35 +33,35 @@ def remove_repetidos(lista):
     l.sort()
     return l
 
-def calc_reaparicao(mayors):
-	size = len(mayors)
+def calc_reaparicao(mayor):
+	size = len(mayor)
+	total = 0
+	#print(mayor)
 
 	if size < 2 :
 		return 0
 
-	print(mayors)
-	total = 0
-	for info,value in enumerate(mayors):
-		print("[%s]= %s" % (info, value))
+	# for info,value in enumerate(mayor):
+	# 	print("[%s]= %s" % (info, value))
 	# exit(0)
-	for info,value in enumerate(mayors):
-		current = mayors[info]
+
+	for info,value in enumerate(mayor):
+		current = mayor[info]
 
 		aux = 0
 		while (aux <= size-2):
-			print( str(aux) +' <> '+ str(size) )
+			# print( str(aux) +' <> '+ str(size) )
 			try:
-				print(current +' - '+ mayors[aux+2])
-				if current == mayors[aux+2]:
-					print( "total: " + str(total) )
+				# print(current +' - '+ mayor[aux+2])
+				if (current == mayor[aux+2] and current != mayor[aux+1]):
+					# print( "total: " + str(total) )
 					total += 1
 					aux += 1
-					del mayors[0]
+					del mayor[0]
 					continue
 				aux += 1
 			except:
-				print(total)
-				exit(0)
+				return total
 
 	return total
 
@@ -94,11 +94,12 @@ with open('Req200/cwbShort.json', 'r') as f:
 		mayors = []
 		total = []
 		people = []
+		control = 0
 
 		for item in o["all"]:
 
-			if cat == "Shopping Mall" and item["categories"][0]["name"] == "Shopping Mall":
-			# if cat == item["categories"][0]["name"]:
+			# if cat == "Shopping Mall" and item["categories"][0]["name"] == "Shopping Mall":
+			if cat == item["categories"][0]["name"]:
 				
 				dates.append(item["data consulta"])
 
@@ -107,19 +108,21 @@ with open('Req200/cwbShort.json', 'r') as f:
 				
 				# Percorre a janela de 30 dias
 				if qtd_dias < 30:
-					janela += 1
-					total.append(item["mayor"]["count"])
-					try:
-						people.append(item["mayor"]["user"]["id"])
-					except:
-						continue
+					if control == 0:
+						janela += 1
+						total.append(item["mayor"]["count"])
+						try:
+							people.append(item["mayor"]["user"]["id"])
+						except:
+							continue
 					
 				# Quando fecha a janela dos 30 dias
 				else:
+					control = 1
 					# print( str(dates[0]) +' - '+ str(dates[-1]) )
 					# print( sum(total) )
 					# print( len(people) )
-
+					
 					del dates[0]
 					# del dates[1]
 					if total:
@@ -131,13 +134,10 @@ with open('Req200/cwbShort.json', 'r') as f:
 							people.append(item["mayor"]["user"]["id"])
 						except:
 							continue
-					if mayors:
-						del mayors[0]
 
-					janela -= 1
+					num_locais = math.floor(janela/30)
 
-					num_locais = janela/30
-
+					del mayors[:]
 					# Pegar variaveis P e R para formula de cada local
 					for i, v in enumerate(people):
 						try:
@@ -146,11 +146,12 @@ with open('Req200/cwbShort.json', 'r') as f:
 								mayors.append(v)
 						except:
 							continue
-					#print(mayors)
+					print(mayors)
 
 					reapPrefs = calc_reaparicao(mayors)
 					trocaPrefs = len(list(set(mayors)))
-					resultTroca = round(trocaPrefs * (math.log( sum(total)+1 )),2)
+					# resultTroca = round(trocaPrefs * (math.log( sum(total)+1 )),2)
+					resultTroca = round(reapPrefs * (math.log( sum(total)+1 )),2)
 
 					if resultTroca > resultMax:
 						resultMax = resultTroca
@@ -161,7 +162,7 @@ with open('Req200/cwbShort.json', 'r') as f:
 				continue
 		try:
 			if trocaMax > 1:
-				results.append([resultMax, cat, dateMax, trocaMax])
+				results.append([resultMax, cat, dateMax, trocaMax, reapMax])
 
 		except:
 			continue	
@@ -175,11 +176,11 @@ results.sort(reverse=True)
 for res in results:
 	# print(res[])
 	print(res[1]) # Categoria
-	print("P = " + str( res[3]) ) # quantidade de trocas
-	print("X1: " + res[0]) # ResultMax - numero maximo para o periodo calculado
-	print(res[2]) # data do periodo
+	print( "P = " + str( res[3]) ) # quantidade de trocas
+	print( "X1: " + str(res[0]) ) # ResultMax - numero maximo para o periodo calculado
+	print( res[2] ) # data do periodo
+	print( "R = " + str(res[4]) ) # numero de reaparicoes
 	print("-------------------")
-	print(mayors)
 
 					# FAZER O MESMO PARA OS DEMAIS LOCAIS ---------------
 
