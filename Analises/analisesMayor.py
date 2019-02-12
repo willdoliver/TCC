@@ -41,9 +41,6 @@ def calc_reaparicao(mayor):
 	if size < 2 :
 		return 0
 
-	# for info,value in enumerate(mayor):
-	# 	print("[%s]= %s" % (info, value))
-	# exit(0)
 
 	for info,value in enumerate(mayor):
 		current = mayor[info]
@@ -65,163 +62,166 @@ def calc_reaparicao(mayor):
 
 	return total
 
-# Loop para coletar categorias unicas
-with open('Req200/cwbShort.json', 'r') as f:
-	data = json.load(f)
-	n = json.dumps(data)
-	o = json.loads(n)
+def analisaDados(arqAnalise,varChoosed,arqSaida):
+	# Loop para coletar categorias unicas
+	with open('Req200/'+arqAnalise, 'r') as f:
+		print("Analisando categorias...")
+		data = json.load(f)
+		n = json.dumps(data)
+		o = json.loads(n)
+
+		nome_categ = []
+		for i in o["all"]:
+			nome_categ.append(i["categories"][0]["name"])
+		nome_categ = remove_repetidos(nome_categ)
+		# print(nome_categ)
 
 
-	for i in o["all"]:
-		nome_categ.append(i["categories"][0]["name"])
-	nome_categ = remove_repetidos(nome_categ)
-	# print(nome_categ)
+	with open('Req200/'+arqAnalise, 'r') as f:
+
+		data = json.load(f)
+		n = json.dumps(data)
+		o = json.loads(n)
 
 
-with open('Req200/cwbShort.json', 'r') as f:
-	data = json.load(f)
-	n = json.dumps(data)
-	o = json.loads(n)
+		print("Analisando JSON...")
+		for cat in nome_categ:
+			janela = 0
+			qtd_dias = 0
+			resultMax = 0
+			trocaMax = 0
+			reapMax = 0
+			dateMax = ''
+			mayors = []
+			total = []
+			people = []
+			control = 0
 
+			for item in o["all"]:
 
-	for cat in nome_categ:
-		janela = 0
-		qtd_dias = 0
-		resultMax = 0
-		trocaMax = 0
-		reapMax = 0
-		dateMax = ''
-		mayors = []
-		total = []
-		people = []
-		control = 0
-
-		for item in o["all"]:
-
-			# if cat == "Shopping Mall" and item["categories"][0]["name"] == "Shopping Mall":
-			if cat == item["categories"][0]["name"]:
-				
-				dates.append(item["data consulta"])
-
-				qtd_dias = abs((datetime.strptime(dates[0], '%Y-%m-%d') - datetime.strptime(dates[-1], '%Y-%m-%d')).days)
-				#print(qtd_dias)
-				
-				# Percorre a janela de 30 dias
-				if qtd_dias < 30:
-					if control == 0:
-						janela += 1
-						total.append(item["mayor"]["count"])
-						try:
-							people.append(item["mayor"]["user"]["id"])
-						except:
-							continue
+				# if cat == "Shopping Mall" and item["categories"][0]["name"] == "Shopping Mall":
+				if cat == item["categories"][0]["name"]:
 					
-				# Quando fecha a janela dos 30 dias
+					dates.append(item["data consulta"])
+
+					qtd_dias = abs((datetime.strptime(dates[0], '%Y-%m-%d') - datetime.strptime(dates[-1], '%Y-%m-%d')).days)
+					#print(qtd_dias)
+					
+					# Percorre a janela de 30 dias
+					if qtd_dias < 30:
+						if control == 0:
+							janela += 1
+							total.append(item["mayor"]["count"])
+							try:
+								people.append(item["mayor"]["user"]["id"])
+							except:
+								continue
+						
+					# Quando fecha a janela dos 30 dias
+					else:
+						control = 1
+						# print( str(dates[0]) +' - '+ str(dates[-1]) )
+						# print( sum(total) )
+						# print( len(people) )
+						
+						del dates[0]
+						# del dates[1]
+						if total:
+							del total[0]
+							total.append(item["mayor"]["count"])
+						if people:
+							del people[0]
+							try:
+								people.append(item["mayor"]["user"]["id"])
+							except:
+								continue
+
+						num_locais = math.floor(janela/30)
+
+						del mayors[:]
+						# Pegar variaveis P e R para formula de cada local
+						for i, v in enumerate(people):
+							try:
+								if i % num_locais == 0:
+									#print("lista[%s] = %s" % (i, v))
+									mayors.append(v)
+							except:
+								continue
+						#print(mayors)
+
+						reapPrefs = calc_reaparicao(mayors)
+						trocaPrefs = len(list(set(mayors)))
+						
+						if varChoosed == 'P':
+							resultTroca = round(trocaPrefs * (math.log( sum(total)+1 )),2)
+						if varChoosed == 'R':
+							resultTroca = round(reapPrefs * (math.log( sum(total)+1 )),2)
+						
+						if resultTroca > resultMax:
+							resultMax = resultTroca
+							dateMax = str(dates[0]) +' - '+ str(dates[-1])
+							trocaMax = trocaPrefs
+							reapMax = reapPrefs	
 				else:
-					control = 1
-					# print( str(dates[0]) +' - '+ str(dates[-1]) )
-					# print( sum(total) )
-					# print( len(people) )
-					
-					del dates[0]
-					# del dates[1]
-					if total:
-						del total[0]
-						total.append(item["mayor"]["count"])
-					if people:
-						del people[0]
-						try:
-							people.append(item["mayor"]["user"]["id"])
-						except:
-							continue
+					continue
+			try:
+				if trocaMax > 1:
+					results.append([resultMax, cat, dateMax, trocaMax, reapMax])
 
-					num_locais = math.floor(janela/30)
-
-					del mayors[:]
-					# Pegar variaveis P e R para formula de cada local
-					for i, v in enumerate(people):
-						try:
-							if i % num_locais == 0:
-								#print("lista[%s] = %s" % (i, v))
-								mayors.append(v)
-						except:
-							continue
-					print(mayors)
-
-					reapPrefs = calc_reaparicao(mayors)
-					trocaPrefs = len(list(set(mayors)))
-					# resultTroca = round(trocaPrefs * (math.log( sum(total)+1 )),2)
-					resultTroca = round(reapPrefs * (math.log( sum(total)+1 )),2)
-
-					if resultTroca > resultMax:
-						resultMax = resultTroca
-						dateMax = str(dates[0]) +' - '+ str(dates[-1])
-						trocaMax = trocaPrefs
-						reapMax = reapPrefs	
-			else:
+			except:
 				continue
+
+	arq = open(arqSaida+varChoosed+'.txt', 'w')
+	print("Escrevendo saida arquivo: "+ arqSaida+varChoosed+'.txt')
+	arq.write("-------------------")
+	arq.write("\n")
+	arq.write("RESULTADOS")
+	arq.write("\n")
+	arq.write("-------------------")
+	arq.write("\n")
+	results.sort(reverse=True)
+
+	for res in results:
+		# arq.write(res[])
 		try:
-			if trocaMax > 1:
-				results.append([resultMax, cat, dateMax, trocaMax, reapMax])
-
+			arq.write(res[1]) # Categoria
+			arq.write("\n")
+			arq.write( "P = " + str( res[3]) ) # quantidade de trocas
+			arq.write("\n")
+			arq.write( "X1: " + str(res[0]) ) # ResultMax - numero maximo para o periodo calculado
+			arq.write("\n")
+			arq.write( res[2] ) # data do periodo
+			arq.write("\n")
+			arq.write( "R = " + str(res[4]) ) # numero de reaparicoes
+			arq.write("\n")
+			arq.write("-------------------")
+			arq.write("\n")
 		except:
-			continue	
-
-
-print("-------------------")
-print("RESULTADOS")
-print("-------------------")
-results.sort(reverse=True)
-
-for res in results:
-	# print(res[])
-	print(res[1]) # Categoria
-	print( "P = " + str( res[3]) ) # quantidade de trocas
-	print( "X1: " + str(res[0]) ) # ResultMax - numero maximo para o periodo calculado
-	print( res[2] ) # data do periodo
-	print( "R = " + str(res[4]) ) # numero de reaparicoes
-	print("-------------------")
-
-					# FAZER O MESMO PARA OS DEMAIS LOCAIS ---------------
+			pass
+	arq.close()
+	print("Fim arquivo " + arqAnalise + '\n\n')
 
 
 
-					# Calculo para categoria em geral
-					# for indice, valor in enumerate(people):
-					# 	print("lista[%s] = %s" % (indice, valor))
-					
-					# print("Data fim: " + str(data_fim))
-					# print("total - " + str(total))
-					# print("janela - " + str(janela))
-					# break
-		
+def main():
 
-		# print(nome_categ + ' - '+ str(count))
-		
-		# if nome_categ in categories_count.keys():
-		# 	categories_count[nome_categ] += count
-		# else:
-		# 	categories_count[nome_categ] = count
+	# analisaDados('cwbShort.json','P', 'CWB_resOrderBy')
+	# analisaDados('cwbShort.json','R', 'CWB_resOrderBy')
 
-		# categories.append(nome_categ)
-		# people.append(item["mayor"]["count"])
-		# people.append(item["mayor"][0]["user"]["gender"])
+	# analisaDados('nyShort.json','P', 'NY_resOrderBy') Sem categoria no JSON ****
+	# analisaDados('nyShort.json','R', 'NY_resOrderBy')
 
-	# print(categories_count)
+	# analisaDados('chicagoShort.json','P', 'CHICAGO_resOrderBy')
+	# analisaDados('chicagoShort.json','R', 'CHICAGO_resOrderBy')
+	
+	# analisaDados('spShort.json','P', 'SP_resOrderBy')
+	# analisaDados('spShort.json','R', 'SP_resOrderBy')
 
-	# ordened = {}
-	# for item in sorted(categories_count, key = categories_count.get):	
-	# 	total += categories_count[item]
-	# 	ordened[item] = categories_count[item]
-	# 	print(item + ' - '+ str(categories_count[item]))
+	# TOKYO possui muitos caracteres invalidos
+	
 
-
-
-
-
-
-
-
+if __name__ == '__main__':
+	main()
 
 
 # {
