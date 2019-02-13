@@ -16,8 +16,8 @@ from pprint import pprint
 # Tokyo
 
 
-saver = open("tokyoShort.json", "w")
-file = open('tokyo.txt', 'r')
+saver = open("nyShort.json", "w")
+file = open('new_york.txt', 'r')
 
 saver.write('{"all":[')
 saver.write("\n")

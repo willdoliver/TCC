@@ -208,8 +208,8 @@ def main():
 	# analisaDados('cwbShort.json','P', 'CWB_resOrderBy')
 	# analisaDados('cwbShort.json','R', 'CWB_resOrderBy')
 
-	# analisaDados('nyShort.json','P', 'NY_resOrderBy') Sem categoria no JSON ****
-	# analisaDados('nyShort.json','R', 'NY_resOrderBy')
+	# analisaDados('nyShort.json','P', 'NY_resOrderBy') # Sem categoria no JSON ****
+	analisaDados('nyShort.json','R', 'NY_resOrderBy')
 
 	# analisaDados('chicagoShort.json','P', 'CHICAGO_resOrderBy')
 	# analisaDados('chicagoShort.json','R', 'CHICAGO_resOrderBy')
