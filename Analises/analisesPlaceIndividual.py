@@ -190,10 +190,14 @@ def analisaDados(arqAnalise,varChoosed,arqSaida):
 			arq.write("\n")
 			arq.write( "P = " + str( res[3]) ) # quantidade de trocas
 			arq.write("\n")
+<<<<<<< HEAD
 			if (varChoosed == 'P'):
 				arq.write( "Trocas: " + str(res[0]) ) # ResultMax - numero maximo para o periodo calculado
 			if (varChoosed == 'R'):
 				arq.write( "Disputa: " + str(res[0]) ) # ResultMax - numero maximo para o periodo calculado
+=======
+			arq.write( "X1: " + str(res[0]) ) # ResultMax - numero maximo para o periodo calculado
+>>>>>>> 8996de159195e0b5a6d536a57def0ad94e982df4
 			arq.write("\n")
 			arq.write( res[2] ) # data do periodo
 			arq.write("\n")
@@ -213,8 +217,13 @@ def main():
 	# analisaDados('curitibaWithName.json','P', 'CWB_Locais')
 	# analisaDados('curitibaWithName.json','R', 'CWB_Locais')
 
+<<<<<<< HEAD
 	# analisaDados('saoPauloWithName.json','P', 'SP_Locais')
 	# analisaDados('saoPauloWithName.json','R', 'SP_Locais')
+=======
+	# analisaDados('nyShort.json','P', 'NY_resOrderBy') # Sem categoria no JSON ****
+	# analisaDados('nyShort.json','R', 'NY_resOrderBy')
+>>>>>>> 8996de159195e0b5a6d536a57def0ad94e982df4
 
 	# analisaDados('chicagoWithName.json','P', 'CHICAGO_Locais')
 	analisaDados('chicagoWithName.json','R', 'CHICAGO_Locais')
