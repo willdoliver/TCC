@@ -3,31 +3,32 @@ RESULTADOS
 -------------------
 Bar
 P = 30
-X1: 278.81
-2018-04-29 - 2018-05-29
+Trocas = 278.81
 R = 0
 -------------------
 Airport
 P = 3
-X1: 28.28
-2018-05-05 - 2018-08-23
+Trocas = 28.28
 R = 3
 -------------------
 General Entertainment
 P = 3
-X1: 17.67
-2018-05-02 - 2018-08-24
+Trocas = 17.67
 R = 0
 -------------------
 Office
 P = 2
-X1: 12.62
-2018-05-02 - 2018-08-24
+Trocas = 12.62
 R = 18
 -------------------
 Brazilian Restaurant
 P = 2
-X1: 11.64
-2018-05-02 - 2018-08-24
+Trocas = 11.64
 R = 17
 -------------------
+
+Bar,278.81
+Airport,28.28
+General Entertainment,17.67
+Office,12.62
+Brazilian Restaurant,11.64

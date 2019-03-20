@@ -1,0 +1,78 @@
+-------------------
+RESULTADOS
+-------------------
+Sports Bar
+P = 4
+Disputa: 81.1
+R = 16
+-------------------
+Coffee Shop
+P = 4
+Disputa: 68.71
+R = 11
+-------------------
+Park
+P = 11
+Disputa: 44.47
+R = 5
+-------------------
+Pub
+P = 9
+Disputa: 37.66
+R = 6
+-------------------
+Bookstore
+P = 4
+Disputa: 35.03
+R = 7
+-------------------
+Sushi Restaurant
+P = 7
+Disputa: 33.34
+R = 6
+-------------------
+Ice Cream Shop
+P = 7
+Disputa: 33.12
+R = 5
+-------------------
+University
+P = 12
+Disputa: 32.46
+R = 4
+-------------------
+Supermarket
+P = 18
+Disputa: 23.05
+R = 3
+-------------------
+Electronics Store
+P = 5
+Disputa: 20.64
+R = 5
+-------------------
+Bank
+P = 10
+Disputa: 12.92
+R = 2
+-------------------
+Pool
+P = 2
+Disputa: 4.98
+R = 1
+-------------------
+
+
+
+Sports Bar,81.1
+Coffee Shop,68.71
+Park,44.47
+Pub,37.66
+Bookstore,35.03
+Sushi Restaurant,33.34
+Ice Cream Shop,33.12
+University,32.46
+Supermarket,23.05
+Electronics Store,20.64
+Bank,12.92
+Pool,4.98
