@@ -188,10 +188,13 @@ def analisaDados(arqAnalise,varChoosed,arqSaida):
 			arq.write("\n")
 			arq.write( "P = " + str( res[3]) ) # quantidade de trocas
 			arq.write("\n")
-			arq.write( "X1: " + str(res[0]) ) # ResultMax - numero maximo para o periodo calculado
+			if (varChoosed == 'P'):
+				arq.write( "Trocas: " + str(res[0]) ) # ResultMax - numero maximo para o periodo calculado
+			if (varChoosed == 'R'):
+				arq.write( "Disputa: " + str(res[0]) )
 			arq.write("\n")
-			arq.write( res[2] ) # data do periodo
-			arq.write("\n")
+			# arq.write( res[2] ) # data do periodo
+			# arq.write("\n")
 			arq.write( "R = " + str(res[4]) ) # numero de reaparicoes
 			arq.write("\n")
 			arq.write("-------------------")
@@ -205,14 +208,14 @@ def analisaDados(arqAnalise,varChoosed,arqSaida):
 
 def main():
 
-	# analisaDados('cwbShort.json','P', 'CWB_resOrderBy')
-	# analisaDados('cwbShort.json','R', 'CWB_resOrderBy')
+	# analisaDados('curitibaWithName.json','P', 'CWB_resOrderBy')
+	# analisaDados('curitibaWithName.json','R', 'CWB_resOrderBy')
 
 	# analisaDados('nyShort.json','P', 'NY_resOrderBy') # Sem categoria no JSON ****
-	analisaDados('nyShort.json','R', 'NY_resOrderBy')
+	# analisaDados('nyShort.json','R', 'NY_resOrderBy')
 
-	# analisaDados('chicagoShort.json','P', 'CHICAGO_resOrderBy')
-	# analisaDados('chicagoShort.json','R', 'CHICAGO_resOrderBy')
+	# analisaDados('chicagoWithName.json','P', 'CHICAGO_resOrderBy')
+	analisaDados('chicagoWithName.json','R', 'CHICAGO_resOrderBy')
 	
 	# analisaDados('spShort.json','P', 'SP_resOrderBy')
 	# analisaDados('spShort.json','R', 'SP_resOrderBy')

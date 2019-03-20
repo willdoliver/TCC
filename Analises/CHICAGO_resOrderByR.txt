@@ -1,159 +1,283 @@
 -------------------
 RESULTADOS
 -------------------
-Coffee Shop
-P = 2
-X1: 105.68
-2018-03-26 - 2018-05-18
-R = 16
+Restaurant
+P = 47
+Disputa: 5730.01
+R = 766
 -------------------
 Donut Shop
-P = 2
-X1: 104.38
-2018-04-01 - 2018-05-18
-R = 16
+P = 16
+Disputa: 4627.32
+R = 641
 -------------------
-Electronics Store
-P = 2
-X1: 103.53
-2018-04-02 - 2018-05-18
-R = 16
+Bank
+P = 25
+Disputa: 4301.88
+R = 602
+-------------------
+Church
+P = 15
+Disputa: 3649.71
+R = 468
+-------------------
+Beach
+P = 21
+Disputa: 3544.77
+R = 536
 -------------------
 Convenience Store
-P = 2
-X1: 99.66
-2018-03-29 - 2018-05-18
-R = 16
+P = 17
+Disputa: 2909.09
+R = 416
 -------------------
-Department Store
-P = 4
-X1: 93.68
-2018-03-30 - 2018-05-18
-R = 16
+Bar
+P = 15
+Disputa: 2609.12
+R = 384
 -------------------
-Emergency Room
-P = 3
-X1: 91.89
-2018-04-02 - 2018-05-18
-R = 16
+Pharmacy
+P = 14
+Disputa: 2603.24
+R = 353
 -------------------
-Comic Shop
-P = 2
-X1: 85.09
-2018-03-29 - 2018-05-23
-R = 16
+Car Wash
+P = 12
+Disputa: 2125.47
+R = 321
 -------------------
-Brazilian Restaurant
-P = 2
-X1: 83.61
-2018-04-03 - 2018-05-23
-R = 16
+Coffee Shop
+P = 12
+Disputa: 2087.03
+R = 281
 -------------------
-Dentists Office
-P = 3
-X1: 67.75
-2018-03-30 - 2018-05-18
-R = 16
--------------------
-Arcade
-P = 3
-X1: 62.84
-2018-04-01 - 2018-05-09
-R = 15
--------------------
-Building
-P = 6
-X1: 60.95
-2018-04-05 - 2018-08-23
-R = 11
--------------------
-Bike Shop
-P = 2
-X1: 52.13
-2018-03-25 - 2018-05-23
-R = 16
--------------------
-Bus Stop
-P = 2
-X1: 50.85
-2018-04-05 - 2018-05-09
-R = 16
--------------------
-Mobile Phone Shop
-P = 2
-X1: 43.33
-2018-03-30 - 2018-05-18
-R = 16
--------------------
-Bowling Alley
-P = 4
-X1: 38.75
-2018-03-29 - 2018-05-09
-R = 8
+Doctor's Office
+P = 9
+Disputa: 1984.67
+R = 292
 -------------------
 Automotive Shop
-P = 7
-X1: 35.43
-2018-05-18 - 2018-08-24
-R = 6
+P = 10
+Disputa: 1847.52
+R = 272
 -------------------
-Shopping Mall
-P = 7
-X1: 30.85
-2018-04-02 - 2018-05-23
-R = 7
+Grocery Store
+P = 21
+Disputa: 1769.31
+R = 280
 -------------------
 Bookstore
 P = 9
-X1: 27.06
-2018-03-28 - 2018-05-23
-R = 5
+Disputa: 1690.57
+R = 268
 -------------------
-Fast Food Restaurant
-P = 14
-X1: 25.49
-2018-04-03 - 2018-05-18
-R = 4
--------------------
-Clothing Store
-P = 8
-X1: 18.91
-2018-03-26 - 2018-05-23
-R = 4
--------------------
-Doctors Office
-P = 9
-X1: 18.16
-2018-03-31 - 2018-05-18
-R = 3
+Bowling Alley
+P = 7
+Disputa: 1687.01
+R = 297
 -------------------
 Dessert Shop
+P = 11
+Disputa: 1435.83
+R = 261
+-------------------
+Clothing Store
 P = 9
-X1: 14.34
-2018-03-30 - 2018-05-18
+Disputa: 1432.44
+R = 260
+-------------------
+Shopping Mall
+P = 15
+Disputa: 1423.71
+R = 270
+-------------------
+Electronics Store
+P = 6
+Disputa: 1399.9
+R = 194
+-------------------
+Building
+P = 10
+Disputa: 1063.28
+R = 165
+-------------------
+Art Museum
+P = 6
+Disputa: 1046.5
+R = 204
+-------------------
+Comic Shop
+P = 5
+Disputa: 1007.29
+R = 164
+-------------------
+University
+P = 7
+Disputa: 989.34
+R = 132
+-------------------
+Bike Shop
+P = 7
+Disputa: 937.83
+R = 230
+-------------------
+Big Box Store
+P = 10
+Disputa: 904.08
+R = 146
+-------------------
+Emergency Room
+P = 6
+Disputa: 830.42
+R = 128
+-------------------
+Arcade
+P = 3
+Disputa: 610.48
+R = 122
+-------------------
+Dentist's Office
+P = 4
+Disputa: 486.36
+R = 98
+-------------------
+Department Store
+P = 4
+Disputa: 449.71
+R = 68
+-------------------
+Mobile Phone Shop
+P = 8
+Disputa: 383.87
+R = 114
+-------------------
+Bus Stop
+P = 2
+Disputa: 312.57
+R = 78
+-------------------
+Law School
+P = 6
+Disputa: 268.9
+R = 48
+-------------------
+Hospital
+P = 23
+Disputa: 234.34
+R = 39
+-------------------
+Gym
+P = 24
+Disputa: 229.14
+R = 34
+-------------------
+Gas Station
+P = 16
+Disputa: 150.28
+R = 36
+-------------------
+Candy Store
+P = 3
+Disputa: 125.54
+R = 78
+-------------------
+High School
+P = 11
+Disputa: 94.91
+R = 18
+-------------------
+Lake
+P = 12
+Disputa: 63.64
+R = 12
+-------------------
+Hotel
+P = 20
+Disputa: 59.58
+R = 11
+-------------------
+Food Truck
+P = 10
+Disputa: 54.94
+R = 16
+-------------------
+College Auditorium
+P = 2
+Disputa: 54.59
+R = 11
+-------------------
+History Museum
+P = 10
+Disputa: 48.61
+R = 11
+-------------------
+Flower Shop
+P = 10
+Disputa: 46.22
+R = 13
+-------------------
+Auto Dealership
+P = 4
+Disputa: 39.55
+R = 9
+-------------------
+Ice Cream Shop
+P = 9
+Disputa: 35.2
+R = 13
+-------------------
+Frozen Yogurt Shop
+P = 11
+Disputa: 31.17
+R = 11
+-------------------
+Jewelry Store
+P = 7
+Disputa: 27.79
+R = 7
+-------------------
+Library
+P = 10
+Disputa: 24.86
+R = 6
+-------------------
+Hostel
+P = 5
+Disputa: 24.48
+R = 7
+-------------------
+Other Great Outdoors
+P = 3
+Disputa: 17.68
+R = 4
+-------------------
+Fire Station
+P = 3
+Disputa: 15.57
+R = 8
+-------------------
+Residential Building (Apartment / Condo)
+P = 2
+Disputa: 13.96
 R = 3
 -------------------
-Church
-P = 14
-X1: 14.06
-2018-03-20 - 2018-05-09
+Supermarket
+P = 6
+Disputa: 13.03
+R = 3
+-------------------
+Gym / Fitness Center
+P = 3
+Disputa: 9.42
 R = 2
 -------------------
-Pharmacy
-P = 12
-X1: 13.25
-2018-03-31 - 2018-05-18
+Lingerie Store
+P = 4
+Disputa: 5.13
 R = 2
 -------------------
-Bank
-P = 15
-X1: 12.41
-2018-03-23 - 2018-05-09
-R = 2
--------------------
-Bar
-P = 13
-X1: 11.86
-2018-04-06 - 2018-05-09
-R = 2
+Waterfront
+P = 2
+Disputa: 2.83
+R = 1
 -------------------

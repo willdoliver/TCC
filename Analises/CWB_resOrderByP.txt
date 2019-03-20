@@ -1,0 +1,83 @@
+-------------------
+RESULTADOS
+-------------------
+Supermarket
+P = 19
+Trocas: 147.42
+R = 1
+-------------------
+Park
+P = 15
+Trocas: 133.27
+R = 2
+-------------------
+University
+P = 15
+Trocas: 121.75
+R = 3
+-------------------
+Bank
+P = 13
+Trocas: 83.52
+R = 2
+-------------------
+Coffee Shop
+P = 11
+Trocas: 68.6
+R = 0
+-------------------
+Sushi Restaurant
+P = 11
+Trocas: 60.1
+R = 1
+-------------------
+Pub
+P = 9
+Trocas: 56.51
+R = 3
+-------------------
+Ice Cream Shop
+P = 7
+Trocas: 46.37
+R = 5
+-------------------
+Electronics Store
+P = 6
+Trocas: 26.22
+R = 2
+-------------------
+Sports Bar
+P = 5
+Trocas: 25.34
+R = 14
+-------------------
+Bookstore
+P = 4
+Trocas: 20.02
+R = 7
+-------------------
+Pool
+P = 2
+Trocas: 9.95
+R = 1
+-------------------
+Acai House
+P = 2
+Trocas: 6.99
+R = 0
+-------------------
+
+
+Supermarket,147.42
+Park,133.27
+University,121.75
+Bank,83.52
+Coffee Shop,68.6
+Sushi Restaurant,60.1
+Pub,56.51
+Ice Cream Shop,46.37
+Electronics Store,26.22
+Sports Bar,25.34
+Bookstore,20.02
+Pool,9.95
+Acai House,6.99

@@ -1,0 +1,458 @@
+-------------------
+RESULTADOS
+-------------------
+Pharmacy
+P = 12
+Trocas: 5.58
+Disputa: 5.58
+R = 1
+Num locais = 3
+-------------------
+Electronics Store
+P = 6
+Trocas: 4.92
+Disputa: 4.92
+R = 1
+Num locais = 5
+-------------------
+Comic Shop
+P = 4
+Trocas: 4.08
+Disputa: 4.08
+R = 1
+Num locais = 4
+-------------------
+Doctor's Office
+P = 9
+Trocas: 3.81
+Disputa: 3.81
+R = 1
+Num locais = 10
+-------------------
+Law School
+P = 6
+Trocas: 3.58
+Disputa: 3.58
+R = 1
+Num locais = 4
+-------------------
+Residential Building (Apartment / Condo)
+P = 2
+Trocas: 3.3
+Disputa: 3.3
+R = 1
+Num locais = 2
+-------------------
+Arcade
+P = 3
+Trocas: 3.22
+Disputa: 3.22
+R = 1
+Num locais = 3
+-------------------
+Bus Stop
+P = 2
+Trocas: 2.64
+Disputa: 2.64
+R = 1
+Num locais = 2
+-------------------
+Library
+P = 10
+Trocas: 2.08
+Disputa: 2.08
+R = 1
+Num locais = 4
+-------------------
+Flower Shop
+P = 9
+Trocas: 1.1
+Disputa: 1.1
+R = 1
+Num locais = 9
+-------------------
+Waterfront
+P = 2
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 1
+-------------------
+University
+P = 7
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 5
+-------------------
+Supermarket
+P = 6
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 1
+-------------------
+Shopping Mall
+P = 19
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 11
+-------------------
+Restaurant
+P = 47
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 20
+-------------------
+Pier
+P = 2
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 1
+-------------------
+Park
+P = 2
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 1
+-------------------
+Other Great Outdoors
+P = 3
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 1
+-------------------
+Noodle House
+P = 2
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 1
+-------------------
+Mobile Phone Shop
+P = 8
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 7
+-------------------
+Lingerie Store
+P = 4
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 2
+-------------------
+Lake
+P = 12
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 9
+-------------------
+Jewelry Store
+P = 7
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 5
+-------------------
+Ice Cream Shop
+P = 9
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 7
+-------------------
+Hotel
+P = 20
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 16
+-------------------
+Hostel
+P = 5
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 4
+-------------------
+Hospital
+P = 23
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 16
+-------------------
+History Museum
+P = 10
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 6
+-------------------
+High School
+P = 11
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 10
+-------------------
+Gym / Fitness Center
+P = 3
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 2
+-------------------
+Gym
+P = 24
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 14
+-------------------
+Grocery Store
+P = 22
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 15
+-------------------
+Gas Station
+P = 17
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 8
+-------------------
+Fruit & Vegetable Store
+P = 2
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 1
+-------------------
+Frozen Yogurt Shop
+P = 11
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 5
+-------------------
+Fried Chicken Joint
+P = 2
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 1
+-------------------
+Food Truck
+P = 10
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 10
+-------------------
+Food Court
+P = 2
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 2
+-------------------
+Food & Drink Shop
+P = 2
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 1
+-------------------
+Fire Station
+P = 3
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 2
+-------------------
+Emergency Room
+P = 6
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 4
+-------------------
+Donut Shop
+P = 21
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 6
+-------------------
+Dessert Shop
+P = 11
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 9
+-------------------
+Department Store
+P = 4
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 2
+-------------------
+Dentist's Office
+P = 4
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 3
+-------------------
+Cultural Center
+P = 2
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 2
+-------------------
+Convenience Store
+P = 17
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 2
+-------------------
+College Auditorium
+P = 2
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 1
+-------------------
+Coffee Shop
+P = 12
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 3
+-------------------
+Clothing Store
+P = 9
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 8
+-------------------
+Church
+P = 15
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 12
+-------------------
+Chocolate Shop
+P = 2
+Trocas: 0.0
+Disputa: 0.0
+R = 1
+Num locais = 2
+-------------------
+Car Wash
+P = 12
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 8
+-------------------
+Candy Store
+P = 3
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 2
+-------------------
+Building
+P = 10
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 5
+-------------------
+Bowling Alley
+P = 6
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 4
+-------------------
+Bookstore
+P = 9
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 7
+-------------------
+Bike Shop
+P = 7
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 6
+-------------------
+Big Box Store
+P = 10
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 1
+-------------------
+Beach
+P = 21
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 13
+-------------------
+Bar
+P = 15
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 12
+-------------------
+Bank
+P = 25
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 5
+-------------------
+Automotive Shop
+P = 10
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 7
+-------------------
+Auto Dealership
+P = 4
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 2
+-------------------
+Art Museum
+P = 7
+Trocas: 0.0
+Disputa: 0.0
+R = 0
+Num locais = 3
+-------------------

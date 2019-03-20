@@ -9,8 +9,8 @@ from pprint import pprint
 ################################    M A I N    ########################################
 #######################################################################################
 
-# saver = open("curitibaWithName.json", "w")
-# file = open('curitiba.txt', 'r')
+saver = open("saoPauloWithName.json", "w")
+file = open('sao_paulo.txt', 'r')
 
 saver.write('{"all":[')
 saver.write("\n")

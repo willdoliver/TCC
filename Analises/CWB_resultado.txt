@@ -1,0 +1,459 @@
+-------------------
+RESULTADOS
+-------------------
+Restaurant
+Check-ins = 176.0
+Num locais = 41
+-------------------
+Park
+Check-ins = 463.0
+Num locais = 20
+-------------------
+Nightclub
+Check-ins = 317.0
+Num locais = 19
+-------------------
+Pizza Place
+Check-ins = 54.0
+Num locais = 19
+-------------------
+Shopping Mall
+Check-ins = 364.0
+Num locais = 18
+-------------------
+Soccer Field
+Check-ins = 90.0
+Num locais = 18
+-------------------
+Police Station
+Check-ins = 139.0
+Num locais = 16
+-------------------
+Pet Store
+Check-ins = 88.0
+Num locais = 15
+-------------------
+Supermarket
+Check-ins = 202.0
+Num locais = 13
+-------------------
+University
+Check-ins = 353.0
+Num locais = 13
+-------------------
+School
+Check-ins = 241.0
+Num locais = 13
+-------------------
+Dessert Shop
+Check-ins = 101.0
+Num locais = 11
+-------------------
+Gas Station
+Check-ins = 178.0
+Num locais = 11
+-------------------
+Gym
+Check-ins = 182.0
+Num locais = 11
+-------------------
+Spa
+Check-ins = 42.0
+Num locais = 11
+-------------------
+Hospital
+Check-ins = 242.0
+Num locais = 10
+-------------------
+Hotel
+Check-ins = 201.0
+Num locais = 10
+-------------------
+Doctors Office
+Check-ins = 108.0
+Num locais = 10
+-------------------
+High School
+Check-ins = 290.0
+Num locais = 10
+-------------------
+Grocery Store
+Check-ins = 188.0
+Num locais = 10
+-------------------
+Military Base
+Check-ins = 144.0
+Num locais = 10
+-------------------
+Dentists Office
+Check-ins = 80.0
+Num locais = 10
+-------------------
+Bus Stop
+Check-ins = 563.0
+Num locais = 10
+-------------------
+Automotive Shop
+Check-ins = 30.0
+Num locais = 10
+-------------------
+Bar
+Check-ins = 148.0
+Num locais = 9
+-------------------
+Emergency Room
+Check-ins = 281.0
+Num locais = 9
+-------------------
+Church
+Check-ins = 345.0
+Num locais = 9
+-------------------
+Convenience Store
+Check-ins = 135.0
+Num locais = 9
+-------------------
+Soccer Stadium
+Check-ins = 667.0
+Num locais = 8
+-------------------
+Cemetery
+Check-ins = 74.0
+Num locais = 8
+-------------------
+Strip Club
+Check-ins = 10.0
+Num locais = 8
+-------------------
+Pharmacy
+Check-ins = 135.0
+Num locais = 7
+-------------------
+Pub
+Check-ins = 90.0
+Num locais = 7
+-------------------
+Coffee Shop
+Check-ins = 120.0
+Num locais = 7
+-------------------
+Food Truck
+Check-ins = 94.0
+Num locais = 7
+-------------------
+Sports Bar
+Check-ins = 25.0
+Num locais = 7
+-------------------
+Ice Cream Shop
+Check-ins = 146.0
+Num locais = 7
+-------------------
+Playground
+Check-ins = 289.0
+Num locais = 7
+-------------------
+Law School
+Check-ins = 246.0
+Num locais = 7
+-------------------
+Library
+Check-ins = 182.0
+Num locais = 7
+-------------------
+Sushi Restaurant
+Check-ins = 50.0
+Num locais = 6
+-------------------
+Hostel
+Check-ins = 61.0
+Num locais = 6
+-------------------
+Department Store
+Check-ins = 96.0
+Num locais = 6
+-------------------
+Flower Shop
+Check-ins = 146.0
+Num locais = 6
+-------------------
+Smoke Shop
+Check-ins = 55.0
+Num locais = 6
+-------------------
+Bike Shop
+Check-ins = 56.0
+Num locais = 6
+-------------------
+Food & Drink Shop
+Check-ins = 88.0
+Num locais = 6
+-------------------
+Casino
+Check-ins = 96.0
+Num locais = 6
+-------------------
+Electronics Store
+Check-ins = 17.0
+Num locais = 6
+-------------------
+Jewelry Store
+Check-ins = 59.0
+Num locais = 6
+-------------------
+Sandwich Place
+Check-ins = 552.0
+Num locais = 5
+-------------------
+Bank
+Check-ins = 290.0
+Num locais = 5
+-------------------
+Candy Store
+Check-ins = 183.0
+Num locais = 5
+-------------------
+Mobile Phone Shop
+Check-ins = 112.0
+Num locais = 5
+-------------------
+Big Box Store
+Check-ins = 316.0
+Num locais = 4
+-------------------
+Cultural Center
+Check-ins = 286.0
+Num locais = 4
+-------------------
+History Museum
+Check-ins = 334.0
+Num locais = 4
+-------------------
+Eye Doctor
+Check-ins = 36.0
+Num locais = 4
+-------------------
+Driving School
+Check-ins = 125.0
+Num locais = 4
+-------------------
+Bookstore
+Check-ins = 42.0
+Num locais = 4
+-------------------
+Pool
+Check-ins = 50.0
+Num locais = 4
+-------------------
+Post Office
+Check-ins = 341.0
+Num locais = 3
+-------------------
+Gastropub
+Check-ins = 107.0
+Num locais = 3
+-------------------
+Art Museum
+Check-ins = 98.0
+Num locais = 3
+-------------------
+Shopping Plaza
+Check-ins = 98.0
+Num locais = 3
+-------------------
+Market
+Check-ins = 121.0
+Num locais = 3
+-------------------
+Chocolate Shop
+Check-ins = 118.0
+Num locais = 3
+-------------------
+Clothing Store
+Check-ins = 235.0
+Num locais = 3
+-------------------
+Rental Car Location
+Check-ins = 610.0
+Num locais = 3
+-------------------
+Office
+Check-ins = 224.0
+Num locais = 3
+-------------------
+Car Wash
+Check-ins = 96.0
+Num locais = 3
+-------------------
+Health Food Store
+Check-ins = 96.0
+Num locais = 2
+-------------------
+Movie
+Check-ins = 77.0
+Num locais = 2
+-------------------
+Kids Store
+Check-ins = 213.0
+Num locais = 2
+-------------------
+Motel
+Check-ins = 11.0
+Num locais = 2
+-------------------
+Language School
+Check-ins = 22.0
+Num locais = 2
+-------------------
+Beach
+Check-ins = 22.0
+Num locais = 2
+-------------------
+Funeral Home
+Check-ins = 71.0
+Num locais = 2
+-------------------
+Museum
+Check-ins = 0.0
+Num locais = 2
+-------------------
+IT Services
+Check-ins = 0.0
+Num locais = 2
+-------------------
+Pontifice3o
+Check-ins = 139.0
+Num locais = 1
+-------------------
+Viaduto Tudo Paraaado
+Check-ins = 353.0
+Num locais = 1
+-------------------
+Asian Restaurant
+Check-ins = 209.0
+Num locais = 1
+-------------------
+Night Market
+Check-ins = 112.0
+Num locais = 1
+-------------------
+Irish Pub
+Check-ins = 264.0
+Num locais = 1
+-------------------
+Botanical Garden
+Check-ins = 1701.0
+Num locais = 1
+-------------------
+Fish Market
+Check-ins = 440.0
+Num locais = 1
+-------------------
+Airport
+Check-ins = 376.0
+Num locais = 1
+-------------------
+Farmers Market
+Check-ins = 190.0
+Num locais = 1
+-------------------
+Beer Store
+Check-ins = 30.0
+Num locais = 1
+-------------------
+Warehouse Store
+Check-ins = 57.0
+Num locais = 1
+-------------------
+Mediterranean Restaurant
+Check-ins = 50.0
+Num locais = 1
+-------------------
+Acai House
+Check-ins = 32.0
+Num locais = 1
+-------------------
+Movie Theater
+Check-ins = 23.0
+Num locais = 1
+-------------------
+Frozen Yogurt Shop
+Check-ins = 355.0
+Num locais = 1
+-------------------
+General Travel
+Check-ins = 154.0
+Num locais = 1
+-------------------
+Football Stadium
+Check-ins = 144.0
+Num locais = 1
+-------------------
+Social Club
+Check-ins = 108.0
+Num locais = 1
+-------------------
+Comic Shop
+Check-ins = 77.0
+Num locais = 1
+-------------------
+Donut Shop
+Check-ins = 72.0
+Num locais = 1
+-------------------
+Optical Shop
+Check-ins = 71.0
+Num locais = 1
+-------------------
+Fruit & Vegetable Store
+Check-ins = 71.0
+Num locais = 1
+-------------------
+Professional & Other Places
+Check-ins = 39.0
+Num locais = 1
+-------------------
+Arcade
+Check-ins = 5.0
+Num locais = 1
+-------------------
+Taxi
+Check-ins = 12.0
+Num locais = 1
+-------------------
+TV Station
+Check-ins = 8.0
+Num locais = 1
+-------------------
+Tea Room
+Check-ins = 1.0
+Num locais = 1
+-------------------
+Video Game Store
+Check-ins = 0.0
+Num locais = 1
+-------------------
+Resort
+Check-ins = 0.0
+Num locais = 1
+-------------------
+Hot Dog Joint
+Check-ins = 0.0
+Num locais = 1
+-------------------
+Fire Station
+Check-ins = 0.0
+Num locais = 1
+-------------------
+Farm
+Check-ins = 0.0
+Num locais = 1
+-------------------
+Comfort Food Restaurant
+Check-ins = 0.0
+Num locais = 1
+-------------------
+Bowling Alley
+Check-ins = 0.0
+Num locais = 1
+-------------------

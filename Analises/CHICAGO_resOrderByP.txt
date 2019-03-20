@@ -1,171 +1,173 @@
 -------------------
 RESULTADOS
 -------------------
-Bank
-P = 20
-X1: 123.27
-2018-04-05 - 2018-08-24
-R = 2
--------------------
-Fast Food Restaurant
-P = 18
-X1: 114.6
-2018-04-03 - 2018-05-18
+Restaurant
+P = 22
+Trocas: 146.78
 R = 0
 -------------------
-Church
-P = 16
-X1: 112.24
-2018-03-22 - 2018-05-18
+Bank
+P = 20
+Trocas: 123.27
 R = 2
 -------------------
 Hospital
 P = 18
-X1: 87.62
-2018-03-25 - 2018-05-18
+Trocas: 87.62
 R = 0
 -------------------
 Pharmacy
 P = 13
-X1: 86.04
-2018-03-30 - 2018-05-18
+Trocas: 86.04
 R = 2
 -------------------
-Bar
-P = 13
-X1: 77.08
-2018-04-06 - 2018-05-09
-R = 2
--------------------
-Doctors Office
+Doctor's Office
 P = 9
-X1: 54.49
-2018-03-31 - 2018-05-18
+Trocas: 54.49
 R = 3
+-------------------
+Big Box Store
+P = 10
+Trocas: 54.38
+R = 5
 -------------------
 Dessert Shop
 P = 11
-X1: 52.57
-2018-03-30 - 2018-05-18
+Trocas: 52.57
 R = 3
 -------------------
 Bookstore
 P = 9
-X1: 48.74
-2018-03-28 - 2018-05-23
+Trocas: 48.74
 R = 4
 -------------------
 Automotive Shop
 P = 8
-X1: 47.26
-2018-04-06 - 2018-05-18
+Trocas: 47.26
 R = 5
 -------------------
 Shopping Mall
 P = 10
-X1: 45.95
-2018-04-02 - 2018-05-18
+Trocas: 45.95
 R = 0
 -------------------
 Clothing Store
 P = 9
-X1: 42.39
-2018-03-25 - 2018-05-19
+Trocas: 42.39
 R = 0
 -------------------
-Building
-P = 7
-X1: 38.79
-2018-04-05 - 2018-08-23
-R = 10
--------------------
-Bowling Alley
-P = 7
-X1: 33.74
-2018-03-31 - 2018-05-19
-R = 8
+Church
+P = 6
+Trocas: 41.53
+R = 2
 -------------------
 Coffee Shop
 P = 5
-X1: 32.99
-2018-03-27 - 2018-05-19
+Trocas: 32.99
 R = 10
--------------------
-Brazilian Restaurant
-P = 6
-X1: 31.29
-2018-04-03 - 2018-05-23
-R = 0
 -------------------
 Donut Shop
 P = 4
-X1: 26.1
-2018-04-01 - 2018-05-18
+Trocas: 26.1
 R = 7
 -------------------
 Convenience Store
 P = 4
-X1: 24.91
-2018-03-30 - 2018-05-19
+Trocas: 24.91
 R = 4
 -------------------
 Department Store
 P = 4
-X1: 23.42
-2018-03-30 - 2018-05-18
+Trocas: 23.42
+R = 16
+-------------------
+Car Wash
+P = 4
+Trocas: 22.92
+R = 15
+-------------------
+Beach
+P = 4
+Trocas: 22.91
 R = 16
 -------------------
 Mobile Phone Shop
 P = 8
-X1: 21.66
-2018-03-30 - 2018-05-18
+Trocas: 21.66
 R = 0
 -------------------
 Emergency Room
 P = 3
-X1: 17.23
-2018-04-02 - 2018-05-18
+Trocas: 17.23
 R = 16
 -------------------
-Dentists Office
+Dentist's Office
 P = 4
-X1: 16.88
-2018-03-30 - 2018-05-18
+Trocas: 16.88
 R = 16
 -------------------
 Comic Shop
 P = 3
-X1: 15.95
-2018-03-29 - 2018-05-23
+Trocas: 15.95
 R = 9
 -------------------
 Electronics Store
 P = 2
-X1: 12.94
-2018-04-02 - 2018-05-18
+Trocas: 12.94
 R = 16
 -------------------
 Arcade
 P = 3
-X1: 12.57
-2018-04-01 - 2018-05-09
+Trocas: 12.57
 R = 15
 -------------------
 Bike Shop
 P = 3
-X1: 9.53
-2018-03-24 - 2018-05-23
+Trocas: 9.53
 R = 13
 -------------------
 Cultural Center
 P = 2
-X1: 8.32
-2018-03-30 - 2018-05-18
+Trocas: 8.32
 R = 0
 -------------------
 Bus Stop
 P = 2
-X1: 6.36
-2018-04-05 - 2018-05-09
+Trocas: 6.36
 R = 16
 -------------------
+Candy Store
+P = 3
+Trocas: 3.3
+R = 16
+-------------------
+
+
+Restaurant,146.78
+Bank,123.27
+Hospital,87.62
+Pharmacy,86.04
+Doctor's Office,54.49
+Big Box Store,54.38
+Dessert Shop,52.57
+Bookstore,48.74
+Automotive Shop,47.26
+Shopping Mall,45.95
+Clothing Store,42.39
+Church,41.53
+Coffee Shop,32.99
+Donut Shop,26.1
+Convenience Store,24.91
+Department Store,23.42
+Car Wash,22.92
+Beach,22.91
+Mobile Phone Shop,21.66
+Emergency Room,17.23
+Dentist's Office,16.88
+Comic Shop,15.95
+Electronics Store,12.94
+Arcade,12.57
+Bike Shop,9.53
+Cultural Center,8.32
+Bus Stop,6.36
+Candy Store,3.3
