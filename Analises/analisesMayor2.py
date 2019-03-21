@@ -19,10 +19,11 @@ import matplotlib.pyplot as plt
 #######################################################################################
 ################################    M A I N    ########################################
 #######################################################################################
-dates = []
-nome_categ = []
+
+nome_local = []
 results = []
-results.append([])
+# results.append([])
+resultCats = []
 
 
 def remove_repetidos(lista):
@@ -41,17 +42,15 @@ def calc_reaparicao(mayor):
 	if size < 2 :
 		return 0
 
-
+	# Percorre lista de prefeitos
 	for info,value in enumerate(mayor):
 		current = mayor[info]
 
 		aux = 0
 		while (aux <= size-2):
-			# print( str(aux) +' <> '+ str(size) )
 			try:
 				# print(current +' - '+ mayor[aux+2])
-				if (current == mayor[aux+2] and current != mayor[aux+1]):
-					# print( "resultado: " + str(resultado) )
+				if ( current != mayor[info+1] and current in mayor):
 					resultado += 1
 					aux += 1
 					del mayor[0]
@@ -63,71 +62,80 @@ def calc_reaparicao(mayor):
 	return resultado
 
 def analisaDados(arqAnalise,arqSaida):
-	# Loop para coletar categorias unicas
+	# Loop para coletar locais unicas
 	with open('Req200/'+arqAnalise, 'r') as f:
-		print("Analisando categorias...")
+		print("Analisando locais...")
 		data = json.load(f)
 		n = json.dumps(data)
 		o = json.loads(n)
 
-		nome_categ = []
+		nome_local = []
 		for i in o["all"]:
-			nome_categ.append(i["categories"][0]["name"])
-		nome_categ = remove_repetidos(nome_categ)
-		# print(nome_categ)
+			nome_local.append(i["nomeLocal"])
+		nome_local = remove_repetidos(nome_local)
 
+	# Loop para comparar cada local unico com seus correspondentes no JSON
 	with open('Req200/'+arqAnalise, 'r') as f:
 
+		qtde_locais = 0
+		categorias = []
+		
 		data = json.load(f)
 		n = json.dumps(data)
 		o = json.loads(n)
+		control = 0
 
 		print("Analisando JSON...")
-		for cat in nome_categ:
+		# Para cada local distinto
+		for loc in nome_local:
 
-			qtd_dias = 0
 			resultMax = 0
 			trocaMax = 0
 			reapMax = 0
+			trocaPrefs = 0
 			mayors = []
 			total = []
 			people = []
-			nome_local = []
-			locais = 0
+
 
 			for item in o["all"]:
-				# if cat == "Shopping Mall" and item["categories"][0]["name"] == "Shopping Mall":
-				if cat == item["categories"][0]["name"]:
-					if item["nomeLocal"] not in nome_local:
-						nome_local.append(item["nomeLocal"])
-						locais += 1
-					# NAO TEM COMO CALCULAR P E R PARA CATEGORIAS NO GERAL, PREFEITOS NAO SERAO OS MESMOS PRA LOCAIS DISTINTOS
+				# Para cada local do JSON que for do local em questao
+				if loc == item["nomeLocal"]:
+					cat = str(item["categories"][0]["name"])
+					
+					# List com todos os check-ins
 					total.append(item["mayor"]["count"])
 					try:
+						# Todos os prefeitos
 						people.append(item["mayor"]["user"]["id"])
 					except:
 						continue
 
-					for i, v in enumerate(people):
-						try:
-							#print("lista[%s] = %s" % (i, v))
-							mayors.append(v)
-						except:
-							continue
-
+					# Calcula reaparicao
 					reapPrefs = calc_reaparicao(people)
+					# Numero de prefeitos diferentes
 					trocaPrefs = len(list(set(people)))
 
-					checkins = round(sum(total)/locais ,2)
+					# Comparacao para pegar o maior numero de trocas
+					if trocaPrefs > trocaMax:
+						reapMax = reapPrefs
+						trocaMax = trocaPrefs
+
+					# salvar em estrutura diferente
+					# ([categorias][check-ins, qtde_locais])
 						
-					trocas = round(trocaPrefs * (math.log( checkins+1 )),2)
-					disputa = round(reapPrefs * (math.log( checkins+1 )),2)
+					# Calculo de P e R
+					trocas = round(trocaMax * (math.log( sum(total)+1 )),2)
+					disputa = round(reapMax * (math.log( sum(total)+1 )),2)					
 
 				else:
 					continue
 			if trocaPrefs > 0:
-				results.append([locais, trocas, cat, trocaPrefs, disputa, reapPrefs, checkins])
-			
+				# Lista de saida para locais
+				results.append([trocaMax, trocas, loc, disputa, reapMax, sum(total), cat])
+				# resultCats.append([qtde_locais, categorias, sum(total)])
+		control += 1
+		print(control)
 
 	arq = open(arqSaida+'.txt', 'w')
 	print("Escrevendo saida arquivo: "+ arqSaida+'.txt')
@@ -142,34 +150,58 @@ def analisaDados(arqAnalise,arqSaida):
 	for res in results:
 		# arq.write(res[])
 		try:
-			arq.write(res[2]) # Categoria
+			arq.write(str(res[2]) + ' - ' + str(res[6])) # Local
 			arq.write("\n")
-			# arq.write( "P = " + str( res[2]) ) # quantidade de trocas
-			# arq.write("\n")
-			arq.write( "Check-ins = " + str( res[6]) ) # quantidade de check-ins por categoria
+			arq.write( "P = " + str( res[1]) ) # quantidade de trocas
 			arq.write("\n")
-			# arq.write( "Trocas: " + str(res[0]) ) # ResultMax - numero maximo para o periodo calculado
-			# arq.write("\n")
-			# arq.write( "Disputa: " + str(res[3]) )
-			# arq.write("\n")
-			# arq.write( "R = " + str(res[4]) ) # numero de reaparicoes
-			# arq.write("\n")
-			arq.write( "Num locais = " + str(res[0]) ) # numero de reaparicoes
+			arq.write( "Trocas: " + str(res[3]) ) # Calculo da formula para P
+			arq.write("\n")
+			arq.write( "R = " + str(res[0]) ) # quantidade de reaparicoes
+			arq.write("\n")
+			arq.write( "Disputa: " + str(res[4]) ) # Calculo da formula para R
+			arq.write("\n")
+			arq.write( "Check-ins = " + str(res[5]) ) # numero de reaparicoes
 			arq.write("\n")
 			arq.write("-------------------")
 			arq.write("\n")
 		except:
 			pass
 	arq.close()
-	print("Fim arquivo " + arqAnalise + '\n\n')
 
+	# arqCat = open(arqSaida+'Cat.txt', 'w')
+	# print("Escrevendo saida arquivo: "+ arqSaida+'Cat.txt')
+	# arqCat.write("-------------------")
+	# arqCat.write("\n")
+	# arqCat.write("RESULTADOS")
+	# arqCat.write("\n")
+	# arqCat.write("-------------------")
+	# arqCat.write("\n")
+	# results.sort(reverse=True)
+
+	# for res in resultCats:
+	# 	try:
+	# 		arqCat.write(res[1]) # Categoria
+	# 		arqCat.write("\n")
+	# 		arqCat.write( "Qtde Locais = " + str( res[0]) ) # quantidade de locais da categoria
+	# 		arqCat.write("\n")
+	# 		arqCat.write( "Total Check-ins = " + str(res[3]) ) # Calculo da formula para P
+	# 		arqCat.write("\n")
+	# 		arqCat.write( "Media = " + str(res[2]) ) # quantidade de reaparicoes
+	# 		arqCat.write("\n")
+	# 		arqCat.write("-------------------")
+	# 		arqCat.write("\n")
+	# 	except:
+	# 		pass
+	# arqCat.close()
+	# print(categorias)
+	print("Fim arquivo " + arqAnalise + '\n\n')
 
 
 def main():
 
-	analisaDados('curitibaWithName.json', 'CWB_resultado')
-	# analisaDados('chicagoWithName.json', 'CHICAGO_resOrderBy')
-	# analisaDados('spShort.json', 'SP_resOrderBy')
+	# analisaDados('curitibaWithName.json', 'CWB_resultado')
+	# analisaDados('chicagoWithName.json', 'CHICAGO_resultado')
+	analisaDados('saoPauloWithName.json', 'SP_resultado')
 	
 
 if __name__ == '__main__':
