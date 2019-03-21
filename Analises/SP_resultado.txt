@@ -1,0 +1,1312 @@
+-------------------
+RESULTADOS
+-------------------
+Bar Brahma - Tea Room
+P = 18.48
+Trocas: 30.8
+R = 3
+Disputa: 5
+Check-ins = 472
+-------------------
+Rei Das Batidas - Tea Room
+P = 13.82
+Trocas: 27.63
+R = 3
+Disputa: 6
+Check-ins = 99
+-------------------
+Shopping Eldorado - Tea Room
+P = 7.92
+Trocas: 7.92
+R = 3
+Disputa: 3
+Check-ins = 13
+-------------------
+Aeroporto Campo De Marte Mae - Tea Room
+P = 18.87
+Trocas: 9.44
+R = 2
+Disputa: 1
+Check-ins = 12549
+-------------------
+Starbucks - Tea Room
+P = 14.39
+Trocas: 7.19
+R = 2
+Disputa: 1
+Check-ins = 1331
+-------------------
+Violeta Bar Restaurante - Tea Room
+P = 13.78
+Trocas: 6.89
+R = 2
+Disputa: 1
+Check-ins = 981
+-------------------
+Galeria Trianon - Tea Room
+P = 13.4
+Trocas: 6.7
+R = 2
+Disputa: 1
+Check-ins = 813
+-------------------
+Canonicalurl': U'Https: - Tea Room
+P = 13.35
+Trocas: 6.68
+R = 2
+Disputa: 1
+Check-ins = 793
+-------------------
+Prainha Paulista - Tea Room
+P = 13.16
+Trocas: 6.58
+R = 2
+Disputa: 1
+Check-ins = 720
+-------------------
+Bh Lanches - Tea Room
+P = 13.1
+Trocas: 6.55
+R = 2
+Disputa: 1
+Check-ins = 698
+-------------------
+Veloso Bar - Tea Room
+P = 12.32
+Trocas: 6.16
+R = 2
+Disputa: 1
+Check-ins = 472
+-------------------
+Renascer Hall - Tea Room
+P = 12.05
+Trocas: 6.03
+R = 2
+Disputa: 1
+Check-ins = 413
+-------------------
+Igreja Metodista Em Campo Belo - Tea Room
+P = 11.63
+Trocas: 5.81
+R = 2
+Disputa: 1
+Check-ins = 334
+-------------------
+Ibotirama - Tea Room
+P = 11.22
+Trocas: 5.61
+R = 2
+Disputa: 1
+Check-ins = 272
+-------------------
+Salve Jorge - Tea Room
+P = 10.89
+Trocas: 5.45
+R = 2
+Disputa: 1
+Check-ins = 231
+-------------------
+Bar Mooca - Tea Room
+P = 10.73
+Trocas: 5.37
+R = 2
+Disputa: 1
+Check-ins = 213
+-------------------
+Smart Fit - Tea Room
+P = 10.26
+Trocas: 5.13
+R = 2
+Disputa: 1
+Check-ins = 168
+-------------------
+Rainha Do Morumbi - Tea Room
+P = 9.99
+Trocas: 5.0
+R = 2
+Disputa: 1
+Check-ins = 147
+-------------------
+Soda Pop Bar - Tea Room
+P = 9.49
+Trocas: 4.74
+R = 2
+Disputa: 1
+Check-ins = 114
+-------------------
+Bar Do Ghassan - Tea Room
+P = 9.49
+Trocas: 4.74
+R = 2
+Disputa: 1
+Check-ins = 114
+-------------------
+Universidade Anhembi Morumbi - Tea Room
+P = 9.15
+Trocas: 4.57
+R = 2
+Disputa: 1
+Check-ins = 96
+-------------------
+Paribar - Tea Room
+P = 9.07
+Trocas: 4.53
+R = 2
+Disputa: 1
+Check-ins = 92
+-------------------
+Bebo Sim - Tea Room
+P = 8.74
+Trocas: 4.37
+R = 2
+Disputa: 1
+Check-ins = 78
+-------------------
+Deck Lounge Bar - Tea Room
+P = 8.53
+Trocas: 4.26
+R = 2
+Disputa: 1
+Check-ins = 70
+-------------------
+Futebol Pizza Bar - Tea Room
+P = 8.44
+Trocas: 4.22
+R = 2
+Disputa: 1
+Check-ins = 67
+-------------------
+Ilha Das Flores - Tea Room
+P = 8.41
+Trocas: 4.2
+R = 2
+Disputa: 1
+Check-ins = 66
+-------------------
+Senzala Bar Grill - Tea Room
+P = 8.05
+Trocas: 4.03
+R = 2
+Disputa: 1
+Check-ins = 55
+-------------------
+Boteco Todos Os Santos - Tea Room
+P = 8.05
+Trocas: 4.03
+R = 2
+Disputa: 1
+Check-ins = 55
+-------------------
+Mr Cult - Tea Room
+P = 8.01
+Trocas: 4.01
+R = 2
+Disputa: 1
+Check-ins = 54
+-------------------
+Boteco Prato Do Dia - Tea Room
+P = 7.61
+Trocas: 3.81
+R = 2
+Disputa: 1
+Check-ins = 44
+-------------------
+Igreja Nossa Senhora De Monte Serrat - Tea Room
+P = 7.57
+Trocas: 3.78
+R = 2
+Disputa: 1
+Check-ins = 43
+-------------------
+Padoca Dos Brother - Tea Room
+P = 7.52
+Trocas: 3.76
+R = 2
+Disputa: 1
+Check-ins = 42
+-------------------
+Retiro Do Chopp - Tea Room
+P = 7.38
+Trocas: 3.69
+R = 2
+Disputa: 1
+Check-ins = 39
+-------------------
+Coffee Lab - Tea Room
+P = 6.36
+Trocas: 3.18
+R = 2
+Disputa: 1
+Check-ins = 23
+-------------------
+Top Center Shopping - Tea Room
+P = 6.09
+Trocas: 3.04
+R = 2
+Disputa: 1
+Check-ins = 20
+-------------------
+Igreja Santo Antonio Do Pari - Tea Room
+P = 5.42
+Trocas: 2.71
+R = 2
+Disputa: 1
+Check-ins = 14
+-------------------
+Fidelis - Tea Room
+P = 7.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 1100
+-------------------
+Bola De Neve - Tea Room
+P = 6.52
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 677
+-------------------
+Posto 6 - Tea Room
+P = 6.48
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 648
+-------------------
+Coffee Corner - Tea Room
+P = 6.44
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 623
+-------------------
+Drosophyla Bar - Tea Room
+P = 6.42
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 612
+-------------------
+Bar Aurora - Tea Room
+P = 6.35
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 573
+-------------------
+Samaro Ii - Tea Room
+P = 6.14
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 463
+-------------------
+Bar Da Esquina Da Olga - Tea Room
+P = 5.96
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 385
+-------------------
+Bella Augusta - Tea Room
+P = 5.76
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 316
+-------------------
+Villa Caetanos - Tea Room
+P = 5.72
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 305
+-------------------
+Sweet Parada Tia Da Pinga - Tea Room
+P = 5.72
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 304
+-------------------
+Mattos Restaurante - Tea Room
+P = 5.69
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 296
+-------------------
+Garoa Paulista - Tea Room
+P = 5.66
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 287
+-------------------
+Loirassa Bar - Tea Room
+P = 5.48
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 240
+-------------------
+The 70 Years Bar - Tea Room
+P = 5.4
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 220
+-------------------
+Bar Do Skenta - Tea Room
+P = 5.4
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 220
+-------------------
+Bar Tantan - Tea Room
+P = 5.12
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 166
+-------------------
+Platibanda - Tea Room
+P = 5.04
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 153
+-------------------
+Bar Do Sacha - Tea Room
+P = 4.96
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 141
+-------------------
+Aperitivos Valadares - Tea Room
+P = 4.82
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 123
+-------------------
+Aeropuerto Internacional Sao Paulo - Tea Room
+P = 4.73
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 112
+-------------------
+Universidade Presbiteriana Mackenzie - Tea Room
+P = 4.71
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 110
+-------------------
+Laricas Bar E Lanches - Tea Room
+P = 4.71
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 110
+-------------------
+Igreja Batista Da Liberdade - Tea Room
+P = 4.64
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 103
+-------------------
+Papo Pinga E Petisco - Tea Room
+P = 4.63
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 102
+-------------------
+Humanas Academia - Tea Room
+P = 4.44
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 84
+-------------------
+Clube Das Artes - Tea Room
+P = 4.23
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 68
+-------------------
+Aeromexico - Tea Room
+P = 4.06
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 57
+-------------------
+Torre De Controle - Tea Room
+P = 4.04
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 56
+-------------------
+Na%C3%Afve - Tea Room
+P = 4.03
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 55
+-------------------
+Caiubier - Tea Room
+P = 4.03
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 55
+-------------------
+Amigos Da Costela - Tea Room
+P = 4.03
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 55
+-------------------
+Rota Norte - Tea Room
+P = 4.01
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 54
+-------------------
+Ebusiness Park - Tea Room
+P = 4.01
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 54
+-------------------
+Bar Do Rasta - Tea Room
+P = 3.99
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 53
+-------------------
+Pucsp - Tea Room
+P = 3.97
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 52
+-------------------
+Valadares - Tea Room
+P = 3.95
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 51
+-------------------
+Rua Platina190 - Tea Room
+P = 3.93
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 50
+-------------------
+Igreja Evangelica Assembleia De Deus Vnc - Tea Room
+P = 3.93
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 50
+-------------------
+Limited Funchal - Tea Room
+P = 3.83
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 45
+-------------------
+Curso Borges Cpb - Tea Room
+P = 3.78
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 43
+-------------------
+Shopping Frei Caneca - Tea Room
+P = 3.58
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 35
+-------------------
+Sp Up Academia - Tea Room
+P = 3.5
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 32
+-------------------
+Santana Parque Shopping - Tea Room
+P = 3.5
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 32
+-------------------
+Holiday Inn - Tea Room
+P = 3.5
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 32
+-------------------
+Centro Cultural Banco Do Brasil Ccbb - Tea Room
+P = 3.5
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 32
+-------------------
+Bodytech - Tea Room
+P = 3.47
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 31
+-------------------
+Ac Camargo Cancer Center - Tea Room
+P = 3.43
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 30
+-------------------
+Shopping Center Norte - Tea Room
+P = 3.37
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 28
+-------------------
+Companhia Athletica - Tea Room
+P = 3.3
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 26
+-------------------
+Hospital Nove De Julho - Tea Room
+P = 3.14
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 22
+-------------------
+Triathon Academia - Tea Room
+P = 3.04
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 20
+-------------------
+Hospital Santa Catarina - Tea Room
+P = 3.04
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 20
+-------------------
+Hospital Professor Edmundo Vasconcelos - Tea Room
+P = 3.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 19
+-------------------
+Red Fitness - Tea Room
+P = 2.94
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 18
+-------------------
+First Academia - Tea Room
+P = 2.89
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 17
+-------------------
+Fitsport - Tea Room
+P = 2.77
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 15
+-------------------
+Shopping Iguatemi - Tea Room
+P = 2.71
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 14
+-------------------
+Shopping Center 3 - Tea Room
+P = 2.71
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 14
+-------------------
+Brascan Open Mall - Tea Room
+P = 2.71
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 14
+-------------------
+Livraria Da Vila - Tea Room
+P = 2.56
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 12
+-------------------
+Igreja Nossa Senhora Do Monte Serrat - Tea Room
+P = 2.4
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 10
+-------------------
+Instituto De Medicina Tropical Imt - Tea Room
+P = 2.3
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 9
+-------------------
+Ibis Budget - Tea Room
+P = 2.3
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 9
+-------------------
+Pernambucanas - Tea Room
+P = 2.2
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 8
+-------------------
+Munik Chocolates - Tea Room
+P = 2.2
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 8
+-------------------
+Academia Sp Fit - Tea Room
+P = 2.2
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 8
+-------------------
+Cultura Inglesa - Tea Room
+P = 2.08
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 7
+-------------------
+Century Sports Academia - Tea Room
+P = 2.08
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 7
+-------------------
+Youpix Office - Tea Room
+P = 1.95
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 6
+-------------------
+Villagio Olimpia - Tea Room
+P = 1.95
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 6
+-------------------
+Universal Studies Planet Holiday - Tea Room
+P = 1.95
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 6
+-------------------
+Rei Do Mate - Tea Room
+P = 1.95
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 6
+-------------------
+Hospital Ipiranga - Tea Room
+P = 1.95
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 6
+-------------------
+The Universe - Tea Room
+P = 1.79
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 5
+-------------------
+Rwhite Fitness Wellness - Tea Room
+P = 1.79
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 5
+-------------------
+Mix Potato - Tea Room
+P = 1.79
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 5
+-------------------
+Hotel Caesar Business - Tea Room
+P = 1.79
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 5
+-------------------
+Challenges Idiomas - Tea Room
+P = 1.79
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 5
+-------------------
+Berlitz - Tea Room
+P = 1.79
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 5
+-------------------
+Sigbol Fashion - Tea Room
+P = 1.61
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 4
+-------------------
+Ic Instituto Central Hcfmusp - Tea Room
+P = 1.61
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 4
+-------------------
+Bravo Ballet - Tea Room
+P = 1.61
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 4
+-------------------
+Xploud Academia - Tea Room
+P = 1.39
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 3
+-------------------
+Ritz - Tea Room
+P = 1.39
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 3
+-------------------
+Lojas Americanas - Tea Room
+P = 1.39
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 3
+-------------------
+Hospital Presidente - Tea Room
+P = 1.39
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 3
+-------------------
+Gimba Restaurante E Chopperia - Tea Room
+P = 1.39
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 3
+-------------------
+Colegio Passalacqua - Tea Room
+P = 1.39
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 3
+-------------------
+Colegio Dom Bosco Sta Ines - Tea Room
+P = 1.39
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 3
+-------------------
+Z Carniceria - Tea Room
+P = 1.1
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 2
+-------------------
+Thisishome - Tea Room
+P = 1.1
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 2
+-------------------
+Saudade - Tea Room
+P = 1.1
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 2
+-------------------
+Meggashop - Tea Room
+P = 1.1
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 2
+-------------------
+Leques Brasil Hotel Escola - Tea Room
+P = 1.1
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 2
+-------------------
+Id Academia - Tea Room
+P = 1.1
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 2
+-------------------
+Hospital Santa Isabel - Tea Room
+P = 1.1
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 2
+-------------------
+Hospital Cema - Tea Room
+P = 1.1
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 2
+-------------------
+Gran Estanconfor Itaim - Tea Room
+P = 1.1
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 2
+-------------------
+Golden Grill Pizza - Tea Room
+P = 1.1
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 2
+-------------------
+Fit Stadium - Tea Room
+P = 1.1
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 2
+-------------------
+Cultura Inglesa Sede - Tea Room
+P = 1.1
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 2
+-------------------
+Comfort Nova Paulista - Tea Room
+P = 1.1
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 2
+-------------------
+Chez Oscar - Tea Room
+P = 1.1
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 2
+-------------------
+Bourbon Shopping - Tea Room
+P = 1.1
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 2
+-------------------
+Academia Movimentos Art Sport Center - Tea Room
+P = 1.1
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 2
+-------------------
+Prive Cidade Jardim - Tea Room
+P = 0.69
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 1
+-------------------
+Just Fit - Tea Room
+P = 0.69
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 1
+-------------------
+Josephine - Tea Room
+P = 0.69
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 1
+-------------------
+Hospital Metropolitano - Tea Room
+P = 0.69
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 1
+-------------------
+Fitseven Academia - Tea Room
+P = 0.69
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 1
+-------------------
+Cultura Inglesa Mooca - Tea Room
+P = 0.69
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 1
+-------------------
+Cinearte - Tea Room
+P = 0.69
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 1
+-------------------
+Central De Concursos - Tea Room
+P = 0.69
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 1
+-------------------
+Auto Escola Santana - Tea Room
+P = 0.69
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 1
+-------------------
+Auto Escola Flash - Tea Room
+P = 0.69
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 1
+-------------------
+Snt Zona Norte - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Santo Cristo Bar - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Runner - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Primeira Igreja Batista Da Lapa - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+O Frei Bar - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Museu Da Imagem E Do Som Mis - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Mooca Plaza Shopping - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Missa No Bresser Alianca De Misericordia - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Manguinha Gastrobar - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Mack Bar - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Lanchonete Cuca Ideal - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Johnnie Wash - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Jangadeiro - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Instituto Hoc De Hemoterapia - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Igreja Renascer Em Cristo Moema - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Hotel Stela - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Hotel Mega Polo - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Hospital E Maternidade Metropolitano - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Hangar Fontoura - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Galeria Korai - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Frederico Petiscos - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Etapa - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Espro - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Double Deck - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Destak Fitness Academia - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Convento E Pensionato Maria Imaculada - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Comschool - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Castelinho Beer - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Casa Electrolux - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Bar Real - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Bar Favela Da Vila - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Bar Do Chagas - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Americanas Express - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Amarelinho Beer - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------
+Aj Mm - Tea Room
+P = 0.0
+Trocas: 0.0
+R = 1
+Disputa: 0
+Check-ins = 0
+-------------------

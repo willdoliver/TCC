@@ -101,8 +101,7 @@ def analisaDados(arqAnalise,arqSaida):
 			for item in o["all"]:
 				# Para cada local do JSON que for do local em questao
 				if loc == item["nomeLocal"]:
-					cat = str(item["categories"][0]["name"])
-					
+										
 					# List com todos os check-ins
 					total.append(item["mayor"]["count"])
 					try:
@@ -132,7 +131,7 @@ def analisaDados(arqAnalise,arqSaida):
 					continue
 			if trocaPrefs > 0:
 				# Lista de saida para locais
-				results.append([trocaMax, trocas, loc, disputa, reapMax, sum(total), cat])
+				results.append([trocaMax, trocas, loc, disputa, reapMax, sum(total), item["categories"][0]["name"]])
 				# resultCats.append([qtde_locais, categorias, sum(total)])
 		control += 1
 		print(control)
