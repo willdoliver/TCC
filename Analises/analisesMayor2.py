@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #import matplotlib.pyplot as plt
-import os,re
+import os,re,sys
 import json
 import math
 from pprint import pprint
@@ -61,6 +61,32 @@ def calc_reaparicao(mayor):
 
 	return resultado
 
+def calc_pref(mayor,cat):
+	size = len(mayor)
+	resultado = 0
+
+	if cat.encode('utf-8') == 'Parkshoppingbarigui':
+		print(mayor)
+		print(size)
+
+
+	if size == 1:
+		return 0
+	
+	for info,value in enumerate(mayor):
+		current = mayor[info]
+		# if cat.encode('utf-8') == 'Universidade Tecnológica Federal Do Paraná Utfpr':
+		# 	print(current)
+		# 	print(resultado)
+
+		try:
+			if current != mayor[info+1]:
+				resultado += 1
+		except:
+			continue
+	return resultado
+
+
 def analisaDados(arqAnalise,arqSaida):
 	# Loop para coletar locais unicas
 	with open('Req200/'+arqAnalise, 'r') as f:
@@ -83,7 +109,6 @@ def analisaDados(arqAnalise,arqSaida):
 		data = json.load(f)
 		n = json.dumps(data)
 		o = json.loads(n)
-		control = 0
 
 		print("Analisando JSON...")
 		# Para cada local distinto
@@ -101,40 +126,46 @@ def analisaDados(arqAnalise,arqSaida):
 			for item in o["all"]:
 				# Para cada local do JSON que for do local em questao
 				if loc == item["nomeLocal"]:
-										
+					cat = item["categories"][0]["name"].encode('utf-8')	
+
 					# List com todos os check-ins
 					total.append(item["mayor"]["count"])
+
 					try:
 						# Todos os prefeitos
 						people.append(item["mayor"]["user"]["id"])
 					except:
 						continue
 
-					# Calcula reaparicao
-					reapPrefs = calc_reaparicao(people)
-					# Numero de prefeitos diferentes
-					trocaPrefs = len(list(set(people)))
-
-					# Comparacao para pegar o maior numero de trocas
-					if trocaPrefs > trocaMax:
-						reapMax = reapPrefs
-						trocaMax = trocaPrefs
-
-					# salvar em estrutura diferente
-					# ([categorias][check-ins, qtde_locais])
-						
-					# Calculo de P e R
-					trocas = round(trocaMax * (math.log( sum(total)+1 )),2)
-					disputa = round(reapMax * (math.log( sum(total)+1 )),2)					
-
 				else:
 					continue
-			if trocaPrefs > 0:
+								
+			if len(people) > 1:
+
+				#--------------------------------------------------------------
+				# CHECKINS PARA MESMO LOCAL NO MESMO DIA, PEGAR MAIOR COUNT
+				# DESCARTAR OS OUTROS
+				#--------------------------------------------------------------
+				
+
+				# Numero de prefeitos diferentes
+				if loc.encode('utf-8') == 'Parkshoppingbarigui':
+					print(people)
+					print(len(people))
+					print('funcao--------')
+				trocaPrefs = calc_pref(people,loc)
+				# Calcula reaparicao
+				# reapPrefs = calc_reaparicao(people)
+				reapPrefs = 0
+					
+				# Calculo de P e R
+				trocas = round(trocaPrefs * (math.log( sum(total)+1 )),2)
+				# disputa = round(reapPrefs * (math.log( sum(total)+1 )),2)		
+				disputa = 0
+
 				# Lista de saida para locais
-				results.append([trocaMax, trocas, loc, disputa, reapMax, sum(total), item["categories"][0]["name"]])
+				results.append([trocas, trocaPrefs, loc, disputa, reapPrefs, sum(total), cat])
 				# resultCats.append([qtde_locais, categorias, sum(total)])
-		control += 1
-		print(control)
 
 	arq = open(arqSaida+'.txt', 'w')
 	print("Escrevendo saida arquivo: "+ arqSaida+'.txt')
@@ -149,21 +180,24 @@ def analisaDados(arqAnalise,arqSaida):
 	for res in results:
 		# arq.write(res[])
 		try:
-			arq.write(str(res[2]) + ' - ' + str(res[6])) # Local
+			arq.write(str(res[2].encode('utf-8')) + ' - ' + str(res[6])) # Local
 			arq.write("\n")
 			arq.write( "P = " + str( res[1]) ) # quantidade de trocas
 			arq.write("\n")
-			arq.write( "Trocas: " + str(res[3]) ) # Calculo da formula para P
+			arq.write( "Trocas: " + str(res[0]) ) # Calculo da formula para P
 			arq.write("\n")
-			arq.write( "R = " + str(res[0]) ) # quantidade de reaparicoes
+			arq.write( "R = " + str(res[4]) ) # quantidade de reaparicoes
 			arq.write("\n")
-			arq.write( "Disputa: " + str(res[4]) ) # Calculo da formula para R
+			arq.write( "Disputa: " + str(res[3]) ) # Calculo da formula para R
 			arq.write("\n")
 			arq.write( "Check-ins = " + str(res[5]) ) # numero de reaparicoes
 			arq.write("\n")
 			arq.write("-------------------")
 			arq.write("\n")
 		except:
+			print('ERROOOOOOOOOOOOOOOO')
+			print(res)
+			exit(0)
 			pass
 	arq.close()
 
@@ -198,9 +232,9 @@ def analisaDados(arqAnalise,arqSaida):
 
 def main():
 
-	# analisaDados('curitibaWithName.json', 'CWB_resultado')
+	analisaDados('curitibaWithName.json', 'CWB_resultado')
 	# analisaDados('chicagoWithName.json', 'CHICAGO_resultado')
-	analisaDados('saoPauloWithName.json', 'SP_resultado')
+	# analisaDados('saoPauloWithName.json', 'SP_resultado')
 	
 
 if __name__ == '__main__':
