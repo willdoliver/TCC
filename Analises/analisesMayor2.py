@@ -22,7 +22,6 @@ import matplotlib.pyplot as plt
 
 nome_local = []
 results = []
-# results.append([])
 resultCats = []
 
 
@@ -65,9 +64,9 @@ def calc_pref(mayor,cat):
 	size = len(mayor)
 	resultado = 0
 
-	if cat.encode('utf-8') == 'Parkshoppingbarigui':
-		print(mayor)
-		print(size)
+	# if cat.encode('utf-8') == 'Parkshoppingbarigui':
+		# print(mayor)
+		# print(size)
 
 
 	if size == 1:
@@ -86,6 +85,8 @@ def calc_pref(mayor,cat):
 			continue
 	return resultado
 
+def sortSecond(val): 
+    return val[2]
 
 def analisaDados(arqAnalise,arqSaida):
 	# Loop para coletar locais unicas
@@ -112,74 +113,83 @@ def analisaDados(arqAnalise,arqSaida):
 
 		print("Analisando JSON...")
 		# Para cada local distinto
+		saida = []
 		for loc in nome_local:
-
+			# print(loc)
 			resultMax = 0
 			trocaMax = 0
 			reapMax = 0
 			trocaPrefs = 0
+			tot = 0
+			peo = 0
 			mayors = []
 			total = []
 			people = []
-
+			struct = []
 
 			for item in o["all"]:
 				# Para cada local do JSON que for do local em questao
 				if loc == item["nomeLocal"]:
+
 					cat = item["categories"][0]["name"].encode('utf-8')	
-
-					# List com todos os check-ins
-					total.append(item["mayor"]["count"])
-
+					tot = item["mayor"]["count"]
+					data_atual = item["data consulta"]
 					try:
-						# Todos os prefeitos
-						people.append(item["mayor"]["user"]["id"])
+						peo = item["mayor"]["user"]["id"]
 					except:
-						continue
+						peo = '0'
 
+					struct.append([data_atual, cat, tot, peo, loc.encode('utf-8')])
+
+			struct.sort(reverse=True, key=sortSecond)
+			
+			day_done=[]
+			for s in struct:		
+				if s[0] in day_done:
+					continue
+				else:
+					day_done.append(str(s[0]))				
+					# print(str(day_done) + ' - ' + str(total))
+					results.append([s[0], s[1], s[2], s[3], s[4]])
+
+			del struct[:]
+			del day_done[:]
+
+			results.sort()
+			# results possui o maior valor de check-ins para cada data
+			for r in results:
+				if loc.encode('utf-8') == r[4]:
+				# if r[4] == 'Parkshoppingbarigui':
+					# print(r)
+					people.append(r[3])
+					total.append(r[2])
 				else:
 					continue
-								
-			if len(people) > 1:
+			trocaPrefs = calc_pref(people,loc)
+			# Calcula reaparicao
+			reapPrefs = calc_reaparicao(people)
 
-				#--------------------------------------------------------------
-				# CHECKINS PARA MESMO LOCAL NO MESMO DIA, PEGAR MAIOR COUNT
-				# DESCARTAR OS OUTROS
-				#--------------------------------------------------------------
-				
+						
+			# Calculo de P e R
+			trocas = round(trocaPrefs * (math.log( sum(total)+1 )),2)
+			disputa = round(reapPrefs * (math.log( sum(total)+1 )),2)		
 
-				# Numero de prefeitos diferentes
-				if loc.encode('utf-8') == 'Parkshoppingbarigui':
-					print(people)
-					print(len(people))
-					print('funcao--------')
-				trocaPrefs = calc_pref(people,loc)
-				# Calcula reaparicao
-				# reapPrefs = calc_reaparicao(people)
-				reapPrefs = 0
-					
-				# Calculo de P e R
-				trocas = round(trocaPrefs * (math.log( sum(total)+1 )),2)
-				# disputa = round(reapPrefs * (math.log( sum(total)+1 )),2)		
-				disputa = 0
+			# Lista de saida para locais
+			saida.append([trocas, trocaPrefs, loc, disputa, reapPrefs, sum(total), cat])
+			# resultCats.append([qtde_locais, categorias, sum(total)])
+		# print(saida)
+		# exit(0)
+		arq = open(arqSaida+'.txt', 'w')
+		print("Escrevendo saida arquivo: "+ arqSaida+'.txt')
+		arq.write("-------------------")
+		arq.write("\n")
+		arq.write("RESULTADOS")
+		arq.write("\n")
+		arq.write("-------------------")
+		arq.write("\n")
+		results.sort(reverse=True)
 
-				# Lista de saida para locais
-				results.append([trocas, trocaPrefs, loc, disputa, reapPrefs, sum(total), cat])
-				# resultCats.append([qtde_locais, categorias, sum(total)])
-
-	arq = open(arqSaida+'.txt', 'w')
-	print("Escrevendo saida arquivo: "+ arqSaida+'.txt')
-	arq.write("-------------------")
-	arq.write("\n")
-	arq.write("RESULTADOS")
-	arq.write("\n")
-	arq.write("-------------------")
-	arq.write("\n")
-	results.sort(reverse=True)
-
-	for res in results:
-		# arq.write(res[])
-		try:
+		for res in saida:
 			arq.write(str(res[2].encode('utf-8')) + ' - ' + str(res[6])) # Local
 			arq.write("\n")
 			arq.write( "P = " + str( res[1]) ) # quantidade de trocas
@@ -194,13 +204,9 @@ def analisaDados(arqAnalise,arqSaida):
 			arq.write("\n")
 			arq.write("-------------------")
 			arq.write("\n")
-		except:
-			print('ERROOOOOOOOOOOOOOOO')
-			print(res)
-			exit(0)
-			pass
-	arq.close()
 
+		arq.close()
+		exit(0)
 	# arqCat = open(arqSaida+'Cat.txt', 'w')
 	# print("Escrevendo saida arquivo: "+ arqSaida+'Cat.txt')
 	# arqCat.write("-------------------")
