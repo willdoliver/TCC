@@ -1,0 +1,45 @@
+--------------------------
+RESULTADOS POR CATEGORIA
+--------------------------
+112.0,Arcade
+90.0,Bar
+89.0,Bookstore
+84.5,Art Museum
+78.0,Building
+76.0,Burger Joint
+74.0,Business Center
+73.0,Café
+67.5,Church
+64.5,Coffee Shop
+64.0,College Gym
+60.5,Cultural Center
+57.0,Airport
+55.0,General Entertainment
+55.0,Gay Bar
+55.0,Furniture / Home Store
+55.0,Driving School
+55.0,Department Store
+50.0,Gym
+44.0,Gym / Fitness Center
+41.0,Gymnastics Gym
+39.0,Home (private)
+30.5,AeroMexico
+19.0,Hospital
+15.0,Office
+15.0,Hotel
+14.5,Pizza Place
+14.5,Medical Center
+14.5,Indie Movie Theater
+14.0,Restaurant
+14.0,Residential Building (Apartment / Condo)
+14.0,Private School
+14.0,Music Venue
+14.0,Language School
+10.5,University
+10.0,Zoo
+10.0,Temple
+10.0,Tea Room
+10.0,Sports Club
+10.0,Shopping Mall
+8.5,School
+4.0,Acai House

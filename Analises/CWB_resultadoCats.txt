@@ -1,0 +1,114 @@
+-------------------
+RESULTADOS POR CATEGORIA
+-------------------
+98.0,Social Club
+98.0,Smoke Shop
+98.0,Shopping Plaza
+98.0,Shopping Mall
+97.5,Soccer Stadium
+96.0,Spa
+96.0,Soccer Field
+96.0,School
+96.0,Park
+95.0,Pharmacy
+94.0,Pet Store
+94.0,Irish Pub
+94.0,IT Services
+94.0,Hotel
+94.0,Hospital
+93.5,Sandwich Place
+93.5,Ice Cream Shop
+93.5,Hostel
+93.0,Supermarket
+93.0,Sports Bar
+93.0,Restaurant
+93.0,Optical Shop
+93.0,Office
+93.0,Nightclub
+93.0,Library
+93.0,Law School
+93.0,Language School
+93.0,Kids Store
+93.0,Jewelry Store
+93.0,Hot Dog Joint
+93.0,History Museum
+92.5,Market
+92.0,Video Game Store
+92.0,Viaduto Tudo Paraaado
+92.0,University
+92.0,Taxi
+92.0,TV Station
+92.0,Sushi Restaurant
+92.0,Strip Club
+92.0,Playground
+92.0,Pizza Place
+92.0,Movie Theater
+92.0,Mobile Phone Shop
+92.0,Military Base
+92.0,Mediterranean Restaurant
+92.0,High School
+92.0,Health Food Store
+92.0,Gym
+91.5,Warehouse Store
+91.5,Tea Room
+91.5,Night Market
+91.5,Motel
+91.0,Museum
+90.5,Police Station
+90.0,Pub
+90.0,Professional & Other Places
+90.0,Post Office
+90.0,Pool
+90.0,Pontifice3o
+89.5,Rental Car Location
+89.0,Resort
+88.0,Grocery Store
+87.0,Driving School
+86.5,Emergency Room
+86.0,Doctors Office
+86.0,Dessert Shop
+85.0,Donut Shop
+84.0,General Travel
+83.0,Gastropub
+83.0,Fish Market
+83.0,Farmers Market
+83.0,Eye Doctor
+82.0,Gas Station
+81.0,Fire Station
+81.0,Farm
+81.0,Department Store
+81.0,Dentists Office
+81.0,Cultural Center
+80.5,Flower Shop
+79.0,Funeral Home
+79.0,Fruit & Vegetable Store
+79.0,Frozen Yogurt Shop
+79.0,Football Stadium
+79.0,Food & Drink Shop
+79.0,Electronics Store
+79.0,Coffee Shop
+79.0,Clothing Store
+78.0,Food Truck
+78.0,Comic Shop
+77.5,Church
+77.5,Candy Store
+77.0,Convenience Store
+76.0,Chocolate Shop
+76.0,Cemetery
+76.0,Casino
+76.0,Car Wash
+76.0,Bus Stop
+76.0,Bike Shop
+76.0,Big Box Store
+76.0,Bar
+74.5,Botanical Garden
+73.0,Bowling Alley
+73.0,Bookstore
+60.0,Beer Store
+44.0,Beach
+39.0,Bank
+27.0,Asian Restaurant
+24.0,Art Museum
+22.0,Automotive Shop
+20.0,Acai House
+12.0,Arcade

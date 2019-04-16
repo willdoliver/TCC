@@ -1,5 +1,5 @@
 -------------------
-RESULTADOS
+RESULTADOS POR LOCAL
 -------------------
 Parque Barigui - Park
 P = 21
@@ -57,7 +57,7 @@ R = 6
 Disputa: 31.12
 Check-ins = 178
 -------------------
-Parkshoppingbarigui - Shopping Mall
+Park Shopping Barigui - Shopping Mall
 P = 13
 Trocas: 68.35
 R = 4
@@ -309,13 +309,6 @@ R = 3
 Disputa: 15.34
 Check-ins = 165
 -------------------
-Canonicalurl': U'Https: - Beer Store
-P = 5
-Trocas: 30.43
-R = 2
-Disputa: 12.17
-Check-ins = 439
--------------------
 Slaviero Suites Curitiba Batel - Hotel
 P = 6
 Trocas: 29.3
@@ -351,7 +344,7 @@ R = 4
 Disputa: 18.62
 Check-ins = 104
 -------------------
-FarmáCias E Drogarias Nissei - Pharmacy
+Farmácias E Drogarias Nissei - Pharmacy
 P = 5
 Trocas: 27.53
 R = 2
@@ -386,7 +379,7 @@ R = 3
 Disputa: 13.63
 Check-ins = 93
 -------------------
-Miyo CulináRia Japonesa - Restaurant
+Miyo Culinária Japonesa - Restaurant
 P = 6
 Trocas: 27.13
 R = 3
@@ -1191,7 +1184,7 @@ R = 0
 Disputa: 0.0
 Check-ins = 134
 -------------------
-Pão De A%C3%A7úcar - Supermarket
+Pão De Açúcar - Supermarket
 P = 1
 Trocas: 4.88
 R = 0
@@ -2325,7 +2318,7 @@ R = 0
 Disputa: 0.0
 Check-ins = 467
 -------------------
-Panvel FarmáCias - Pharmacy
+Panvel Farmácias - Pharmacy
 P = 0
 Trocas: 0.0
 R = 0

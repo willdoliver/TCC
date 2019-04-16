@@ -1,2572 +1,2649 @@
 -------------------
-RESULTADOS
+RESULTADOS POR LOCAL
 -------------------
-Mini Of Chicago - Automotive Shop
-P = 11.35
-Trocas: 15.14
+The Art Institute Of Chicago - Art Museum
+P = 9
+Trocas: 38.61
+R = 6
+Disputa: 25.74
+Check-ins = 72
+-------------------
+7Eleven - Convenience Store
+P = 6
+Trocas: 29.25
 R = 3
-Disputa: 4
-Check-ins = 43
+Disputa: 14.63
+Check-ins = 130
 -------------------
-Fletcher Jones Volkswagen - Auto Dealership
-P = 11.14
-Trocas: 18.57
+Target - Big Box Store
+P = 6
+Trocas: 28.09
 R = 3
-Disputa: 5
-Check-ins = 40
+Disputa: 14.05
+Check-ins = 107
 -------------------
-Neiman Marcus - Department Store
-P = 10.75
-Trocas: 10.75
-R = 3
-Disputa: 3
-Check-ins = 35
--------------------
-Fogo De Ch%C3%A3O - Restaurant
-P = 9.89
-Trocas: 6.59
-R = 3
-Disputa: 2
-Check-ins = 26
--------------------
-Seven Ten Lanes - Bowling Alley
-P = 8.67
-Trocas: 5.78
-R = 3
-Disputa: 2
-Check-ins = 17
--------------------
-North Avenue Beach - Beach
-P = 7.69
-Trocas: 5.13
-R = 3
-Disputa: 2
-Check-ins = 12
--------------------
-De Paul University - University
-P = 12.42
-Trocas: 6.21
+Starbucks - Coffee Shop
+P = 4
+Trocas: 20.86
 R = 2
-Disputa: 1
-Check-ins = 497
+Disputa: 10.43
+Check-ins = 183
 -------------------
-Burger King - Restaurant
-P = 10.42
-Trocas: 5.21
-R = 2
-Disputa: 1
-Check-ins = 182
--------------------
-Northern Trust - Bank
-P = 10.03
-Trocas: 5.02
-R = 2
-Disputa: 1
-Check-ins = 150
--------------------
-Philip H Corboy Law Center - Law School
-P = 9.57
-Trocas: 4.79
-R = 2
-Disputa: 1
-Check-ins = 119
--------------------
-63Rd Street Beach - Beach
-P = 9.38
-Trocas: 4.69
-R = 2
-Disputa: 1
-Check-ins = 108
--------------------
-Chicago Comics - Comic Shop
-P = 9.07
-Trocas: 4.53
-R = 2
-Disputa: 1
-Check-ins = 92
+Mcdonalds - Restaurant
+P = 4
+Trocas: 18.26
+R = 1
+Disputa: 4.56
+Check-ins = 95
 -------------------
 Fireside Bowl - Bowling Alley
-P = 8.91
-Trocas: 4.45
-R = 2
-Disputa: 1
+P = 4
+Trocas: 17.82
+R = 3
+Disputa: 13.36
 Check-ins = 85
 -------------------
 Park Community Church - Church
-P = 8.71
-Trocas: 4.36
+P = 4
+Trocas: 17.43
 R = 2
-Disputa: 1
+Disputa: 8.71
 Check-ins = 77
 -------------------
-Uic Forum - College Auditorium
-P = 8.55
-Trocas: 4.28
-R = 2
-Disputa: 1
-Check-ins = 71
--------------------
-Dorite Donuts Coffee - Donut Shop
-P = 8.5
-Trocas: 4.25
-R = 2
-Disputa: 1
-Check-ins = 69
--------------------
-South Shore Cultural Center - Cultural Center
-P = 8.44
-Trocas: 4.22
-R = 2
-Disputa: 1
-Check-ins = 67
--------------------
-Saint Clement Parish - Church
-P = 8.41
-Trocas: 4.2
-R = 2
-Disputa: 1
-Check-ins = 66
+Cvspharmacy - Pharmacy
+P = 4
+Trocas: 17.16
+R = 3
+Disputa: 12.87
+Check-ins = 72
 -------------------
 Chickfila - Restaurant
-P = 8.38
-Trocas: 4.19
-R = 2
-Disputa: 1
+P = 4
+Trocas: 16.76
+R = 3
+Disputa: 12.57
 Check-ins = 65
 -------------------
-Trader Joes - Grocery Store
-P = 8.32
-Trocas: 4.16
-R = 2
-Disputa: 1
-Check-ins = 63
--------------------
-John Hancock Center - Building
-P = 8.32
-Trocas: 4.16
-R = 2
-Disputa: 1
-Check-ins = 63
--------------------
-57Th Street Books - Bookstore
-P = 8.25
-Trocas: 4.13
-R = 2
-Disputa: 1
-Check-ins = 61
--------------------
-Barnes Noble - Bookstore
-P = 8.16
-Trocas: 4.08
-R = 2
-Disputa: 1
-Check-ins = 58
--------------------
-Northwestern Memorial Hospital - Hospital
-P = 7.98
-Trocas: 3.99
-R = 2
-Disputa: 1
-Check-ins = 53
--------------------
-Firecakes Donuts - Donut Shop
-P = 7.98
-Trocas: 3.99
-R = 2
-Disputa: 1
-Check-ins = 53
--------------------
-White Glove Car Wash - Car Wash
-P = 7.66
-Trocas: 3.83
-R = 2
-Disputa: 1
-Check-ins = 45
--------------------
-Museum Campus - Other Great Outdoors
-P = 7.48
-Trocas: 3.74
-R = 2
-Disputa: 1
-Check-ins = 41
--------------------
-The Shops At Roosevelt Collection - Shopping Mall
-P = 7.43
-Trocas: 3.71
-R = 2
-Disputa: 1
-Check-ins = 40
--------------------
-Gap - Clothing Store
-P = 7.43
-Trocas: 3.71
-R = 2
-Disputa: 1
-Check-ins = 40
--------------------
-National Pride Car Wash - Car Wash
-P = 7.38
-Trocas: 3.69
-R = 2
-Disputa: 1
-Check-ins = 39
--------------------
 Gallery Cabaret - Bar
-P = 7.38
-Trocas: 3.69
+P = 4
+Trocas: 14.76
 R = 2
-Disputa: 1
+Disputa: 7.38
 Check-ins = 39
--------------------
-Euro Collision - Automotive Shop
-P = 7.38
-Trocas: 3.69
-R = 2
-Disputa: 1
-Check-ins = 39
--------------------
-Brooks Building - Building
-P = 7.33
-Trocas: 3.66
-R = 2
-Disputa: 1
-Check-ins = 38
--------------------
-The Doughnut Vault - Donut Shop
-P = 7.28
-Trocas: 3.64
-R = 2
-Disputa: 1
-Check-ins = 37
--------------------
-Dental Salon - Dentist's Office
-P = 7.17
-Trocas: 3.58
-R = 2
-Disputa: 1
-Check-ins = 35
 -------------------
 Bank Of America - Bank
-P = 7.11
-Trocas: 3.56
+P = 4
+Trocas: 14.22
 R = 2
-Disputa: 1
+Disputa: 7.11
 Check-ins = 34
 -------------------
-Oak Street Beach - Beach
-P = 7.05
-Trocas: 3.53
+Chicago Comics - Comic Shop
+P = 3
+Trocas: 13.6
 R = 2
-Disputa: 1
+Disputa: 9.07
+Check-ins = 92
+-------------------
+Fogo De Ch%C3%A3O - Restaurant
+P = 4
+Trocas: 13.18
+R = 0
+Disputa: 0.0
+Check-ins = 26
+-------------------
+Uic Forum - College Auditorium
+P = 3
+Trocas: 12.83
+R = 2
+Disputa: 8.55
+Check-ins = 71
+-------------------
+Taco Bell - Restaurant
+P = 4
+Trocas: 11.78
+R = 2
+Disputa: 5.89
+Check-ins = 18
+-------------------
+Mini Of Chicago - Automotive Shop
+P = 3
+Trocas: 11.35
+R = 1
+Disputa: 3.78
+Check-ins = 43
+-------------------
+Fletcher Jones Volkswagen - Auto Dealership
+P = 3
+Trocas: 11.14
+R = 1
+Disputa: 3.71
+Check-ins = 40
+-------------------
+Neiman Marcus - Department Store
+P = 3
+Trocas: 10.75
+R = 1
+Disputa: 3.58
+Check-ins = 35
+-------------------
+Fifth Third Bank Atm - Bank
+P = 3
+Trocas: 10.58
+R = 2
+Disputa: 7.05
 Check-ins = 33
 -------------------
 Stans Donuts Coffee - Donut Shop
-P = 6.99
-Trocas: 3.5
-R = 2
-Disputa: 1
+P = 3
+Trocas: 10.49
+R = 1
+Disputa: 3.5
 Check-ins = 32
 -------------------
 Katherine Anne Confections - Dessert Shop
-P = 6.99
-Trocas: 3.5
+P = 3
+Trocas: 10.49
 R = 2
-Disputa: 1
+Disputa: 6.99
 Check-ins = 32
 -------------------
-Old Navy - Clothing Store
-P = 6.59
-Trocas: 3.3
-R = 2
-Disputa: 1
-Check-ins = 26
+Northern Trust - Bank
+P = 2
+Trocas: 10.03
+R = 1
+Disputa: 5.02
+Check-ins = 150
 -------------------
 River East Center - Building
-P = 6.52
-Trocas: 3.26
-R = 2
-Disputa: 1
-Check-ins = 25
+P = 3
+Trocas: 9.66
+R = 1
+Disputa: 3.22
+Check-ins = 24
 -------------------
 West On North - Bar
-P = 6.27
-Trocas: 3.14
-R = 2
-Disputa: 1
+P = 3
+Trocas: 9.41
+R = 1
+Disputa: 3.14
 Check-ins = 22
 -------------------
-Strictly By Hand - Car Wash
-P = 6.18
-Trocas: 3.09
-R = 2
-Disputa: 1
-Check-ins = 21
+63Rd Street Beach - Beach
+P = 2
+Trocas: 9.38
+R = 1
+Disputa: 4.69
+Check-ins = 108
+-------------------
+Philip H Corboy Law Center - Law School
+P = 2
+Trocas: 8.79
+R = 1
+Disputa: 4.39
+Check-ins = 80
+-------------------
+Seven Ten Lanes - Bowling Alley
+P = 3
+Trocas: 8.67
+R = 1
+Disputa: 2.89
+Check-ins = 17
+-------------------
+Dorite Donuts Coffee - Donut Shop
+P = 2
+Trocas: 8.5
+R = 0
+Disputa: 0.0
+Check-ins = 69
+-------------------
+John Hancock Center - Building
+P = 2
+Trocas: 8.32
+R = 1
+Disputa: 4.16
+Check-ins = 63
+-------------------
+57Th Street Books - Bookstore
+P = 2
+Trocas: 8.25
+R = 1
+Disputa: 4.13
+Check-ins = 61
+-------------------
+Oak Street Beach - Beach
+P = 2
+Trocas: 7.05
+R = 0
+Disputa: 0.0
+Check-ins = 33
 -------------------
 Annettes Homemade Italian Ice - Dessert Shop
-P = 6.09
-Trocas: 3.04
-R = 2
-Disputa: 1
+P = 2
+Trocas: 6.09
+R = 1
+Disputa: 3.04
 Check-ins = 20
 -------------------
 12Th Street Beach - Beach
-P = 6.09
-Trocas: 3.04
-R = 2
-Disputa: 1
+P = 2
+Trocas: 6.09
+R = 1
+Disputa: 3.04
 Check-ins = 20
 -------------------
-Taco Bell - Restaurant
-P = 5.89
-Trocas: 2.94
-R = 2
-Disputa: 1
-Check-ins = 18
--------------------
-Churro Factory - Dessert Shop
-P = 5.89
-Trocas: 2.94
-R = 2
-Disputa: 1
-Check-ins = 18
--------------------
-University Of Chicago Emergency Room - Emergency Room
-P = 5.42
-Trocas: 2.71
-R = 2
-Disputa: 1
-Check-ins = 14
--------------------
-Smart Bike Parts Inc - Bike Shop
-P = 4.39
-Trocas: 2.2
-R = 2
-Disputa: 1
-Check-ins = 8
--------------------
-Chicago Lakefront - Waterfront
-P = 4.39
-Trocas: 2.2
-R = 2
-Disputa: 1
-Check-ins = 8
--------------------
-Big Littles Restaurant - Restaurant
-P = 4.39
-Trocas: 2.2
-R = 2
-Disputa: 1
-Check-ins = 8
--------------------
-The Dugout Sports Bar Grill - Bar
-P = 3.89
-Trocas: 1.95
-R = 2
-Disputa: 1
-Check-ins = 6
--------------------
-Riverview Car Wash - Car Wash
-P = 3.89
-Trocas: 1.95
-R = 2
-Disputa: 1
-Check-ins = 6
--------------------
-Quimbys - Bookstore
-P = 3.22
-Trocas: 1.61
-R = 2
-Disputa: 1
-Check-ins = 4
--------------------
-Aayu Clinics Lakeview Immediate Care - Emergency Room
-P = 3.22
-Trocas: 1.61
-R = 2
-Disputa: 1
-Check-ins = 4
--------------------
-Chicago Fire Academy - Fire Station
-P = 2.77
-Trocas: 1.39
-R = 2
-Disputa: 1
-Check-ins = 3
--------------------
-Windy City Sweets - Candy Store
-P = 2.2
-Trocas: 1.1
-R = 2
-Disputa: 1
-Check-ins = 2
--------------------
-Five Faces Ice Cream Shop - Restaurant
-P = 2.2
-Trocas: 1.1
-R = 2
-Disputa: 1
-Check-ins = 2
--------------------
-The Shops At North Bridge - Shopping Mall
-P = 1.39
-Trocas: 0.69
-R = 2
-Disputa: 1
-Check-ins = 1
--------------------
-Skyline View - Beach
-P = 1.39
-Trocas: 0.69
-R = 2
-Disputa: 1
-Check-ins = 1
--------------------
-Walgreens - Pharmacy
-P = 6.41
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 606
--------------------
-7Eleven - Convenience Store
-P = 6.3
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 544
--------------------
-Starbucks - Coffee Shop
-P = 6.24
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 511
--------------------
 Dunkin Donuts - Donut Shop
-P = 6.1
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 443
--------------------
-Northwestern Arkes Family Pavilion - Doctor's Office
-P = 5.93
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 377
--------------------
-Kendall College - University
-P = 5.89
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 360
--------------------
-Caff%C3%A8 R%C5%8Dm - Coffee Shop
-P = 5.87
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 354
--------------------
-Chase Bank - Bank
-P = 5.84
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 342
--------------------
-Macys - Department Store
-P = 5.82
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 337
--------------------
-Midwest Trailer Repair - Automotive Shop
-P = 5.8
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 330
--------------------
-Presence Saints Mary And Elizabeth Medical Center St Mary Campus - Emergency Room
-P = 5.74
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 309
--------------------
-Micro Center - Electronics Store
-P = 5.7
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 297
--------------------
-Mcdonalds - Restaurant
-P = 5.69
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 295
--------------------
-St Peters Catholic Church - Church
-P = 5.66
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 285
--------------------
-Apple Lincoln Park - Electronics Store
-P = 5.62
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 275
--------------------
-Tonic Room - Bar
-P = 5.55
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 257
--------------------
-Target - Big Box Store
-P = 5.5
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 244
--------------------
-311 South Wacker - Office
-P = 5.28
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 196
--------------------
-The Church Of St Paul The Redeemer - Church
-P = 5.27
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 193
--------------------
-Cvspharmacy - Pharmacy
-P = 5.26
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 191
--------------------
-Fourth Presbyterian Church - Church
-P = 5.2
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 5.2
+R = 0
+Disputa: 0.0
 Check-ins = 180
 -------------------
-1030 North Clark Street - Building
-P = 5.17
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 175
+Water Tower Place - Shopping Mall
+P = 2
+Trocas: 5.13
+R = 0
+Disputa: 0.0
+Check-ins = 12
 -------------------
-Well Clean Inc - Car Wash
-P = 5.13
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 168
+North Avenue Beach - Beach
+P = 2
+Trocas: 5.13
+R = 0
+Disputa: 0.0
+Check-ins = 12
 -------------------
-Fitness Formula Club Ffc - Gym
-P = 5.01
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 149
+Chase Bank - Bank
+P = 1
+Trocas: 4.85
+R = 0
+Disputa: 0.0
+Check-ins = 127
 -------------------
-Greater Englewood Parish United Methodist Church - Church
-P = 5.0
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 147
+Big Littles Restaurant - Restaurant
+P = 2
+Trocas: 4.39
+R = 0
+Disputa: 0.0
+Check-ins = 8
 -------------------
-Brazzaz Brazilian Steakhouse - Restaurant
-P = 5.0
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 147
+South Shore Cultural Center - Cultural Center
+P = 1
+Trocas: 4.22
+R = 0
+Disputa: 0.0
+Check-ins = 67
 -------------------
-Federal Reserve Bank Of Chicago - Government Building
-P = 4.91
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 135
+Saint Clement Parish - Church
+P = 1
+Trocas: 4.2
+R = 0
+Disputa: 0.0
+Check-ins = 66
 -------------------
-Walmart Neighborhood Market - Grocery Store
-P = 4.9
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 133
+Barnes Noble - Bookstore
+P = 1
+Trocas: 4.08
+R = 0
+Disputa: 0.0
+Check-ins = 58
 -------------------
-Canonicalurl': U'Https: - Lake
-P = 4.63
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 102
--------------------
-Challengers Comics - Comic Shop
-P = 4.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 99
--------------------
-Seminary Coop Bookstore - Bookstore
-P = 4.52
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 91
--------------------
-Glazed And Infused - Donut Shop
-P = 4.51
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 90
--------------------
-Apostolic Church Of God - Church
-P = 4.44
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 84
--------------------
-Pilsen Community Church - Church
-P = 4.39
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 80
--------------------
-Xsport Fitness - Gym
-P = 4.37
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 78
--------------------
-The Art Institute Of Chicago - Art Museum
-P = 4.32
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 74
--------------------
-Best Buy - Electronics Store
-P = 4.29
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 72
--------------------
-Groupon Game Room - Arcade
-P = 4.26
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 70
--------------------
-Ohio Street Beach - Beach
-P = 4.17
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 64
--------------------
-Sanctioned Few Clubhouse - Bar
-P = 4.16
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 63
--------------------
-Tcf Bank - Bank
-P = 4.03
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 55
--------------------
-10Pin Bowling Lounge - Bowling Alley
-P = 4.01
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 54
--------------------
-Fifth Third Bank Atm - Bank
-P = 3.99
-Trocas: 0.0
-R = 1
-Disputa: 0
+Firecakes Donuts - Donut Shop
+P = 1
+Trocas: 3.99
+R = 0
+Disputa: 0.0
 Check-ins = 53
 -------------------
-St Procopius Parish - Church
-P = 3.97
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 52
+Tcf Bank - Bank
+P = 1
+Trocas: 3.95
+R = 0
+Disputa: 0.0
+Check-ins = 51
 -------------------
-City Church Chicago - Church
-P = 3.97
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 52
--------------------
-North Pond Nature Sanctuary - Lake
-P = 3.93
-Trocas: 0.0
-R = 1
-Disputa: 0
+Northwestern Memorial Hospital - Hospital
+P = 1
+Trocas: 3.93
+R = 0
+Disputa: 0.0
 Check-ins = 50
 -------------------
-Brazilian Bowl Grill - Restaurant
-P = 3.89
-Trocas: 0.0
+The Dugout Sports Bar Grill - Bar
+P = 2
+Trocas: 3.89
 R = 1
-Disputa: 0
-Check-ins = 48
+Disputa: 1.95
+Check-ins = 6
 -------------------
-Lakeview Athletic Club - Gym
-P = 3.85
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 46
+White Glove Car Wash - Car Wash
+P = 1
+Trocas: 3.83
+R = 0
+Disputa: 0.0
+Check-ins = 45
 -------------------
-River North Hand Wash Detail - Car Wash
-P = 3.78
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 43
--------------------
-First Aid Comics - Bookstore
-P = 3.78
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 43
--------------------
-Chicago Union Station - Train Station
-P = 3.76
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 42
--------------------
-Sweat - Gym
-P = 3.74
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 41
--------------------
-Planet Fitness - Gym / Fitness Center
-P = 3.74
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 41
--------------------
-Norwegian American Hospital - Hospital
-P = 3.74
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 41
--------------------
-Einstein Bros Bagels - Bagel Shop
-P = 3.71
-Trocas: 0.0
-R = 1
-Disputa: 0
+The Shops At Roosevelt Collection - Shopping Mall
+P = 1
+Trocas: 3.71
+R = 0
+Disputa: 0.0
 Check-ins = 40
 -------------------
-Depaul Center - University
-P = 3.69
-Trocas: 0.0
-R = 1
-Disputa: 0
+Gap - Clothing Store
+P = 1
+Trocas: 3.71
+R = 0
+Disputa: 0.0
+Check-ins = 40
+-------------------
+National Pride Car Wash - Car Wash
+P = 1
+Trocas: 3.69
+R = 0
+Disputa: 0.0
 Check-ins = 39
 -------------------
-Ann Robert H Lurie Childrens Hospital Of Chicago - Hospital
-P = 3.69
-Trocas: 0.0
-R = 1
-Disputa: 0
+Euro Collision - Automotive Shop
+P = 1
+Trocas: 3.69
+R = 0
+Disputa: 0.0
 Check-ins = 39
 -------------------
-Lincoln Park Zoo - Zoo
-P = 3.66
-Trocas: 0.0
-R = 1
-Disputa: 0
+Brooks Building - Building
+P = 1
+Trocas: 3.66
+R = 0
+Disputa: 0.0
 Check-ins = 38
 -------------------
-Jewelosco - Supermarket
-P = 3.66
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 38
--------------------
-Banana Republic - Clothing Store
-P = 3.64
-Trocas: 0.0
-R = 1
-Disputa: 0
+The Doughnut Vault - Donut Shop
+P = 1
+Trocas: 3.64
+R = 0
+Disputa: 0.0
 Check-ins = 37
 -------------------
-Lincoln Park High School - High School
-P = 3.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 36
--------------------
-Kmart - Electronics Store
-P = 3.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 36
--------------------
-Chocolate Hill - Dessert Shop
-P = 3.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 36
--------------------
-Chicago Carry Out - Restaurant
-P = 3.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 36
--------------------
-Bicycle Station Lofts - Residential Building (Apartment / Condo)
-P = 3.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 36
--------------------
-Cosi - Sandwich Place
-P = 3.58
-Trocas: 0.0
-R = 1
-Disputa: 0
+Dental Salon - Dentist's Office
+P = 1
+Trocas: 3.58
+R = 0
+Disputa: 0.0
 Check-ins = 35
 -------------------
 West Loop Athletic Club - Gym
-P = 3.56
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 3.56
+R = 0
+Disputa: 0.0
 Check-ins = 34
 -------------------
-North Avenue Beach Volleyball - Beach
-P = 3.56
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 34
--------------------
-Berts Car Wash - Car Wash
-P = 3.53
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 33
--------------------
-Bentley Gold Coast - Auto Dealership
-P = 3.5
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 32
--------------------
-Trump International Hotel Tower Chicago - Hotel
-P = 3.47
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 31
--------------------
-The Oriental Institute - History Museum
-P = 3.43
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 30
--------------------
-The Chicago High School For The Arts - High School
-P = 3.43
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 30
--------------------
-Rush University Medical Center - Hospital
-P = 3.37
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 28
--------------------
-Cta Bus Stop 1097 - Bus Stop
-P = 3.33
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 27
--------------------
-Chicago Public Library - Library
-P = 3.33
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 27
+Old Navy - Clothing Store
+P = 1
+Trocas: 3.3
+R = 0
+Disputa: 0.0
+Check-ins = 26
 -------------------
 Lake Shore Drivescience Dr - Lake
-P = 3.18
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 3.18
+R = 0
+Disputa: 0.0
 Check-ins = 23
 -------------------
-Guaranteed Rate Field - Baseball Stadium
-P = 3.18
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 23
--------------------
-Quads Gym - Gym
-P = 3.14
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 22
--------------------
-Graham Cracker Comics - Comic Shop
-P = 3.14
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 22
--------------------
-The Temple Bar - Bar
-P = 3.09
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 21
--------------------
-The Backyard - Cemetery
-P = 3.09
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 21
--------------------
-Chicago Social Beach Volleyball League - Beach
-P = 3.09
-Trocas: 0.0
-R = 1
-Disputa: 0
+Strictly By Hand - Car Wash
+P = 1
+Trocas: 3.09
+R = 0
+Disputa: 0.0
 Check-ins = 21
 -------------------
 Block 37 - Shopping Mall
-P = 3.09
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 3.09
+R = 0
+Disputa: 0.0
 Check-ins = 21
 -------------------
-Ancien Bicycle - Bike Shop
-P = 3.09
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 21
--------------------
-Alfredos Bar - Bar
-P = 3.09
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 21
--------------------
-Vigilante Press - Comic Shop
-P = 3.04
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 20
--------------------
-The John Marshall Law School - Law School
-P = 3.04
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 20
--------------------
-J Toor - Clothing Store
-P = 3.04
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 20
--------------------
-Car Care Specialists Hand Car Wash Detailing - Car Wash
-P = 3.04
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 20
--------------------
-University Of Illinois At Chicago Medical Center - Hospital
-P = 3.0
-Trocas: 0.0
-R = 1
-Disputa: 0
+Jewelosco - Supermarket
+P = 1
+Trocas: 3.0
+R = 0
+Disputa: 0.0
 Check-ins = 19
 -------------------
-Xocoatl - Dessert Shop
-P = 2.94
-Trocas: 0.0
-R = 1
-Disputa: 0
+Churro Factory - Dessert Shop
+P = 1
+Trocas: 2.94
+R = 0
+Disputa: 0.0
 Check-ins = 18
 -------------------
-University Of Chicago Medical Center - Doctor's Office
-P = 2.94
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 18
--------------------
-The Jewelers Center - Jewelry Store
-P = 2.94
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 18
--------------------
-Parkshore Fitness And Spa - Gym
-P = 2.94
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 18
--------------------
-Oral Kare - Dentist's Office
-P = 2.94
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 18
--------------------
-Millennium Park Orthodontics - Dentist's Office
-P = 2.94
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 18
--------------------
-Dermatology Aesthetics Of Wicker Park - Doctor's Office
-P = 2.94
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 18
--------------------
-Arbys - Restaurant
-P = 2.94
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 18
--------------------
-The Vitamin Shoppe - Supplement Shop
-P = 2.89
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 17
--------------------
-Northwestern Internists - Doctor's Office
-P = 2.89
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 17
--------------------
-Museum Of Contemporary Photography - Art Museum
-P = 2.89
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 17
--------------------
-Loop Tavern - Bar
-P = 2.89
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 17
--------------------
-First Paradise Mb Church - Church
-P = 2.89
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 17
--------------------
-Body Works Health And Wellness - Doctor's Office
-P = 2.89
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 17
--------------------
-Water Tower Place - Shopping Mall
-P = 2.83
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 16
--------------------
-Strack Van Til - Grocery Store
-P = 2.83
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 16
--------------------
-Riverview Condos - Residential Building (Apartment / Condo)
-P = 2.83
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 16
--------------------
-Palmer House A Hilton Hotel - Hotel
-P = 2.77
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 15
--------------------
-Hardpressed - Gym / Fitness Center
-P = 2.71
-Trocas: 0.0
-R = 1
-Disputa: 0
+University Of Chicago Emergency Room - Emergency Room
+P = 1
+Trocas: 2.71
+R = 0
+Disputa: 0.0
 Check-ins = 14
 -------------------
-Goose Island Shrimp House Chicago - Restaurant
-P = 2.71
-Trocas: 0.0
-R = 1
-Disputa: 0
+Hardpressed - Gym / Fitness Center
+P = 1
+Trocas: 2.71
+R = 0
+Disputa: 0.0
 Check-ins = 14
 -------------------
 Willis Tower - Building
-P = 2.64
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 2.64
+R = 0
+Disputa: 0.0
 Check-ins = 13
 -------------------
 Southport Fitness - Gym
-P = 2.64
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 2.64
+R = 0
+Disputa: 0.0
 Check-ins = 13
 -------------------
 Potash Markets Clark St - Grocery Store
-P = 2.64
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 2.64
+R = 0
+Disputa: 0.0
 Check-ins = 13
--------------------
-Myopic Books - Bookstore
-P = 2.64
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 13
--------------------
-Bp - Gas Station
-P = 2.64
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 13
--------------------
-The Market Place Foodstore - Grocery Store
-P = 2.56
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 12
--------------------
-Kenwood Academy High School - High School
-P = 2.56
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 12
--------------------
-Hyde Park Produce - Grocery Store
-P = 2.56
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 12
--------------------
-Bockwinkels - Grocery Store
-P = 2.56
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 12
--------------------
-Att - Mobile Phone Shop
-P = 2.56
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 12
 -------------------
 Intercontinental Chicago Magnificent Mile - Hotel
-P = 2.4
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 2.4
+R = 0
+Disputa: 0.0
 Check-ins = 10
 -------------------
-Ukai Restaurant - Restaurant
-P = 2.3
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 9
--------------------
-Tower At Rush University Medical Center - Hospital
-P = 2.3
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 9
--------------------
 Southgate Market - Shopping Mall
-P = 2.3
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 2.3
+R = 0
+Disputa: 0.0
 Check-ins = 9
 -------------------
 Hyatt Regency Mccormick Place - Hotel
-P = 2.3
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 2.3
+R = 0
+Disputa: 0.0
 Check-ins = 9
 -------------------
-Yoshis Cafe - Restaurant
-P = 2.2
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 8
--------------------
-Speedway - Gas Station
-P = 2.2
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 8
--------------------
-Lake Michigan Running Path - Trail
-P = 2.2
-Trocas: 0.0
-R = 1
-Disputa: 0
+Smart Bike Parts Inc - Bike Shop
+P = 1
+Trocas: 2.2
+R = 0
+Disputa: 0.0
 Check-ins = 8
 -------------------
 Galter Pavilion Northwestern Memorial Hospital - Hospital
-P = 2.2
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 2.2
+R = 0
+Disputa: 0.0
 Check-ins = 8
 -------------------
-W Chicago City Center - Hotel
-P = 2.08
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 7
--------------------
-Uic College Prep - High School
-P = 2.08
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 7
--------------------
-The Quarter - Hostel
-P = 2.08
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 7
+Bp - Gas Station
+P = 1
+Trocas: 2.2
+R = 0
+Disputa: 0.0
+Check-ins = 8
 -------------------
 Potash Bros Supermarket - Grocery Store
-P = 2.08
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 2.08
+R = 0
+Disputa: 0.0
 Check-ins = 7
 -------------------
 Northwestern Prentice Womens Hospital - Hospital
-P = 2.08
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 7
--------------------
-Lake Michigan - Lake
-P = 2.08
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 7
--------------------
-Hostelling International Chicago - Hostel
-P = 2.08
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 2.08
+R = 0
+Disputa: 0.0
 Check-ins = 7
 -------------------
 Aldi - Grocery Store
-P = 2.08
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 2.08
+R = 0
+Disputa: 0.0
 Check-ins = 7
--------------------
-31 St Lakefront - Lake
-P = 2.08
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 7
--------------------
-Victorias Secret - Lingerie Store
-P = 1.95
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 6
 -------------------
 Stanleys Fresh Fruits And Vegetables - Fruit & Vegetable Store
-P = 1.95
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.95
+R = 0
+Disputa: 0.0
 Check-ins = 6
 -------------------
-Ios Genius Llc - IT Services
-P = 1.95
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 6
--------------------
-Hyde Park Shopping Center - Shopping Mall
-P = 1.95
-Trocas: 0.0
-R = 1
-Disputa: 0
+Riverview Car Wash - Car Wash
+P = 1
+Trocas: 1.95
+R = 0
+Disputa: 0.0
 Check-ins = 6
 -------------------
 Fairfield Inn Suites Chicago Downtownriver North - Hotel
-P = 1.95
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 6
--------------------
-David Barton Gym - Gym
-P = 1.95
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.95
+R = 0
+Disputa: 0.0
 Check-ins = 6
 -------------------
 Comer Childrens Hospital - Hospital
-P = 1.95
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 6
--------------------
-Blumgarten - Flower Shop
-P = 1.95
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.95
+R = 0
+Disputa: 0.0
 Check-ins = 6
 -------------------
 Travelodge - Hotel
-P = 1.79
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 5
--------------------
-Shell - Gas Station
-P = 1.79
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 5
--------------------
-Park Hyatt Chicago - Hotel
-P = 1.79
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.79
+R = 0
+Disputa: 0.0
 Check-ins = 5
 -------------------
 Lake Michigan Steps - Lake
-P = 1.79
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 5
--------------------
-Hyatt Regency Chicago - Hotel
-P = 1.79
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.79
+R = 0
+Disputa: 0.0
 Check-ins = 5
 -------------------
 Flowers For Dreams - Flower Shop
-P = 1.79
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.79
+R = 0
+Disputa: 0.0
 Check-ins = 5
--------------------
-900 North Michigan Shops - Shopping Mall
-P = 1.79
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 5
--------------------
-Whitney Young High School - High School
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 4
--------------------
-The Silver Room - Jewelry Store
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 4
 -------------------
 The Field Museum - History Museum
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.61
+R = 0
+Disputa: 0.0
 Check-ins = 4
 -------------------
 The Drucker Center - Gym
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.61
+R = 0
+Disputa: 0.0
 Check-ins = 4
 -------------------
-Sheraton Grand Chicago - Hotel
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 4
--------------------
-Reeds Hot Dog Stand - Food Truck
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 4
--------------------
-Pierogi Wagon - Food Truck
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 4
--------------------
-Oysy - Restaurant
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 4
--------------------
-Open Books Warehouse - Bookstore
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 4
--------------------
-Kimbark Plaza - Shopping Mall
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 4
--------------------
-K2 Gym - Gym
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
+Quimbys - Bookstore
+P = 1
+Trocas: 1.61
+R = 0
+Disputa: 0.0
 Check-ins = 4
 -------------------
 Jetro - Grocery Store
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 4
--------------------
-Hyatt Centric Chicago Magnificent Mile - Hotel
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 4
--------------------
-Howard Johnson Inn - Motel
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 4
--------------------
-Holiday Inn Chicago Mart Plaza River North - Hotel
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 4
--------------------
-Costco Wholesale - Warehouse Store
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 4
--------------------
-Concord Mb Church - Church
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 4
--------------------
-Clark Gas Station - Gas Station
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 4
--------------------
-Chuck E Cheeses - Arcade
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.61
+R = 0
+Disputa: 0.0
 Check-ins = 4
 -------------------
 Chicagos Lakefront Hyde Park - Lake
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.61
+R = 0
+Disputa: 0.0
+Check-ins = 4
+-------------------
+Chicago Lakefront - Waterfront
+P = 1
+Trocas: 1.61
+R = 0
+Disputa: 0.0
 Check-ins = 4
 -------------------
 Chicago History Museum - History Museum
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.61
+R = 0
+Disputa: 0.0
 Check-ins = 4
 -------------------
-Arista Foods - Grocery Store
-P = 1.61
-Trocas: 0.0
-R = 1
-Disputa: 0
+Aayu Clinics Lakeview Immediate Care - Emergency Room
+P = 1
+Trocas: 1.61
+R = 0
+Disputa: 0.0
 Check-ins = 4
+-------------------
+The Shops At North Bridge - Shopping Mall
+P = 2
+Trocas: 1.39
+R = 0
+Disputa: 0.0
+Check-ins = 1
 -------------------
 Washington Park - Park
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 3
--------------------
-University Of Phoenix Downtown Learning Center - University
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.39
+R = 0
+Disputa: 0.0
 Check-ins = 3
 -------------------
 Tiffany Co - Jewelry Store
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.39
+R = 0
+Disputa: 0.0
 Check-ins = 3
 -------------------
 The Foundry - Shopping Mall
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.39
+R = 0
+Disputa: 0.0
 Check-ins = 3
 -------------------
 The Fat Shallot - Food Truck
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.39
+R = 0
+Disputa: 0.0
 Check-ins = 3
 -------------------
 Sakura Teppanyaki Sushi - Restaurant
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.39
+R = 0
+Disputa: 0.0
 Check-ins = 3
 -------------------
 Rush University Medical Center Jelke Bldg - Hospital
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.39
+R = 0
+Disputa: 0.0
 Check-ins = 3
 -------------------
 Presence Saint Joseph Hospital Chicago - Hospital
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 3
--------------------
-Navy Recruiting Station - Military Base
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.39
+R = 0
+Disputa: 0.0
 Check-ins = 3
 -------------------
 Lifestart Fitness Monroecanal - Gym
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 3
--------------------
-Kennicott Bros Floral Wholesale - Flower Shop
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 3
--------------------
-Hotel Zachary - Hotel
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 3
--------------------
-Go Grocer - Grocery Store
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 3
--------------------
-Forever Yogurt - Frozen Yogurt Shop
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.39
+R = 0
+Disputa: 0.0
 Check-ins = 3
 -------------------
 Food 4 Less - Grocery Store
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.39
+R = 0
+Disputa: 0.0
 Check-ins = 3
 -------------------
 Clarke House Museum - History Museum
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.39
+R = 0
+Disputa: 0.0
 Check-ins = 3
 -------------------
-Chicago Public Library Water Works Branch - Library
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
+Chicago Fire Academy - Fire Station
+P = 1
+Trocas: 1.39
+R = 0
+Disputa: 0.0
 Check-ins = 3
 -------------------
 Cartier - Jewelry Store
-P = 1.39
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.39
+R = 0
+Disputa: 0.0
 Check-ins = 3
 -------------------
-Yogurtland - Frozen Yogurt Shop
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 2
--------------------
-William H Wells Community Hs - High School
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
+Windy City Sweets - Candy Store
+P = 1
+Trocas: 1.1
+R = 0
+Disputa: 0.0
 Check-ins = 2
 -------------------
 Wells High School - High School
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.1
+R = 0
+Disputa: 0.0
 Check-ins = 2
 -------------------
 Umai Japanese Kitchen Sushi - Restaurant
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 2
--------------------
-Saint Anthony Hospital - Hospital
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.1
+R = 0
+Disputa: 0.0
 Check-ins = 2
 -------------------
 Red Mango - Frozen Yogurt Shop
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.1
+R = 0
+Disputa: 0.0
 Check-ins = 2
 -------------------
 Pinkberry - Frozen Yogurt Shop
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.1
+R = 0
+Disputa: 0.0
 Check-ins = 2
 -------------------
-Old Town Gardens - Flower Shop
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
+Forever Yogurt - Frozen Yogurt Shop
+P = 1
+Trocas: 1.1
+R = 0
+Disputa: 0.0
 Check-ins = 2
 -------------------
-Northwestern University School Of Law - Law School
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 2
--------------------
-Mikos Italian Ice - Ice Cream Shop
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 2
--------------------
-Marathon Gas - Gas Station
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 2
--------------------
-Kinzie Hotel - Hotel
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 2
--------------------
-Juarez High School - High School
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 2
--------------------
-Haute Sausage - Food Truck
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 2
--------------------
-Hard Rock Hotel Chicago - Hotel
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 2
--------------------
-Halsted Flowers - Flower Shop
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 2
--------------------
-Gage Park High School - High School
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 2
--------------------
-Fairplay Food Liquor - Grocery Store
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
+Five Faces Ice Cream Shop - Restaurant
+P = 1
+Trocas: 1.1
+R = 0
+Disputa: 0.0
 Check-ins = 2
 -------------------
 Chicago Getaway Hostel - Hostel
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 2
--------------------
-Cheesies Food Truck - Food Truck
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 2
--------------------
-Cattails - Flower Shop
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.1
+R = 0
+Disputa: 0.0
 Check-ins = 2
 -------------------
 Baskinrobbins - Ice Cream Shop
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 2
--------------------
-Anthonys Homemade Italian Ice - Ice Cream Shop
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.1
+R = 0
+Disputa: 0.0
 Check-ins = 2
 -------------------
 Anthony Marano Co - Food & Drink Shop
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 1.1
+R = 0
+Disputa: 0.0
 Check-ins = 2
--------------------
-Ace Motorcycle And Scooter - Gas Station
-P = 1.1
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 2
--------------------
-Yoberri - Ice Cream Shop
-P = 0.69
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 1
--------------------
-Verizon - Mobile Phone Shop
-P = 0.69
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 1
 -------------------
 University Of Illinois Hospital Health Sciences System - Hospital
-P = 0.69
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 1
--------------------
-The Poetry Foundation - Library
-P = 0.69
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 0.69
+R = 0
+Disputa: 0.0
 Check-ins = 1
 -------------------
 Sushi Pink - Restaurant
-P = 0.69
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 1
--------------------
-Sprint Store By Wireless Lifestyle - Mobile Phone Shop
-P = 0.69
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 1
--------------------
-Soldier Field - Football Stadium
-P = 0.69
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 0.69
+R = 0
+Disputa: 0.0
 Check-ins = 1
 -------------------
 Slurping Turtle - Noodle House
-P = 0.69
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 0.69
+R = 0
+Disputa: 0.0
 Check-ins = 1
 -------------------
-Mercy Hospital Emergency Room - Emergency Room
-P = 0.69
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 1
--------------------
-Firestone Complete Auto Care - Automotive Shop
-P = 0.69
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 1
--------------------
-Depaul University Lewis Center - Law School
-P = 0.69
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 1
--------------------
-Caffe Gelato - Bakery
-P = 0.69
-Trocas: 0.0
-R = 1
-Disputa: 0
-Check-ins = 1
--------------------
-Atrium Food Court - Food Court
-P = 0.69
-Trocas: 0.0
-R = 1
-Disputa: 0
+Skyline View - Beach
+P = 1
+Trocas: 0.69
+R = 0
+Disputa: 0.0
 Check-ins = 1
 -------------------
 Asrai Garden - Flower Shop
-P = 0.69
-Trocas: 0.0
-R = 1
-Disputa: 0
+P = 1
+Trocas: 0.69
+R = 0
+Disputa: 0.0
 Check-ins = 1
 -------------------
-Zombieland - Arcade
-P = 0.0
+Navy Pier - Pier
+P = 1
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 0
+-------------------
+Zombieland - Arcade
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Zales - Jewelry Store
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Yoshis Cafe - Restaurant
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 8
+-------------------
+Yogurtland - Frozen Yogurt Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 2
+-------------------
+Yoberri - Ice Cream Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 1
+-------------------
+Xsport Fitness - Gym
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 43
+-------------------
+Xocoatl - Dessert Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 18
 -------------------
 Wood Street Urban Farm - Farm
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+William H Wells Community Hs - High School
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 2
 -------------------
 Wicker Wash - Automotive Shop
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Whitney Young High School - High School
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
+-------------------
+Whimsical Chocolate - Dessert Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 0
+-------------------
+Well Clean Inc - Car Wash
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 168
+-------------------
+Walmart Neighborhood Market - Grocery Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 97
+-------------------
+Walgreens - Pharmacy
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 187
+-------------------
+W Chicago City Center - Hotel
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 7
 -------------------
 Visual Effects Optical - Doctor's Office
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-Verizon Wireless - Mobile Phone Shop
-P = 0.0
+Vigilante Press - Comic Shop
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 20
+-------------------
+Victorias Secret - Lingerie Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 3
+-------------------
+Verizon Wireless - Mobile Phone Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 0
+-------------------
+Verizon - Mobile Phone Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 1
+-------------------
+Us Cellular - Mobile Phone Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Urban Prep Academy West Campus - High School
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+University Of Phoenix Downtown Learning Center - University
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 3
+-------------------
+University Of Illinois At Chicago Medical Center - Hospital
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 19
+-------------------
+University Of Chicago Medical Center - Doctor's Office
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 18
+-------------------
+Ukai Restaurant - Restaurant
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 9
 -------------------
 Uic Medical Center Emergency Room - Medical School
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Uic College Prep - High School
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 7
+-------------------
+Trump International Hotel Tower Chicago - Hotel
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 31
+-------------------
+Trader Joes - Grocery Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 30
+-------------------
+Tower At Rush University Medical Center - Hospital
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 9
+-------------------
+Tonic Room - Bar
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 257
 -------------------
 Tmobile - Mobile Phone Shop
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+The Vitamin Shoppe - Supplement Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 17
+-------------------
+The Temple Bar - Bar
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 21
+-------------------
+The Silver Room - Jewelry Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
+-------------------
+The Quarter - Hostel
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 7
+-------------------
+The Poetry Foundation - Library
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 1
+-------------------
+The Oriental Institute - History Museum
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 30
+-------------------
+The Market Place Foodstore - Grocery Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 12
+-------------------
+The John Marshall Law School - Law School
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 20
+-------------------
+The Jewelers Center - Jewelry Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 18
 -------------------
 The Fudge Pot - Dessert Shop
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-Tamale Cart - Food Truck
-P = 0.0
+The Church Of St Paul The Redeemer - Church
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 193
+-------------------
+The Chicago High School For The Arts - High School
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 30
+-------------------
+The Backyard - Cemetery
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 21
+-------------------
+Tamale Cart - Food Truck
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Taboo Tabou - Lingerie Store
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Sweat - Gym
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 41
 -------------------
 Sun And Moon Beach Yoga - Beach
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Strack Van Til - Grocery Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 16
+-------------------
+St Procopius Parish - Church
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 52
+-------------------
+St Peters Catholic Church - Church
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 285
+-------------------
+Sprint Store By Wireless Lifestyle - Mobile Phone Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 1
+-------------------
+Speedway - Gas Station
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 8
 -------------------
 South Shore Beach - Beach
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Soldier Field - Football Stadium
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 1
 -------------------
 Smart Museum Of Art - Art Museum
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Sheraton Grand Chicago - Hotel
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
+-------------------
+Shell - Gas Station
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
 -------------------
 Seven Ten Lounge - Bowling Alley
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-Seawall - Beach
-P = 0.0
+Seminary Coop Bookstore - Bookstore
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 91
+-------------------
+Seawall - Beach
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Scoops Ice Cream - Dessert Shop
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-Ron Of Japan - Restaurant
-P = 0.0
+Sanctioned Few Clubhouse - Bar
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 63
+-------------------
+Saint Anthony Hospital - Hospital
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 2
+-------------------
+Rush University Medical Center - Hospital
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 28
+-------------------
+Ron Of Japan - Restaurant
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Road Ranger - Gas Station
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Riverview Condos - Residential Building (Apartment / Condo)
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 16
+-------------------
+River North Hand Wash Detail - Car Wash
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 43
 -------------------
 Rehabilitation Institute Of Chicago - Hospital
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Reeds Hot Dog Stand - Food Truck
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
+-------------------
+Quads Gym - Gym
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 22
 -------------------
 Pritzker Military Library - Library
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Presence Saints Mary And Elizabeth Medical Center St Mary Campus - Emergency Room
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 309
+-------------------
+Polar Cap Ice Cream - Ice Cream Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 0
+-------------------
+Pleasant Prairie Premuim Outlet Mall - Shopping Mall
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 0
+-------------------
+Planet Fitness - Gym / Fitness Center
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 41
+-------------------
+Pilsen Community Church - Church
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 80
+-------------------
+Pierogi Wagon - Food Truck
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
+-------------------
+Paulies - Bar
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 0
+-------------------
+Parkshore Fitness And Spa - Gym
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 18
 -------------------
 Park Shore Market - Convenience Store
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Park Hyatt Chicago - Hotel
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 5
+-------------------
+Palmer House A Hilton Hotel - Hotel
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 15
+-------------------
+Oysy - Restaurant
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
+-------------------
+Oral Kare - Dentist's Office
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 18
+-------------------
+Open Books Warehouse - Bookstore
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
 -------------------
 Old Town Oil - Gourmet Shop
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Old Town Gardens - Flower Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 2
+-------------------
+Ohio Street Beach - Beach
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 64
+-------------------
+Norwegian American Hospital - Hospital
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 41
+-------------------
+Northwestern University School Of Law - Law School
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 2
+-------------------
+Northwestern Internists - Doctor's Office
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 17
+-------------------
+Northwestern Arkes Family Pavilion - Doctor's Office
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 377
 -------------------
 North Western Hospital - Hospital
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-Nitecap Coffee Bar - Coffee Shop
-P = 0.0
+North Pond Nature Sanctuary - Lake
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 50
+-------------------
+North Avenue Beach Volleyball - Beach
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 34
+-------------------
+Nitecap Coffee Bar - Coffee Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Never Mind - Women's Store
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-Navy Pier - Pier
-P = 0.0
+Navy Recruiting Station - Military Base
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 3
+-------------------
+Myopic Books - Bookstore
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 13
+-------------------
+Museum Of Contemporary Photography - Art Museum
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 17
+-------------------
+Museum Campus - Other Great Outdoors
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 18
+-------------------
+Monarc Custom Clothing - Clothing Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Mobil - Gas Station
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Millennium Park Orthodontics - Dentist's Office
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 18
+-------------------
+Mikos Italian Ice - Ice Cream Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 2
+-------------------
+Midwest Trailer Repair - Automotive Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 330
+-------------------
+Micro Center - Electronics Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 297
+-------------------
+Mercy Hospital Emergency Room - Emergency Room
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 1
 -------------------
 Meigs Field Control Tower - Airport
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-Lincoln Park Boat Club - Lake
-P = 0.0
+Marathon Gas - Gas Station
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 2
+-------------------
+Macys - Department Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 337
+-------------------
+Loop Tavern - Bar
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 17
+-------------------
+Lincoln Park Zoo - Zoo
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 38
+-------------------
+Lincoln Park Institute - Doctor's Office
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 0
+-------------------
+Lincoln Park High School - High School
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 36
+-------------------
+Lincoln Park Boat Club - Lake
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Leonidas Chocolate - Chocolate Shop
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Lemonade Stand - Food Truck
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 0
+-------------------
+Lakeview Athletic Club - Gym
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 46
 -------------------
 Lakeshore Bike - Bike Shop
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-Jerk Modern Jamaican Grill Food Truck - Food Truck
-P = 0.0
+Lake Michigan Running Path - Trail
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 8
+-------------------
+Lake Michigan - Lake
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 7
+-------------------
+Kmart - Electronics Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 36
+-------------------
+Kinzie Hotel - Hotel
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 2
+-------------------
+Kimbark Plaza - Shopping Mall
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
+-------------------
+Kenwood Academy High School - High School
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 12
+-------------------
+Kennicott Bros Floral Wholesale - Flower Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 3
+-------------------
+Kendall College - University
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 360
+-------------------
+K2 Gym - Gym
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
+-------------------
+Juarez High School - High School
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 2
+-------------------
+Jerk Modern Jamaican Grill Food Truck - Food Truck
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Jane Addams Hullhouse Museum - History Museum
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-J C Lind Bike Co - Bike Shop
-P = 0.0
+J Toor - Clothing Store
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 20
+-------------------
+J C Lind Bike Co - Bike Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Ivy Sky Terrace Chicago - Bar
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Isaacson Stein Fish Market - Fish Market
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Iron Cycles Bike Shop - Bike Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 0
+-------------------
+Ios Genius Llc - IT Services
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 6
 -------------------
 Ihsp Chicago - Hostel
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Hyde Park Shopping Center - Shopping Mall
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 6
+-------------------
+Hyde Park Produce - Grocery Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 12
+-------------------
+Hyatt Regency Chicago - Hotel
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 5
+-------------------
+Hyatt Centric Chicago Magnificent Mile - Hotel
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
+-------------------
+Howard Johnson Inn - Motel
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
+-------------------
+Hotel Zachary - Hotel
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 3
+-------------------
+Hostelling International Chicago - Hostel
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 7
+-------------------
+Holiday Inn Chicago Mart Plaza River North - Hotel
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
 -------------------
 Hersheys Chocolate World Chicago - Chocolate Shop
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Haute Sausage - Food Truck
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 2
 -------------------
 Harmony Health - Doctor's Office
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Hard Rock Hotel Chicago - Hotel
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 2
+-------------------
+Halsted Flowers - Flower Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 2
+-------------------
+Guaranteed Rate Field - Baseball Stadium
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 23
+-------------------
+Groupon Game Room - Arcade
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 70
+-------------------
+Greater Englewood Parish United Methodist Church - Church
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 147
+-------------------
+Graham Cracker Comics - Comic Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 22
+-------------------
+Goose Island Shrimp House Chicago - Restaurant
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 14
+-------------------
+Go Grocer - Grocery Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 3
+-------------------
+Glazed And Infused - Donut Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 54
 -------------------
 Gelato Greco - Dessert Shop
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-Froyo - Frozen Yogurt Shop
-P = 0.0
+Gage Park High School - High School
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 2
+-------------------
+Froyo - Frozen Yogurt Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Frank Lloyd Wright Robie House - History Museum
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Fourth Presbyterian Church - Church
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 180
 -------------------
 Forman Mills - Clothing Store
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Fitness Formula Club Ffc - Gym
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 52
+-------------------
+First Paradise Mb Church - Church
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 17
+-------------------
+First Aid Comics - Bookstore
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 43
+-------------------
+Firestone Complete Auto Care - Automotive Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 1
+-------------------
+Federal Reserve Bank Of Chicago - Government Building
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 135
+-------------------
+Fairplay Food Liquor - Grocery Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 2
 -------------------
 Equilibrium Health Wellness - Doctor's Office
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-Direct Repair Inc - Mobile Phone Shop
-P = 0.0
+Einstein Bros Bagels - Bagel Shop
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 40
+-------------------
+Direct Repair Inc - Mobile Phone Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Dilly Lily - Flower Shop
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Dianas Food Mart - Deli / Bodega
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Dermatology Aesthetics Of Wicker Park - Doctor's Office
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 18
+-------------------
+Depaul University Lewis Center - Law School
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 1
 -------------------
 Depaul University - University
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-Dairy Queen - Ice Cream Shop
-P = 0.0
+Depaul Center - University
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 39
+-------------------
+De Paul University - University
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 461
+-------------------
+David Barton Gym - Gym
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 6
+-------------------
+Dairy Queen - Ice Cream Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Cycle Smithy - Bike Shop
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Cta Bus Stop 1106 - Bus Stop
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Cta Bus Stop 1097 - Bus Stop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 27
+-------------------
+Costco Wholesale - Warehouse Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
+-------------------
+Cosi - Sandwich Place
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 35
+-------------------
+Consulado Colombiano - Cultural Center
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 0
+-------------------
+Concord Mb Church - Church
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
 -------------------
 Cold Stone Creamery - Ice Cream Shop
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Clark Gas Station - Gas Station
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
+-------------------
+City Church Chicago - Church
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 52
+-------------------
+Chuck E Cheeses - Arcade
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
+-------------------
+Chocolate Hill - Dessert Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 36
 -------------------
 Childrens Memorial Outpatient Center - Hospital
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-Chicago Fire Station 18 51 - Fire Station
-P = 0.0
+Chicago Union Station - Train Station
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 42
+-------------------
+Chicago Social Beach Volleyball League - Beach
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 21
+-------------------
+Chicago Public Library Water Works Branch - Library
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 3
+-------------------
+Chicago Public Library - Library
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 12
+-------------------
+Chicago Fire Station 18 51 - Fire Station
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Chicago Cupcake - Food Truck
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Chicago Carry Out - Restaurant
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 36
+-------------------
+Cheesies Food Truck - Food Truck
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 2
+-------------------
+Challengers Comics - Comic Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 99
+-------------------
+Cattails - Flower Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 2
 -------------------
 Castaways Bar Grill - Bar
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Car Care Specialists Hand Car Wash Detailing - Car Wash
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 20
+-------------------
+Caffe Gelato - Bakery
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 1
+-------------------
+Caff%C3%A8 R%C5%8Dm - Coffee Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 300
+-------------------
+Caf River Boat Cruise - Lake
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 0
+-------------------
+Burger King - Restaurant
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 149
 -------------------
 Bucktown Chiropractic - Chiropractor
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Brazzaz Brazilian Steakhouse - Restaurant
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 147
+-------------------
+Brazilian Bowl Grill - Restaurant
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 48
 -------------------
 Brasil Legal - Restaurant
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-Between Kinzie And Hubbard On Orleans - Food Truck
-P = 0.0
+Body Works Health And Wellness - Doctor's Office
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 17
+-------------------
+Bockwinkels - Grocery Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 8
+-------------------
+Blumgarten - Flower Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 6
+-------------------
+Bicycle Station Lofts - Residential Building (Apartment / Condo)
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 36
+-------------------
+Between Kinzie And Hubbard On Orleans - Food Truck
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 0
+-------------------
+Best Buy - Electronics Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 72
+-------------------
+Berts Car Wash - Car Wash
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 33
+-------------------
+Bentley Gold Coast - Auto Dealership
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 32
+-------------------
+Becks Beer - Bar
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Barbour - Clothing Store
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-Avenue Crowne Plaza Chicago Magnificent Mile - Hotel
-P = 0.0
+Banana Republic - Clothing Store
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 37
+-------------------
+Avenue Crowne Plaza Chicago Magnificent Mile - Hotel
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Autozone - Automotive Shop
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Att - Mobile Phone Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 10
 -------------------
 Atrium Food Court James R Thompson Center - Food Court
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Atrium Food Court - Food Court
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 1
+-------------------
+Arista Foods - Grocery Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 4
+-------------------
+Arbys - Restaurant
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 18
 -------------------
 Apple North Michigan Avenue - Electronics Store
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+Apple Lincoln Park - Electronics Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 275
+-------------------
+Apostolic Church Of God - Church
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 84
+-------------------
+Anthonys Homemade Italian Ice - Ice Cream Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 2
+-------------------
+Ann Robert H Lurie Childrens Hospital Of Chicago - Hospital
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 39
+-------------------
+Ancien Bicycle - Bike Shop
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 21
 -------------------
 American Eagle Outfitters Closed - Clothing Store
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-Aji Ichiban - Candy Store
-P = 0.0
+Alfredos Bar - Bar
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 21
+-------------------
+Aji Ichiban - Candy Store
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 Aesthetic Dermatology - Doctor's Office
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-Aarons Apothecary - Pharmacy
-P = 0.0
+Ace Motorcycle And Scooter - Gas Station
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 2
+-------------------
+Aarons Apothecary - Pharmacy
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 A New Leaf - Flower Shop
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 A A Rayner Sons Funeral Home - Funeral Home
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
-47Th Street Beach - Beach
-P = 0.0
+900 North Michigan Shops - Shopping Mall
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
+Check-ins = 5
+-------------------
+47Th Street Beach - Beach
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
 Check-ins = 0
 -------------------
 400 East Fitness Spa - Gym
-P = 0.0
+P = 0
 Trocas: 0.0
-R = 1
-Disputa: 0
+R = 0
+Disputa: 0.0
 Check-ins = 0
+-------------------
+311 South Wacker - Office
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 196
+-------------------
+31 St Lakefront - Lake
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 7
+-------------------
+10Pin Bowling Lounge - Bowling Alley
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 54
+-------------------
+1030 North Clark Street - Building
+P = 0
+Trocas: 0.0
+R = 0
+Disputa: 0.0
+Check-ins = 168
 -------------------

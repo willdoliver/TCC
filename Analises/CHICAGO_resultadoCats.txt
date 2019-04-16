@@ -1,0 +1,92 @@
+--------------------------
+RESULTADOS POR CATEGORIA
+--------------------------
+33.5,Bank
+24.5,Bagel Shop
+22.0,Department Store
+22.0,Deli / Bodega
+22.0,Cultural Center
+22.0,Convenience Store
+22.0,Comic Shop
+22.0,Baseball Stadium
+21.5,Dentist's Office
+21.5,College Auditorium
+21.5,Church
+21.5,Bar
+21.0,Fish Market
+21.0,Fire Station
+21.0,Farm
+21.0,Emergency Room
+21.0,Electronics Store
+21.0,Donut Shop
+21.0,Doctor's Office
+21.0,Dessert Shop
+21.0,Coffee Shop
+21.0,Clothing Store
+21.0,Chocolate Shop
+21.0,Chiropractor
+21.0,Cemetery
+21.0,Car Wash
+21.0,Candy Store
+21.0,Bus Stop
+21.0,Building
+21.0,Bowling Alley
+21.0,Bookstore
+21.0,Big Box Store
+21.0,Beach
+20.5,Bike Shop
+20.0,Food Court
+20.0,Food & Drink Shop
+20.0,Flower Shop
+18.0,Football Stadium
+18.0,Food Truck
+17.0,Funeral Home
+17.0,Fruit & Vegetable Store
+17.0,Frozen Yogurt Shop
+17.0,Bakery
+17.0,Automotive Shop
+17.0,Auto Dealership
+15.5,Government Building
+15.5,Gas Station
+14.0,Gourmet Shop
+13.0,Gym / Fitness Center
+13.0,Gym
+12.5,Grocery Store
+12.0,History Museum
+12.0,High School
+8.0,Hostel
+8.0,Hospital
+7.0,University
+7.0,Law School
+7.0,Lake
+7.0,Ice Cream Shop
+7.0,IT Services
+7.0,Hotel
+6.5,Warehouse Store
+6.5,Train Station
+6.5,Jewelry Store
+6.0,Zoo
+6.0,Women's Store
+6.0,Waterfront
+6.0,Trail
+6.0,Supplement Shop
+6.0,Supermarket
+6.0,Shopping Mall
+6.0,Sandwich Place
+6.0,Restaurant
+6.0,Residential Building (Apartment / Condo)
+6.0,Pier
+6.0,Pharmacy
+6.0,Park
+6.0,Other Great Outdoors
+6.0,Office
+6.0,Noodle House
+6.0,Motel
+6.0,Mobile Phone Shop
+6.0,Military Base
+6.0,Medical School
+6.0,Lingerie Store
+6.0,Library
+4.0,Art Museum
+2.0,Arcade
+0.0,Airport

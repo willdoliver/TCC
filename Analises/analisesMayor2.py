@@ -6,6 +6,8 @@ import math
 from pprint import pprint
 from datetime import datetime
 import matplotlib.pyplot as plt
+import pandas as pd
+
 
 ############ Formulas ############
 #
@@ -93,7 +95,6 @@ def analisaDados(arqAnalise,arqSaida):
 	# Loop para comparar cada local unico com seus correspondentes no JSON
 	with open('Req200/'+arqAnalise, 'r') as f:
 
-		qtde_locais = 0
 		categorias = []
 		
 		data = json.load(f)
@@ -137,14 +138,11 @@ def analisaDados(arqAnalise,arqSaida):
 				if s[0] in day_done:
 					continue
 				else:
-					day_done.append(str(s[0]))				
-					# print(str(day_done) + ' - ' + str(total))
+					day_done.append(str(s[0]))
 					results.append([s[0], s[1], s[2], s[3], s[4]])
 
 			del struct[:]
 			del day_done[:]
-
-			# results.sort()
 
 			# results possui o maior valor de check-ins para cada data
 			for r in results:
@@ -165,31 +163,23 @@ def analisaDados(arqAnalise,arqSaida):
 			disputa = round(reapPrefs * (math.log( sum(total)+1 )),2)	
 
 			saida.append([trocas, trocaPrefs, loc, disputa, reapPrefs, sum(total), cat])
-			
-			if r[4] == 'Parkshoppingbarigui':
-				print(people)
-				print(sum(total))
-				print(trocaPrefs)
-				print(reapPrefs)
-				print(trocas)
-				print(disputa)
-				print(saida)
 
-						
-			# resultCats.append([qtde_locais, categorias, sum(total)])
+			resultCats.append([cat, loc, sum(total)])
 
 		arq = open(arqSaida+'.txt', 'w')
 		print("Escrevendo saida arquivo: "+ arqSaida+'.txt')
 		arq.write("-------------------")
 		arq.write("\n")
-		arq.write("RESULTADOS")
+		arq.write("RESULTADOS POR LOCAL")
 		arq.write("\n")
 		arq.write("-------------------")
 		arq.write("\n")
 		saida.sort(reverse=True)
 
 		for res in saida:
-			print(res)
+			if res[2].encode('utf-8') == "Canonicalurl': U'Https:":
+				continue
+			# print(res)
 			arq.write(str(res[2].encode('utf-8')) + ' - ' + str(res[6])) # Local
 			arq.write("\n")
 			arq.write( "P = " + str( res[1]) ) # quantidade de trocas
@@ -206,15 +196,53 @@ def analisaDados(arqAnalise,arqSaida):
 			arq.write("\n")
 
 		arq.close()
+		
+		resultCats.sort()
+
+		res = []
+		for r in resultCats:
+			res.append(r[0])
+		res = remove_repetidos(res)
+		# print(res)
+		
+		cat_done=[]
+		checkinsCat=[]
+		for r in res:
+			for val in resultCats:	
+				if r == val[0]:
+					cat_done.append(val[2])
+				else:
+					continue
+
+			checkinsCat.append([pd.Series(cat_done).median(),r])
+
+		checkinsCat.sort(reverse=True)
+		# print(checkinsCat)
+		arqCat = open(arqSaida+'Cats.txt', 'w')
+		
+		arqCat.write("--------------------------")
+		arqCat.write("\n")
+		arqCat.write("RESULTADOS POR CATEGORIA")
+		arqCat.write("\n")
+		arqCat.write("--------------------------")
+		arqCat.write("\n")
+		
+		for cat in checkinsCat:
+			arqCat.write(str(cat[0]))
+			arqCat.write(',')
+			arqCat.write(str(cat[1]))
+			arqCat.write('\n')
+		
+		arqCat.close()
 
 	print("Fim arquivo " + arqAnalise + '\n\n')
 
 
 def main():
 
-	analisaDados('curitibaWithName.json', 'CWB_resultado')
+	# analisaDados('curitibaWithName.json', 'CWB_resultado')
 	# analisaDados('chicagoWithName.json', 'CHICAGO_resultado')
-	# analisaDados('saoPauloWithName.json', 'SP_resultado')
+	analisaDados('saoPauloWithName.json', 'SP_resultado')
 	
 
 if __name__ == '__main__':
