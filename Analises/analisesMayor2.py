@@ -33,41 +33,9 @@ def remove_repetidos(lista):
     l.sort()
     return l
 
-def calc_reaparicao(mayor):
+def calc_pref(mayor):
 	size = len(mayor)
 	resultado = 0
-	#print(mayor)
-
-	if size < 2 :
-		return 0
-
-	# Percorre lista de prefeitos
-	for info,value in enumerate(mayor):
-		current = mayor[info]
-
-		aux = 0
-		while (aux <= size-2):
-			try:
-				# print(current +' - '+ mayor[aux+2])
-				if ( current != mayor[info+1] and current in mayor):
-					resultado += 1
-					aux += 1
-					del mayor[0]
-					continue
-				aux += 1
-			except:
-				return resultado
-
-	return resultado
-
-def calc_pref(mayor,cat):
-	size = len(mayor)
-	resultado = 0
-
-	# if cat.encode('utf-8') == 'Parkshoppingbarigui':
-		# print(mayor)
-		# print(size)
-
 
 	if size == 1:
 		return 0
@@ -84,6 +52,27 @@ def calc_pref(mayor,cat):
 		except:
 			continue
 	return resultado
+
+
+def calc_reaparicao(mayor):
+	size = len(mayor)
+
+	mayors = []
+	for may in mayor:
+		mayors.append(int(may))
+
+	resultado = 0
+
+	if size < 2 :
+		return 0
+
+	try:
+		# Percorre lista de prefeitos
+		for i,v in enumerate(mayors):
+			if ( mayors[i] != mayors[i+1] and mayors[i:].count(mayors[i]) > 1):
+				resultado += 1
+	except:
+		return resultado
 
 def sortSecond(val): 
     return val[2]
@@ -142,7 +131,7 @@ def analisaDados(arqAnalise,arqSaida):
 					struct.append([data_atual, cat, tot, peo, loc.encode('utf-8')])
 
 			struct.sort(reverse=True, key=sortSecond)
-			
+
 			day_done=[]
 			for s in struct:		
 				if s[0] in day_done:
@@ -155,30 +144,40 @@ def analisaDados(arqAnalise,arqSaida):
 			del struct[:]
 			del day_done[:]
 
-			results.sort()
+			# results.sort()
+
 			# results possui o maior valor de check-ins para cada data
 			for r in results:
 				if loc.encode('utf-8') == r[4]:
-				# if r[4] == 'Parkshoppingbarigui':
 					# print(r)
 					people.append(r[3])
 					total.append(r[2])
 				else:
 					continue
-			trocaPrefs = calc_pref(people,loc)
-			# Calcula reaparicao
+
+			# Calculo de trocas
+			trocaPrefs = calc_pref(people)
+
+			# Calcula disputa
 			reapPrefs = calc_reaparicao(people)
+			
+			trocas = round(trocaPrefs * (math.log( sum(total)+1 )),2)
+			disputa = round(reapPrefs * (math.log( sum(total)+1 )),2)	
+
+			saida.append([trocas, trocaPrefs, loc, disputa, reapPrefs, sum(total), cat])
+			
+			if r[4] == 'Parkshoppingbarigui':
+				print(people)
+				print(sum(total))
+				print(trocaPrefs)
+				print(reapPrefs)
+				print(trocas)
+				print(disputa)
+				print(saida)
 
 						
-			# Calculo de P e R
-			trocas = round(trocaPrefs * (math.log( sum(total)+1 )),2)
-			disputa = round(reapPrefs * (math.log( sum(total)+1 )),2)		
-
-			# Lista de saida para locais
-			saida.append([trocas, trocaPrefs, loc, disputa, reapPrefs, sum(total), cat])
 			# resultCats.append([qtde_locais, categorias, sum(total)])
-		# print(saida)
-		# exit(0)
+
 		arq = open(arqSaida+'.txt', 'w')
 		print("Escrevendo saida arquivo: "+ arqSaida+'.txt')
 		arq.write("-------------------")
@@ -187,9 +186,10 @@ def analisaDados(arqAnalise,arqSaida):
 		arq.write("\n")
 		arq.write("-------------------")
 		arq.write("\n")
-		results.sort(reverse=True)
+		saida.sort(reverse=True)
 
 		for res in saida:
+			print(res)
 			arq.write(str(res[2].encode('utf-8')) + ' - ' + str(res[6])) # Local
 			arq.write("\n")
 			arq.write( "P = " + str( res[1]) ) # quantidade de trocas
@@ -206,33 +206,7 @@ def analisaDados(arqAnalise,arqSaida):
 			arq.write("\n")
 
 		arq.close()
-		exit(0)
-	# arqCat = open(arqSaida+'Cat.txt', 'w')
-	# print("Escrevendo saida arquivo: "+ arqSaida+'Cat.txt')
-	# arqCat.write("-------------------")
-	# arqCat.write("\n")
-	# arqCat.write("RESULTADOS")
-	# arqCat.write("\n")
-	# arqCat.write("-------------------")
-	# arqCat.write("\n")
-	# results.sort(reverse=True)
 
-	# for res in resultCats:
-	# 	try:
-	# 		arqCat.write(res[1]) # Categoria
-	# 		arqCat.write("\n")
-	# 		arqCat.write( "Qtde Locais = " + str( res[0]) ) # quantidade de locais da categoria
-	# 		arqCat.write("\n")
-	# 		arqCat.write( "Total Check-ins = " + str(res[3]) ) # Calculo da formula para P
-	# 		arqCat.write("\n")
-	# 		arqCat.write( "Media = " + str(res[2]) ) # quantidade de reaparicoes
-	# 		arqCat.write("\n")
-	# 		arqCat.write("-------------------")
-	# 		arqCat.write("\n")
-	# 	except:
-	# 		pass
-	# arqCat.close()
-	# print(categorias)
 	print("Fim arquivo " + arqAnalise + '\n\n')
 
 
@@ -281,8 +255,3 @@ if __name__ == '__main__':
 # wm = plt.get_current_fig_manager() # Para imprimir em tela cheia
 # wm.window.state('zoomed') # Tipo da saida do grafico
 # plt.show()
-
-
-
-
-
