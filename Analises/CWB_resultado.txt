@@ -2766,7 +2766,7 @@ R = 0
 Disputa: 0.0
 Check-ins = 67
 -------------------
-Jardim Botânico - Botanical Garden
+Jardim Botânico - Park
 P = 0
 Trocas: 0.0
 R = 0

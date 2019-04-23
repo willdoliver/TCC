@@ -1,114 +1,51 @@
--------------------
-RESULTADOS POR CATEGORIA
--------------------
-98.0,Social Club
-98.0,Smoke Shop
-98.0,Shopping Plaza
-98.0,Shopping Mall
-97.5,Soccer Stadium
-96.0,Spa
-96.0,Soccer Field
-96.0,School
-96.0,Park
-95.0,Pharmacy
-94.0,Pet Store
-94.0,Irish Pub
-94.0,IT Services
-94.0,Hotel
-94.0,Hospital
-93.5,Sandwich Place
-93.5,Ice Cream Shop
-93.5,Hostel
-93.0,Supermarket
-93.0,Sports Bar
-93.0,Restaurant
-93.0,Optical Shop
-93.0,Office
-93.0,Nightclub
-93.0,Library
-93.0,Law School
-93.0,Language School
-93.0,Kids Store
-93.0,Jewelry Store
-93.0,Hot Dog Joint
-93.0,History Museum
-92.5,Market
-92.0,Video Game Store
-92.0,Viaduto Tudo Paraaado
-92.0,University
-92.0,Taxi
-92.0,TV Station
-92.0,Sushi Restaurant
-92.0,Strip Club
-92.0,Playground
-92.0,Pizza Place
-92.0,Movie Theater
-92.0,Mobile Phone Shop
-92.0,Military Base
-92.0,Mediterranean Restaurant
-92.0,High School
-92.0,Health Food Store
-92.0,Gym
-91.5,Warehouse Store
-91.5,Tea Room
-91.5,Night Market
-91.5,Motel
-91.0,Museum
-90.5,Police Station
-90.0,Pub
-90.0,Professional & Other Places
-90.0,Post Office
-90.0,Pool
-90.0,Pontifice3o
-89.5,Rental Car Location
-89.0,Resort
-88.0,Grocery Store
-87.0,Driving School
-86.5,Emergency Room
-86.0,Doctors Office
-86.0,Dessert Shop
-85.0,Donut Shop
-84.0,General Travel
-83.0,Gastropub
-83.0,Fish Market
-83.0,Farmers Market
-83.0,Eye Doctor
-82.0,Gas Station
-81.0,Fire Station
-81.0,Farm
-81.0,Department Store
-81.0,Dentists Office
-81.0,Cultural Center
-80.5,Flower Shop
-79.0,Funeral Home
-79.0,Fruit & Vegetable Store
-79.0,Frozen Yogurt Shop
-79.0,Football Stadium
-79.0,Food & Drink Shop
-79.0,Electronics Store
-79.0,Coffee Shop
-79.0,Clothing Store
-78.0,Food Truck
-78.0,Comic Shop
-77.5,Church
-77.5,Candy Store
-77.0,Convenience Store
-76.0,Chocolate Shop
-76.0,Cemetery
-76.0,Casino
-76.0,Car Wash
-76.0,Bus Stop
-76.0,Bike Shop
-76.0,Big Box Store
-76.0,Bar
-74.5,Botanical Garden
-73.0,Bowling Alley
-73.0,Bookstore
-60.0,Beer Store
-44.0,Beach
-39.0,Bank
-27.0,Asian Restaurant
-24.0,Art Museum
-22.0,Automotive Shop
-20.0,Acai House
-12.0,Arcade
+categorias,Media Check-ins,Fórmula Trocas,Fórmula Disputa,Count,Desvio Padrao, Elements
+Irish Pub	264.0	8.0	6.0	1	nan	[264]
+Art Museum	30.0	7.0	3.67	3	123.01	[30, 240, 24]
+Night Market	112.0	6.0	3.0	1	nan	[112]
+Big Box Store	246.0	5.33	3.67	3	326.35	[93, 246, 719]
+Shopping Mall	180.0	5.24	2.41	17	221.95	[118, 84, 10, 123, 133, 191, 994, 118, 70, 287, 180, 253, 194, 219, 284, 178, 450]
+Movie Theater	171.0	5.0	4.0	1	nan	[171]
+Beer Store	439.0	5.0	2.0	1	nan	[439]
+Hospital	165.5	4.6	2.6	10	202.92	[695, 178, 394, 0, 147, 153, 384, 206, 108, 88]
+Market	67.0	4.33	3.0	3	139.66	[43, 67, 296]
+Cultural Center	240.0	4.25	2.75	4	203.49	[270, 565, 210, 85]
+Fish Market	440.0	4.0	3.0	1	nan	[440]
+Farmers Market	190.0	4.0	3.0	1	nan	[190]
+Shopping Plaza	92.0	4.0	3.0	3	102.16	[204, 0, 92]
+Asian Restaurant	209.0	4.0	1.0	1	nan	[209]
+Park	335.0	3.38	2.57	21	484.35	[254, 67, 90, 406, 0, 1260, 0, 1112, 467, 335, 1046, 101, 1158, 310, 208, 792, 1161, 1357, 0, 365, 0]
+Bank	287.0	3.0	2.0	5	95.11	[335, 292, 287, 160, 114]
+Gastropub	113.0	3.0	1.33	3	32.42	[72, 136, 113]
+University	229.0	2.92	2.38	13	386.53	[1140, 81, 72, 93, 270, 72, 7, 229, 232, 0, 1022, 420, 733]
+Hotel	121.0	2.8	1.7	10	242.27	[852, 79, 158, 263, 67, 0, 102, 253, 131, 111]
+Gas Station	127.0	2.27	1.45	11	165.03	[127, 109, 53, 96, 224, 83, 142, 45, 177, 278, 628]
+Sandwich Place	198.0	2.2	1.8	5	202.7	[107, 528, 198, 132, 492]
+Dessert Shop	96.0	2.18	1.18	11	56.98	[128, 74, 219, 131, 94, 79, 42, 0, 144, 111, 96]
+Pub	120.5	2.17	1.33	6	94.6	[67, 0, 207, 174, 0, 183]
+Pharmacy	102.0	2.14	1.0	7	104.68	[119, 85, 261, 0, 245, 0, 102]
+Bar	83.0	2.13	1.13	8	241.92	[31, 734, 232, 87, 79, 162, 14, 0]
+Post Office	134.0	2.0	1.0	3	225.53	[0, 440, 134]
+Health Food Store	96.0	2.0	1.0	2	106.07	[21, 171]
+Eye Doctor	21.5	2.0	1.0	4	35.25	[0, 0, 72, 43]
+Food Truck	71.0	1.86	1.43	7	84.21	[142, 0, 31, 213, 181, 71, 22]
+Restaurant	130.5	1.77	0.97	40	132.57	[69, 726, 276, 107, 98, 104, 91, 221, 129, 0, 197, 70, 57, 216, 365, 0, 0, 167, 165, 256, 57, 167, 25, 132, 64, 367, 65, 91, 132, 159, 177, 129, 72, 40, 183, 111, 195, 375, 216, 174]
+History Museum	185.0	1.75	1.25	4	366.47	[90, 236, 876, 134]
+Sports Bar	35.0	1.71	0.71	7	19.17	[35, 49, 37, 36, 0, 0, 21]
+Military Base	59.0	1.6	1.4	10	180.89	[458, 13, 0, 136, 0, 47, 0, 293, 426, 71]
+Bus Stop	516.0	1.5	1.3	10	541.66	[1138, 709, 278, 0, 784, 0, 323, 1610, 795, 0]
+Coffee Shop	74.0	1.5	1.0	6	141.66	[31, 0, 59, 288, 89, 335]
+Doctors Office	81.5	1.5	0.9	10	107.27	[242, 8, 0, 22, 70, 93, 190, 0, 288, 172]
+Soccer Stadium	161.5	1.5	0.88	8	839.75	[0, 1031, 44, 1904, 102, 197, 1935, 126]
+Hostel	92.0	1.4	0.6	5	49.92	[128, 100, 0, 92, 50]
+Church	207.0	1.22	1.0	9	378.97	[207, 857, 72, 278, 288, 145, 72, 74, 1118]
+Pizza Place	64.0	1.21	0.58	19	59.41	[76, 27, 232, 82, 0, 0, 9, 0, 0, 0, 67, 64, 98, 85, 114, 0, 0, 73, 72]
+Police Station	62.0	1.19	0.63	16	228.19	[132, 0, 57, 67, 0, 0, 0, 223, 55, 0, 603, 104, 0, 67, 145, 785]
+Department Store	82.5	1.17	0.5	6	64.03	[182, 71, 56, 94, 0, 139]
+Supermarket	130.0	1.08	0.31	13	177.45	[122, 189, 94, 2, 146, 557, 515, 359, 130, 34, 72, 179, 64]
+Candy Store	146.0	1.0	0.6	5	107.73	[73, 360, 144, 146, 193]
+Warehouse Store	57.0	1.0	0.0	1	nan	[57]
+Mediterranean Restaurant	50.0	1.0	0.0	1	nan	[50]
+Acai House	20.0	1.0	0.0	1	nan	[20]
+Arcade	4.0	1.0	0.0	1	nan	[4]
+Gym	122.0	0.82	0.64	11	195.46	[0, 0, 96, 0, 345, 475, 213, 213, 7, 538, 122]
+Pet Store	66.0	0.8	0.53	15	97.4	[67, 0, 230, 0, 38, 201, 100, 134, 315, 0, 134, 0, 0, 66, 45]

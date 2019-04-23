@@ -150,6 +150,7 @@ def analisaDados(arqAnalise,arqSaida):
 					# print(r)
 					people.append(r[3])
 					total.append(r[2])
+
 				else:
 					continue
 
@@ -164,7 +165,7 @@ def analisaDados(arqAnalise,arqSaida):
 
 			saida.append([trocas, trocaPrefs, loc, disputa, reapPrefs, sum(total), cat])
 
-			resultCats.append([cat, loc, sum(total)])
+			resultCats.append([cat, loc, sum(total), trocaPrefs, reapPrefs])
 
 		arq = open(arqSaida+'.txt', 'w')
 		print("Escrevendo saida arquivo: "+ arqSaida+'.txt')
@@ -176,21 +177,21 @@ def analisaDados(arqAnalise,arqSaida):
 		arq.write("\n")
 		saida.sort(reverse=True)
 
-		for res in saida:
-			if res[2].encode('utf-8') == "Canonicalurl': U'Https:":
+		for s in saida:
+			if s[2].encode('utf-8') == "Canonicalurl': U'Https:":
 				continue
-			# print(res)
-			arq.write(str(res[2].encode('utf-8')) + ' - ' + str(res[6])) # Local
+			# print(s)
+			arq.write(str(s[2].encode('utf-8')) + ' - ' + str(s[6])) # Local
 			arq.write("\n")
-			arq.write( "P = " + str( res[1]) ) # quantidade de trocas
+			arq.write( "P = " + str( s[1]) ) # quantidade de trocas
 			arq.write("\n")
-			arq.write( "Trocas: " + str(res[0]) ) # Calculo da formula para P
+			arq.write( "Trocas: " + str(s[0]) ) # Calculo da formula para P
 			arq.write("\n")
-			arq.write( "R = " + str(res[4]) ) # quantidade de reaparicoes
+			arq.write( "R = " + str(s[4]) ) # quantidade de reaparicoes
 			arq.write("\n")
-			arq.write( "Disputa: " + str(res[3]) ) # Calculo da formula para R
+			arq.write( "Disputa: " + str(s[3]) ) # Calculo da formula para R
 			arq.write("\n")
-			arq.write( "Check-ins = " + str(res[5]) ) # numero de reaparicoes
+			arq.write( "Check-ins = " + str(s[5]) ) # numero de reaparicoes
 			arq.write("\n")
 			arq.write("-------------------")
 			arq.write("\n")
@@ -198,41 +199,70 @@ def analisaDados(arqAnalise,arqSaida):
 		arq.close()
 		
 		resultCats.sort()
-
+		
+		# print(resultCats)
+		# exit(0)
+		
 		res = []
 		for r in resultCats:
 			res.append(r[0])
 		res = remove_repetidos(res)
 		# print(res)
 		
-		cat_done=[]
 		checkinsCat=[]
 		for r in res:
+			agrupTrocas = []
+			agrupReap = []
+			agrupCat=[]
 			for val in resultCats:	
 				if r == val[0]:
-					cat_done.append(val[2])
+					agrupCat.append(val[2])
+					agrupTrocas.append(val[3])
+					agrupReap.append(val[4])
 				else:
 					continue
 
-			checkinsCat.append([pd.Series(cat_done).median(),r])
-
+			checkinsCat.append([
+				pd.Series(agrupTrocas).mean(),
+				pd.Series(agrupReap).mean(),
+				pd.Series(agrupCat).median(),
+				r,
+				len(agrupCat),
+				pd.Series(agrupCat).std(), # Desvio padrao
+				agrupCat
+			])
+		print(checkinsCat)
+		# exit(0)
 		checkinsCat.sort(reverse=True)
 		# print(checkinsCat)
 		arqCat = open(arqSaida+'Cats.txt', 'w')
 		
-		arqCat.write("--------------------------")
-		arqCat.write("\n")
-		arqCat.write("RESULTADOS POR CATEGORIA")
-		arqCat.write("\n")
-		arqCat.write("--------------------------")
+		arqCat.write("categorias,Media Check-ins,Fórmula Trocas,Fórmula Disputa,Count,Desvio Padrao, Elements")
 		arqCat.write("\n")
 		
+		numCategs = 0
+		catsMax = 50
+	
 		for cat in checkinsCat:
-			arqCat.write(str(cat[0]))
-			arqCat.write(',')
-			arqCat.write(str(cat[1]))
+			arqCat.write(str(cat[3]))
+			arqCat.write('	')
+			arqCat.write(str(cat[2]))
+			arqCat.write('	')
+			arqCat.write(str(round(cat[0],2)))
+			arqCat.write('	')
+			arqCat.write(str(round(cat[1],2)))
+			arqCat.write('	')
+			arqCat.write(str(cat[4]))
+			arqCat.write('	')
+			arqCat.write(str(round(cat[5],2)))
+			arqCat.write('	')
+			arqCat.write(str(cat[6]))
 			arqCat.write('\n')
-		
+			numCategs += 1
+
+			if numCategs == catsMax:
+				break
+	
 		arqCat.close()
 
 	print("Fim arquivo " + arqAnalise + '\n\n')
@@ -267,19 +297,3 @@ if __name__ == '__main__':
 # 		"shortName": "Bank"
 # 	}]
 # }
-
-
-
-	
-# 		x.append(item)
-# 		y.append(categories_count[item])
-
-		
-# plt.plot(x, y)
-# plt.title('Grafico Curitiba')
-# plt.ylabel("Media")
-# plt.xlabel("Cidade")
-# plt.xticks(x, rotation='vertical') # Imprimir eixo x na vertical
-# wm = plt.get_current_fig_manager() # Para imprimir em tela cheia
-# wm.window.state('zoomed') # Tipo da saida do grafico
-# plt.show()

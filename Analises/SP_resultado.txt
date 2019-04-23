@@ -183,7 +183,7 @@ R = 1
 Disputa: 4.17
 Check-ins = 64
 -------------------
-Soda Pop Bar - Gay Bar
+Soda Pop Bar - Bar
 P = 3
 Trocas: 12.28
 R = 2
