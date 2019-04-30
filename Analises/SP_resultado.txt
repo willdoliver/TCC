@@ -1,1963 +1,281 @@
--------------------
-RESULTADOS POR LOCAL
--------------------
-Bh Lanches - Bar
-P = 13
-Trocas: 76.41
-R = 11
-Disputa: 64.66
-Check-ins = 356
--------------------
-Ibotirama - Bar
-P = 10
-Trocas: 49.2
-R = 7
-Disputa: 34.44
-Check-ins = 136
--------------------
-Mercearia São Pedro - Bar
-P = 7
-Trocas: 37.72
-R = 6
-Disputa: 32.33
-Check-ins = 218
--------------------
-Mosteiro De São Bento - Church
-P = 8
-Trocas: 36.17
-R = 6
-Disputa: 27.13
-Check-ins = 91
--------------------
-Veloso Bar - Bar
-P = 6
-Trocas: 28.97
-R = 3
-Disputa: 14.48
-Check-ins = 124
--------------------
-Bar Brahma - Bar
-P = 5
-Trocas: 27.34
-R = 2
-Disputa: 10.94
-Check-ins = 236
--------------------
-Tozé Lanchonete Bar DalôCa - Bar
-P = 6
-Trocas: 27.13
-R = 4
-Disputa: 18.09
-Check-ins = 91
--------------------
-Bar Mooca - Bar
-P = 5
-Trocas: 26.83
-R = 4
-Disputa: 21.46
-Check-ins = 213
--------------------
-Pirajá - Bar
-P = 5
-Trocas: 25.96
-R = 3
-Disputa: 15.58
-Check-ins = 179
--------------------
-Aeroporto Campo De Marte Mae - Airport
-P = 4
-Trocas: 25.61
-R = 3
-Disputa: 19.21
-Check-ins = 602
--------------------
-Violeta Bar Restaurante - Bar
-P = 5
-Trocas: 25.56
-R = 3
-Disputa: 15.34
-Check-ins = 165
--------------------
-Bar CalçAda Da Lapa - Bar
-P = 5
-Trocas: 25.15
-R = 3
-Disputa: 15.09
-Check-ins = 152
--------------------
-Sp Diversões - General Entertainment
-P = 5
-Trocas: 24.06
-R = 2
-Disputa: 9.62
-Check-ins = 122
--------------------
-Bar LéO - Bar
-P = 5
-Trocas: 23.36
-R = 2
-Disputa: 9.35
-Check-ins = 106
--------------------
-Salve Jorge - Bar
-P = 5
-Trocas: 23.22
-R = 3
-Disputa: 13.93
-Check-ins = 103
--------------------
-Santa Fé Cervejaria - Bar
-P = 5
-Trocas: 22.5
-R = 3
-Disputa: 13.5
-Check-ins = 89
--------------------
-Renascer Hall - Church
-P = 4
-Trocas: 21.17
-R = 3
-Disputa: 15.88
-Check-ins = 198
--------------------
-Senzala Bar Grill - Bar
-P = 4
-Trocas: 16.1
-R = 3
-Disputa: 12.08
-Check-ins = 55
--------------------
-ArmazéN Paulista - Bar
-P = 3
-Trocas: 14.56
-R = 2
-Disputa: 9.7
-Check-ins = 127
--------------------
-Bar Do Ghassan - Bar
-P = 3
-Trocas: 14.23
-R = 2
-Disputa: 9.49
-Check-ins = 114
--------------------
-Rei Das Batidas - Bar
-P = 3
-Trocas: 13.82
-R = 1
-Disputa: 4.61
-Check-ins = 99
--------------------
-Catedral Da Sé - Church
-P = 3
-Trocas: 13.63
-R = 1
-Disputa: 4.54
-Check-ins = 93
--------------------
-Paribar - Bar
-P = 3
-Trocas: 13.6
-R = 1
-Disputa: 4.53
-Check-ins = 92
--------------------
-Deck Lounge Bar - Bar
-P = 3
-Trocas: 12.79
-R = 2
-Disputa: 8.53
-Check-ins = 70
--------------------
-Bar São Benedito - Bar
-P = 3
-Trocas: 12.57
-R = 1
-Disputa: 4.19
-Check-ins = 65
--------------------
-ó Do Borogodó - Bar
-P = 3
-Trocas: 12.52
-R = 1
-Disputa: 4.17
-Check-ins = 64
--------------------
-Soda Pop Bar - Bar
-P = 3
-Trocas: 12.28
-R = 2
-Disputa: 8.19
-Check-ins = 59
--------------------
-Igreja Metodista Em Campo Belo - Church
-P = 2
-Trocas: 11.63
-R = 1
-Disputa: 5.81
-Check-ins = 334
--------------------
-Boteco Prato Do Dia - Bar
-P = 3
-Trocas: 11.42
-R = 1
-Disputa: 3.81
-Check-ins = 44
--------------------
-Universidade Anhembi Morumbi - University
-P = 3
-Trocas: 11.21
-R = 0
-Disputa: 0.0
-Check-ins = 41
--------------------
-Retiro Do Chopp - Bar
-P = 3
-Trocas: 11.07
-R = 2
-Disputa: 7.38
-Check-ins = 39
--------------------
-Rainha Do Morumbi - Bar
-P = 2
-Trocas: 9.99
-R = 1
-Disputa: 5.0
-Check-ins = 147
--------------------
-Loirão Bar - Bar
-P = 2
-Trocas: 8.61
-R = 1
-Disputa: 4.3
-Check-ins = 73
--------------------
-Futebol Pizza Bar - Bar
-P = 2
-Trocas: 8.44
-R = 1
-Disputa: 4.22
-Check-ins = 67
--------------------
-Ebusiness Park - Business Center
-P = 2
-Trocas: 8.01
-R = 1
-Disputa: 4.01
-Check-ins = 54
--------------------
-Igreja Nossa Senhora De Monte Serrat - Church
-P = 2
-Trocas: 7.57
-R = 1
-Disputa: 3.78
-Check-ins = 43
--------------------
-Coffee Lab - Coffee Shop
-P = 2
-Trocas: 6.36
-R = 1
-Disputa: 3.18
-Check-ins = 23
--------------------
-Prainha Paulista - Bar
-P = 1
-Trocas: 5.89
-R = 0
-Disputa: 0.0
-Check-ins = 360
--------------------
-Galeria Trianon - Shopping Mall
-P = 1
-Trocas: 5.72
-R = 0
-Disputa: 0.0
-Check-ins = 303
--------------------
-Starbucks - Coffee Shop
-P = 1
-Trocas: 5.68
-R = 0
-Disputa: 0.0
-Check-ins = 291
--------------------
-Shopping Center 3 - Shopping Mall
-P = 2
-Trocas: 5.42
-R = 0
-Disputa: 0.0
-Check-ins = 14
--------------------
-Shopping Metrô Boulevard Tatuapé - Shopping Mall
-P = 2
-Trocas: 4.97
-R = 0
-Disputa: 0.0
-Check-ins = 11
--------------------
-Bebo Sim - Bar
-P = 1
-Trocas: 4.37
-R = 0
-Disputa: 0.0
-Check-ins = 78
--------------------
-Boteco Todos Os Santos - Bar
-P = 1
-Trocas: 4.03
-R = 0
-Disputa: 0.0
-Check-ins = 55
--------------------
-Mr Cult - Bar
-P = 1
-Trocas: 4.01
-R = 0
-Disputa: 0.0
-Check-ins = 54
--------------------
-Shopping Pátio Higienópolis - Shopping Mall
-P = 1
-Trocas: 3.78
-R = 0
-Disputa: 0.0
-Check-ins = 43
--------------------
-Shopping Center Norte - Shopping Mall
-P = 1
-Trocas: 3.37
-R = 0
-Disputa: 0.0
-Check-ins = 28
--------------------
-Ilha Das Flores - Bar
-P = 1
-Trocas: 3.14
-R = 0
-Disputa: 0.0
-Check-ins = 22
--------------------
-Galeria Metrópole - Building
-P = 1
-Trocas: 3.0
-R = 0
-Disputa: 0.0
-Check-ins = 19
--------------------
-Padoca Dos Brother - Bar
-P = 1
-Trocas: 2.71
-R = 0
-Disputa: 0.0
-Check-ins = 14
--------------------
-Igreja Santo Antonio Do Pari - Church
-P = 1
-Trocas: 2.71
-R = 0
-Disputa: 0.0
-Check-ins = 14
--------------------
-Shopping Eldorado - Shopping Mall
-P = 1
-Trocas: 2.64
-R = 0
-Disputa: 0.0
-Check-ins = 13
--------------------
-Edifício Copan - Residential Building (Apartment / Condo)
-P = 1
-Trocas: 2.56
-R = 0
-Disputa: 0.0
-Check-ins = 12
--------------------
-Top Center Shopping - Shopping Mall
-P = 1
-Trocas: 2.4
-R = 0
-Disputa: 0.0
-Check-ins = 10
--------------------
-Sofá Café - Coffee Shop
-P = 1
-Trocas: 2.4
-R = 0
-Disputa: 0.0
-Check-ins = 10
--------------------
-Aroma Café Bistrô - Coffee Shop
-P = 1
-Trocas: 2.08
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Cinearte - Indie Movie Theater
-P = 1
-Trocas: 0.69
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Z Carniceria - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Youpix Office - Zoo
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Xploud Academia - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Você Vai Se Quiser Samba Da PraçA Roosevelt - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 48
--------------------
-Villagio Olimpia - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 6
--------------------
-Villa Caetanos - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 305
--------------------
-Vanvan Bar - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Valadares - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 51
--------------------
-Universidade São Judas Tadeu Usjt Unidade Butantã - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 15
--------------------
-Universidade Presbiteriana Mackenzie - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 55
--------------------
-Universal Studies Planet Holiday - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 6
--------------------
-Tryp São Paulo Iguatemi Hotel - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Triathon Academia - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 20
--------------------
-Torre De Controle - Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 56
--------------------
-Thisishome - Home (private)
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-The Universe - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 5
--------------------
-The 70 Years Bar - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 220
--------------------
-TerraçO Major - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 56
--------------------
-Templo De Salomão - Temple
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 713
--------------------
-São Paulo Hotel - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Sweet Parada Tia Da Pinga - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 304
--------------------
-Sp Up Academia - Gymnastics Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 16
--------------------
-Snt Zona Norte - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Smart Fit - Gym / Fitness Center
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 25
--------------------
-Sigbol Fashion - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Shopping Metrô Tatuapé - Shopping Mall
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 16
--------------------
-Shopping Iguatemi - Shopping Mall
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 14
--------------------
-Shopping Frei Caneca - Shopping Mall
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 20
--------------------
-Saudade - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Santos Dumont Café - Coffee Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Santo Cristo Bar - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Santana Parque Shopping - Shopping Mall
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 16
--------------------
-Samaro Ii - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 463
--------------------
-Salão De Jogos Animarte - Arcade
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 504
--------------------
-Rwhite Fitness Wellness - Gym / Fitness Center
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 5
--------------------
-Runner - Gym / Fitness Center
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Rua Platina190 - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 50
--------------------
-Rota Norte - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 54
--------------------
-Ritz - Burger Joint
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Renaissance São Paulo Hotel - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 21
--------------------
-Rei Do Mate - Tea Room
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 6
--------------------
-Red Fitness - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 9
--------------------
-Radioterapia Ibcc Instituto Brasileiro De Controle Do Câncer - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Quality Suites Long Stay Vila Olímpia - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Pucsp - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 26
--------------------
-Prive Cidade Jardim - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Primeira Igreja Batista Da Lapa - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Posto 6 - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 324
--------------------
-Platibanda - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 153
--------------------
-Pernambucanas - Department Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Paróquia Nossa Senhora Do Carmo Da Aclimação - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 29
--------------------
-Paróquia Nossa Senhora Da Consolação - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 550
--------------------
-Paroquia Nossa Senhora Aparecida E São Matias - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 50
--------------------
-Papo Pinga E Petisco - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 52
--------------------
-Octavio Café - Café
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 39
--------------------
-O Frei Bar - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Nível A - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 19
--------------------
-Na%C3%Afve - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 55
--------------------
-Museu Da Imagem E Do Som Mis - Art Museum
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Munik Chocolates - Coffee Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 8
--------------------
-Mooca Plaza Shopping - Shopping Mall
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Mix Potato - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 5
--------------------
-Missa No Bresser Alianca De Misericordia - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Mercure São Paulo Nortel - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Mercure São Paulo Jardins - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 14
--------------------
-Meliã Paulista - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Meliã Jardim Europa - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Meggashop - Department Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Mattos Restaurante - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 296
--------------------
-Manguinha Gastrobar - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Malharia Marabá - Department Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Mack Bar - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Lonei CalçAdos - Department Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Lojas Americanas - Department Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Loirassa Bar - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 240
--------------------
-Livraria Da Vila - Bookstore
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 12
--------------------
-Limited Funchal - Residential Building (Apartment / Condo)
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 45
--------------------
-Leques Brasil Hotel Escola - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Laricas Bar E Lanches - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 110
--------------------
-Lanchonete Cuca Ideal - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Lanches Refeições Caprichosa - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 113
--------------------
-K2 Unidade Jardim FrançA - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Just Fit - Gymnastics Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Josephine - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Johnnie Wash - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Jangadeiro - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Jacaré Grill - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 225
--------------------
-Irmandade Santa Casa De Misericórdia De São Paulo - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Instituto Hoc De Hemoterapia - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Instituto Do Câncer Do Estado De São Paulo Icesp - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Instituto De áUdio E Video Iav - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Instituto De Medicina Tropical Imt - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 9
--------------------
-Instituto Brasileiro De Controle Ao Câncer Ibcc - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Igreja Renascer Em Cristo Moema - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Igreja Nossa Senhora Do Monte Serrat - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 10
--------------------
-Igreja Evangelica Assembleia De Deus Vnc - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 50
--------------------
-Igreja Bíblica EvangéLica Da Comunhão - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Igreja Batista Da Liberdade - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 103
--------------------
-Igreja AssembléIa De Deus Do Bom Retiro - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 322
--------------------
-Id Academia - Gymnastics Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Ic Instituto Central Hcfmusp - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Ibis Budget - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 6
--------------------
-Humanas Academia - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 12
--------------------
-Hotel Stela - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Hotel Mega Polo - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Hotel Fasano São Paulo - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Hotel Caesar Business - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 5
--------------------
-Hospital Síriolibanês - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 14
--------------------
-Hospital São Camilo - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Hospital Santa Isabel - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Hospital Santa Catarina - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 10
--------------------
-Hospital Samaritano De São Paulo - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 17
--------------------
-Hospital Professor Edmundo Vasconcelos - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 19
--------------------
-Hospital Presidente - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Hospital Nove De Julho - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 22
--------------------
-Hospital Metropolitano - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Hospital Ipiranga - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 6
--------------------
-Hospital E Maternidade São Luiz - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Hospital E Maternidade Metropolitano - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Hospital Das Clínicas - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Hospital Cema - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Hospital Beneficência Portuguesa De São Paulo - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 17
--------------------
-Hospital Alemão Oswaldo Cruz - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 17
--------------------
-Holiday Inn - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 16
--------------------
-Hangar Fontoura - Airport
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Grand Mercure São Paulo Ibirapuera - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Gran Estanconfor Itaim - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Golden Grill Pizza - Pizza Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Gimba Restaurante E Chopperia - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Garoa Paulista - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 287
--------------------
-Galeria Pagé - Shopping Mall
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Galeria Korai - Department Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Fórmula Academia - Gym / Fitness Center
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 19
--------------------
-Frederico Petiscos - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Frans Café - Café
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 39
--------------------
-Fitsport - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 15
--------------------
-Fitseven Academia - Gym / Fitness Center
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Fit Stadium - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-First Academia - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 17
--------------------
-Fidelis - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 550
--------------------
-Feira Da Gestante E Bebê - Department Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Federação Das Indústrias Do Estado De São Paulo Fiesp - Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 504
--------------------
-Faculdade Sumaré - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 11
--------------------
-Evs EspaçO Vida SaudáVel Herbalife - Tea Room
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 6
--------------------
-Etapa - Private School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Estação Mooca Beer - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 137
--------------------
-Espro - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-EspaçO Tk - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-EspaçO O2 - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Edifício E Galeria Califórnia - Building
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Drosophyla Bar - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 612
--------------------
-Double Deck - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Destak Fitness Academia - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Círculo Militar De São Paulo - Sports Club
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 6
--------------------
-Curso Borges Cpb - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 43
--------------------
-Cursinho PréVestibular Henfil - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Cultura Inglesa Sede - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Cultura Inglesa Mooca - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Cultura Inglesa - Language School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Convento E Pensionato Maria Imaculada - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Condomínio Residencial Cassandoca GináSio - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Concessionaria Renaut - Department Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Comschool - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Companhia Athletica - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 13
--------------------
-Comfort Nova Paulista - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-ColéGio Presbiteriano Do BráS - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-ColéGio Da Polícia Militar - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Colegio Passalacqua - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Colegio Dom Bosco Sta Ines - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Coffee Corner - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 623
--------------------
-Clube Das Artes - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 68
--------------------
-Churrascaria Trilha Gaúcha - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Choperia Opção - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 193
--------------------
-Chez Oscar - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Check Out Ramada Jardins - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Challenges Idiomas - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 5
--------------------
-Cervejaria Do Alemão - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 74
--------------------
-Century Sports Academia - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Centro UniversitáRio São Camilo - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 8
--------------------
-Centro Trasmontano De São Paulo - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Centro Cultural Banco Do Brasil Ccbb - Cultural Center
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 32
--------------------
-Central De Concursos - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Castelinho Beer - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Casa Electrolux - Furniture / Home Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Caiubier - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 55
--------------------
-Bravo Ballet - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Brascan Open Mall - Shopping Mall
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 14
--------------------
-Bourbon Shopping - Shopping Mall
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Boteco São Bento - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1083
--------------------
-Bola De Neve - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 269
--------------------
-Bodytech - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 31
--------------------
-Berlitz - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 5
--------------------
-Bella Augusta - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 316
--------------------
-Bebe Mix Cursino - Department Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Barão Da Itararé - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Bar Tantan - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 166
--------------------
-Bar Real - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Bar Favela Da Vila - Music Venue
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Bar Do átila - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Bar Do Skenta - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 220
--------------------
-Bar Do Sacha - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 141
--------------------
-Bar Do Rasta - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 53
--------------------
-Bar Do Mílton - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 100
--------------------
-Bar Do Chagas - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Bar Da Esquina Da Olga - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 385
--------------------
-Bar Aurora - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 573
--------------------
-AçAí Original - Acai House
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Auto Escola Santana - Driving School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Auto Escola Flash - Driving School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Aperitivos Valadares - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 123
--------------------
-Amigos Da Costela - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 55
--------------------
-Americanas Express - Department Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Amarelinho Beer - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Aj Mm - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Aeropuerto Internacional Sao Paulo - Airport
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 112
--------------------
-Aeromexico - AeroMexico
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 57
--------------------
-Adeva Associação De Deficientes Visuais E Amigos - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Academia Sp Fit - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Academia Próphisical 2 - Gym / Fitness Center
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Academia Movimentos Art Sport Center - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Academia Colisão - College Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 5
--------------------
-Academia Ação E Saúde - Gym / Fitness Center
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 8
--------------------
-Ac Camargo Cancer Center - Medical Center
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 15
--------------------
+Local,Categoria,P,Trocas,R,Disputa,Check-ins
+Bh Lanches,Bar,13,76.41,11,64.66,356,
+Ibotirama,Bar,10,49.2,7,34.44,136,
+Mercearia São Pedro,Bar,7,37.72,6,32.33,218,
+Mosteiro De São Bento,Church,8,36.17,6,27.13,91,
+Veloso Bar,Bar,6,28.97,3,14.48,124,
+Bar Brahma,Bar,5,27.34,2,10.94,236,
+Tozé Lanchonete Bar DalôCa,Bar,6,27.13,4,18.09,91,
+Bar Mooca,Bar,5,26.83,4,21.46,213,
+Pirajá,Bar,5,25.96,3,15.58,179,
+Aeroporto Campo De Marte Mae,Airport,4,25.61,3,19.21,602,
+Violeta Bar Restaurante,Bar,5,25.56,3,15.34,165,
+Bar CalçAda Da Lapa,Bar,5,25.15,3,15.09,152,
+Sp Diversões,General Entertainment,5,24.06,2,9.62,122,
+Bar LéO,Bar,5,23.36,2,9.35,106,
+Salve Jorge,Bar,5,23.22,3,13.93,103,
+Santa Fé Cervejaria,Bar,5,22.5,3,13.5,89,
+Renascer Hall,Church,4,21.17,3,15.88,198,
+Senzala Bar Grill,Bar,4,16.1,3,12.08,55,
+ArmazéN Paulista,Bar,3,14.56,2,9.7,127,
+Bar Do Ghassan,Bar,3,14.23,2,9.49,114,
+Rei Das Batidas,Bar,3,13.82,1,4.61,99,
+Catedral Da Sé,Church,3,13.63,1,4.54,93,
+Paribar,Bar,3,13.6,1,4.53,92,
+Deck Lounge Bar,Bar,3,12.79,2,8.53,70,
+Bar São Benedito,Bar,3,12.57,1,4.19,65,
+ó Do Borogodó,Bar,3,12.52,1,4.17,64,
+Soda Pop Bar,Bar,3,12.28,2,8.19,59,
+Igreja Metodista Em Campo Belo,Church,2,11.63,1,5.81,334,
+Boteco Prato Do Dia,Bar,3,11.42,1,3.81,44,
+Universidade Anhembi Morumbi,University,3,11.21,0,0.0,41,
+Retiro Do Chopp,Bar,3,11.07,2,7.38,39,
+Rainha Do Morumbi,Bar,2,9.99,1,5.0,147,
+Loirão Bar,Bar,2,8.61,1,4.3,73,
+Futebol Pizza Bar,Bar,2,8.44,1,4.22,67,
+Ebusiness Park,Business Center,2,8.01,1,4.01,54,
+Igreja Nossa Senhora De Monte Serrat,Church,2,7.57,1,3.78,43,
+Coffee Lab,Coffee Shop,2,6.36,1,3.18,23,
+Prainha Paulista,Bar,1,5.89,0,0.0,360,
+Galeria Trianon,Shopping Mall,1,5.72,0,0.0,303,
+Starbucks,Coffee Shop,1,5.68,0,0.0,291,
+Shopping Center 3,Shopping Mall,2,5.42,0,0.0,14,
+Shopping Metrô Boulevard Tatuapé,Shopping Mall,2,4.97,0,0.0,11,
+Bebo Sim,Bar,1,4.37,0,0.0,78,
+Boteco Todos Os Santos,Bar,1,4.03,0,0.0,55,
+Mr Cult,Bar,1,4.01,0,0.0,54,
+Shopping Pátio Higienópolis,Shopping Mall,1,3.78,0,0.0,43,
+Shopping Center Norte,Shopping Mall,1,3.37,0,0.0,28,
+Ilha Das Flores,Bar,1,3.14,0,0.0,22,
+Galeria Metrópole,Building,1,3.0,0,0.0,19,
+Padoca Dos Brother,Bar,1,2.71,0,0.0,14,
+Igreja Santo Antonio Do Pari,Church,1,2.71,0,0.0,14,
+Shopping Eldorado,Shopping Mall,1,2.64,0,0.0,13,
+Edifício Copan,Residential Building (Apartment / Condo),1,2.56,0,0.0,12,
+Top Center Shopping,Shopping Mall,1,2.4,0,0.0,10,
+Sofá Café,Coffee Shop,1,2.4,0,0.0,10,
+Aroma Café Bistrô,Coffee Shop,1,2.08,0,0.0,7,
+Cinearte,Indie Movie Theater,1,0.69,0,0.0,1,
+Z Carniceria,Bar,0,0.0,0,0.0,2,
+Youpix Office,Zoo,0,0.0,0,0.0,2,
+Xploud Academia,Gym,0,0.0,0,0.0,1,
+Você Vai Se Quiser Samba Da PraçA Roosevelt,Bar,0,0.0,0,0.0,48,
+Villagio Olimpia,Restaurant,0,0.0,0,0.0,6,
+Villa Caetanos,Bar,0,0.0,0,0.0,305,
+Vanvan Bar,Bar,0,0.0,0,0.0,0,
+Valadares,Bar,0,0.0,0,0.0,51,
+Universidade São Judas Tadeu Usjt Unidade Butantã,University,0,0.0,0,0.0,15,
+Universidade Presbiteriana Mackenzie,University,0,0.0,0,0.0,55,
+Universal Studies Planet Holiday,School,0,0.0,0,0.0,6,
+Tryp São Paulo Iguatemi Hotel,Hotel,0,0.0,0,0.0,1,
+Triathon Academia,Gym,0,0.0,0,0.0,20,
+Torre De Controle,Office,0,0.0,0,0.0,56,
+Thisishome,Home (private),0,0.0,0,0.0,2,
+The Universe,Hotel,0,0.0,0,0.0,5,
+The 70 Years Bar,Bar,0,0.0,0,0.0,220,
+TerraçO Major,Bar,0,0.0,0,0.0,56,
+Templo De Salomão,Temple,0,0.0,0,0.0,713,
+São Paulo Hotel,Hotel,0,0.0,0,0.0,1,
+Sweet Parada Tia Da Pinga,Bar,0,0.0,0,0.0,304,
+Sp Up Academia,Gymnastics Gym,0,0.0,0,0.0,16,
+Snt Zona Norte,Church,0,0.0,0,0.0,0,
+Smart Fit,Gym / Fitness Center,0,0.0,0,0.0,25,
+Sigbol Fashion,School,0,0.0,0,0.0,4,
+Shopping Metrô Tatuapé,Shopping Mall,0,0.0,0,0.0,16,
+Shopping Iguatemi,Shopping Mall,0,0.0,0,0.0,14,
+Shopping Frei Caneca,Shopping Mall,0,0.0,0,0.0,20,
+Saudade,Restaurant,0,0.0,0,0.0,2,
+Santos Dumont Café,Coffee Shop,0,0.0,0,0.0,0,
+Santo Cristo Bar,Bar,0,0.0,0,0.0,0,
+Santana Parque Shopping,Shopping Mall,0,0.0,0,0.0,16,
+Samaro Ii,Bar,0,0.0,0,0.0,463,
+Salão De Jogos Animarte,Arcade,0,0.0,0,0.0,504,
+Rwhite Fitness Wellness,Gym / Fitness Center,0,0.0,0,0.0,5,
+Runner,Gym / Fitness Center,0,0.0,0,0.0,0,
+Rua Platina190,Church,0,0.0,0,0.0,50,
+Rota Norte,Bar,0,0.0,0,0.0,54,
+Ritz,Burger Joint,0,0.0,0,0.0,3,
+Renaissance São Paulo Hotel,Hotel,0,0.0,0,0.0,21,
+Rei Do Mate,Tea Room,0,0.0,0,0.0,6,
+Red Fitness,Gym,0,0.0,0,0.0,9,
+Radioterapia Ibcc Instituto Brasileiro De Controle Do Câncer,Hospital,0,0.0,0,0.0,2,
+Quality Suites Long Stay Vila Olímpia,Hotel,0,0.0,0,0.0,3,
+Pucsp,University,0,0.0,0,0.0,26,
+Prive Cidade Jardim,Hotel,0,0.0,0,0.0,1,
+Primeira Igreja Batista Da Lapa,Church,0,0.0,0,0.0,0,
+Posto 6,Bar,0,0.0,0,0.0,324,
+Platibanda,Bar,0,0.0,0,0.0,153,
+Pernambucanas,Department Store,0,0.0,0,0.0,4,
+Paróquia Nossa Senhora Do Carmo Da Aclimação,Church,0,0.0,0,0.0,29,
+Paróquia Nossa Senhora Da Consolação,Church,0,0.0,0,0.0,550,
+Paroquia Nossa Senhora Aparecida E São Matias,Church,0,0.0,0,0.0,50,
+Papo Pinga E Petisco,Bar,0,0.0,0,0.0,52,
+Octavio Café,Café,0,0.0,0,0.0,39,
+O Frei Bar,Bar,0,0.0,0,0.0,0,
+Nível A,Gym,0,0.0,0,0.0,19,
+Na%C3%Afve,Bar,0,0.0,0,0.0,55,
+Museu Da Imagem E Do Som Mis,Art Museum,0,0.0,0,0.0,0,
+Munik Chocolates,Coffee Shop,0,0.0,0,0.0,8,
+Mooca Plaza Shopping,Shopping Mall,0,0.0,0,0.0,0,
+Mix Potato,Restaurant,0,0.0,0,0.0,5,
+Missa No Bresser Alianca De Misericordia,Church,0,0.0,0,0.0,0,
+Mercure São Paulo Nortel,Hotel,0,0.0,0,0.0,0,
+Mercure São Paulo Jardins,Hotel,0,0.0,0,0.0,14,
+Meliã Paulista,Hotel,0,0.0,0,0.0,2,
+Meliã Jardim Europa,Hotel,0,0.0,0,0.0,1,
+Meggashop,Department Store,0,0.0,0,0.0,2,
+Mattos Restaurante,Bar,0,0.0,0,0.0,296,
+Manguinha Gastrobar,Restaurant,0,0.0,0,0.0,0,
+Malharia Marabá,Department Store,0,0.0,0,0.0,3,
+Mack Bar,Bar,0,0.0,0,0.0,0,
+Lonei CalçAdos,Department Store,0,0.0,0,0.0,1,
+Lojas Americanas,Department Store,0,0.0,0,0.0,2,
+Loirassa Bar,Bar,0,0.0,0,0.0,240,
+Livraria Da Vila,Bookstore,0,0.0,0,0.0,12,
+Limited Funchal,Residential Building (Apartment / Condo),0,0.0,0,0.0,45,
+Leques Brasil Hotel Escola,Hotel,0,0.0,0,0.0,2,
+Laricas Bar E Lanches,Bar,0,0.0,0,0.0,110,
+Lanchonete Cuca Ideal,Bar,0,0.0,0,0.0,0,
+Lanches Refeições Caprichosa,Restaurant,0,0.0,0,0.0,113,
+K2 Unidade Jardim FrançA,Gym,0,0.0,0,0.0,0,
+Just Fit,Gymnastics Gym,0,0.0,0,0.0,1,
+Josephine,Restaurant,0,0.0,0,0.0,1,
+Johnnie Wash,Bar,0,0.0,0,0.0,0,
+Jangadeiro,Bar,0,0.0,0,0.0,0,
+Jacaré Grill,Restaurant,0,0.0,0,0.0,225,
+Irmandade Santa Casa De Misericórdia De São Paulo,Hospital,0,0.0,0,0.0,4,
+Instituto Hoc De Hemoterapia,Hospital,0,0.0,0,0.0,0,
+Instituto Do Câncer Do Estado De São Paulo Icesp,Hospital,0,0.0,0,0.0,7,
+Instituto De áUdio E Video Iav,School,0,0.0,0,0.0,1,
+Instituto De Medicina Tropical Imt,University,0,0.0,0,0.0,9,
+Instituto Brasileiro De Controle Ao Câncer Ibcc,Hospital,0,0.0,0,0.0,2,
+Igreja Renascer Em Cristo Moema,Church,0,0.0,0,0.0,0,
+Igreja Nossa Senhora Do Monte Serrat,Church,0,0.0,0,0.0,10,
+Igreja Evangelica Assembleia De Deus Vnc,Church,0,0.0,0,0.0,50,
+Igreja Bíblica EvangéLica Da Comunhão,Church,0,0.0,0,0.0,0,
+Igreja Batista Da Liberdade,Church,0,0.0,0,0.0,103,
+Igreja AssembléIa De Deus Do Bom Retiro,Church,0,0.0,0,0.0,322,
+Id Academia,Gymnastics Gym,0,0.0,0,0.0,1,
+Ic Instituto Central Hcfmusp,Hospital,0,0.0,0,0.0,2,
+Ibis Budget,Hotel,0,0.0,0,0.0,6,
+Humanas Academia,Gym,0,0.0,0,0.0,12,
+Hotel Stela,Hotel,0,0.0,0,0.0,0,
+Hotel Mega Polo,Hotel,0,0.0,0,0.0,0,
+Hotel Fasano São Paulo,Hotel,0,0.0,0,0.0,3,
+Hotel Caesar Business,Hotel,0,0.0,0,0.0,5,
+Hospital Síriolibanês,Hospital,0,0.0,0,0.0,14,
+Hospital São Camilo,Hospital,0,0.0,0,0.0,4,
+Hospital Santa Isabel,Hospital,0,0.0,0,0.0,2,
+Hospital Santa Catarina,Hospital,0,0.0,0,0.0,10,
+Hospital Samaritano De São Paulo,Hospital,0,0.0,0,0.0,17,
+Hospital Professor Edmundo Vasconcelos,Hospital,0,0.0,0,0.0,19,
+Hospital Presidente,Hospital,0,0.0,0,0.0,3,
+Hospital Nove De Julho,Hospital,0,0.0,0,0.0,22,
+Hospital Metropolitano,Hospital,0,0.0,0,0.0,1,
+Hospital Ipiranga,Hospital,0,0.0,0,0.0,6,
+Hospital E Maternidade São Luiz,Hospital,0,0.0,0,0.0,7,
+Hospital E Maternidade Metropolitano,Hospital,0,0.0,0,0.0,0,
+Hospital Das Clínicas,Hospital,0,0.0,0,0.0,7,
+Hospital Cema,Hospital,0,0.0,0,0.0,2,
+Hospital Beneficência Portuguesa De São Paulo,Hospital,0,0.0,0,0.0,17,
+Hospital Alemão Oswaldo Cruz,Hospital,0,0.0,0,0.0,17,
+Holiday Inn,Hotel,0,0.0,0,0.0,16,
+Hangar Fontoura,Airport,0,0.0,0,0.0,0,
+Grand Mercure São Paulo Ibirapuera,Hotel,0,0.0,0,0.0,3,
+Gran Estanconfor Itaim,Hotel,0,0.0,0,0.0,2,
+Golden Grill Pizza,Pizza Place,0,0.0,0,0.0,2,
+Gimba Restaurante E Chopperia,Restaurant,0,0.0,0,0.0,3,
+Garoa Paulista,Bar,0,0.0,0,0.0,287,
+Galeria Pagé,Shopping Mall,0,0.0,0,0.0,4,
+Galeria Korai,Department Store,0,0.0,0,0.0,0,
+Fórmula Academia,Gym / Fitness Center,0,0.0,0,0.0,19,
+Frederico Petiscos,Bar,0,0.0,0,0.0,0,
+Frans Café,Café,0,0.0,0,0.0,39,
+Fitsport,Gym,0,0.0,0,0.0,15,
+Fitseven Academia,Gym / Fitness Center,0,0.0,0,0.0,1,
+Fit Stadium,Gym,0,0.0,0,0.0,2,
+First Academia,Gym,0,0.0,0,0.0,17,
+Fidelis,Bar,0,0.0,0,0.0,550,
+Feira Da Gestante E Bebê,Department Store,0,0.0,0,0.0,2,
+Federação Das Indústrias Do Estado De São Paulo Fiesp,Office,0,0.0,0,0.0,504,
+Faculdade Sumaré,University,0,0.0,0,0.0,11,
+Evs EspaçO Vida SaudáVel Herbalife,Tea Room,0,0.0,0,0.0,6,
+Etapa,Private School,0,0.0,0,0.0,0,
+Estação Mooca Beer,Bar,0,0.0,0,0.0,137,
+Espro,School,0,0.0,0,0.0,0,
+EspaçO Tk,School,0,0.0,0,0.0,0,
+EspaçO O2,Gym,0,0.0,0,0.0,3,
+Edifício E Galeria Califórnia,Building,0,0.0,0,0.0,0,
+Drosophyla Bar,Bar,0,0.0,0,0.0,612,
+Double Deck,Bar,0,0.0,0,0.0,0,
+Destak Fitness Academia,Gym,0,0.0,0,0.0,0,
+Círculo Militar De São Paulo,Sports Club,0,0.0,0,0.0,6,
+Curso Borges Cpb,School,0,0.0,0,0.0,43,
+Cursinho PréVestibular Henfil,School,0,0.0,0,0.0,3,
+Cultura Inglesa Sede,School,0,0.0,0,0.0,2,
+Cultura Inglesa Mooca,School,0,0.0,0,0.0,1,
+Cultura Inglesa,Language School,0,0.0,0,0.0,7,
+Convento E Pensionato Maria Imaculada,Church,0,0.0,0,0.0,0,
+Condomínio Residencial Cassandoca GináSio,Gym,0,0.0,0,0.0,0,
+Concessionaria Renaut,Department Store,0,0.0,0,0.0,0,
+Comschool,School,0,0.0,0,0.0,0,
+Companhia Athletica,Gym,0,0.0,0,0.0,13,
+Comfort Nova Paulista,Hotel,0,0.0,0,0.0,2,
+ColéGio Presbiteriano Do BráS,School,0,0.0,0,0.0,4,
+ColéGio Da Polícia Militar,School,0,0.0,0,0.0,2,
+Colegio Passalacqua,School,0,0.0,0,0.0,1,
+Colegio Dom Bosco Sta Ines,School,0,0.0,0,0.0,3,
+Coffee Corner,Bar,0,0.0,0,0.0,623,
+Clube Das Artes,Bar,0,0.0,0,0.0,68,
+Churrascaria Trilha Gaúcha,Restaurant,0,0.0,0,0.0,0,
+Choperia Opção,Bar,0,0.0,0,0.0,193,
+Chez Oscar,Restaurant,0,0.0,0,0.0,2,
+Check Out Ramada Jardins,Hotel,0,0.0,0,0.0,0,
+Challenges Idiomas,School,0,0.0,0,0.0,5,
+Cervejaria Do Alemão,Bar,0,0.0,0,0.0,74,
+Century Sports Academia,Gym,0,0.0,0,0.0,7,
+Centro UniversitáRio São Camilo,University,0,0.0,0,0.0,8,
+Centro Trasmontano De São Paulo,Hospital,0,0.0,0,0.0,1,
+Centro Cultural Banco Do Brasil Ccbb,Cultural Center,0,0.0,0,0.0,32,
+Central De Concursos,School,0,0.0,0,0.0,1,
+Castelinho Beer,Bar,0,0.0,0,0.0,0,
+Casa Electrolux,Furniture / Home Store,0,0.0,0,0.0,0,
+Caiubier,Bar,0,0.0,0,0.0,55,
+Bravo Ballet,School,0,0.0,0,0.0,4,
+Brascan Open Mall,Shopping Mall,0,0.0,0,0.0,14,
+Bourbon Shopping,Shopping Mall,0,0.0,0,0.0,1,
+Boteco São Bento,Bar,0,0.0,0,0.0,1083,
+Bola De Neve,Church,0,0.0,0,0.0,269,
+Bodytech,Gym,0,0.0,0,0.0,31,
+Berlitz,School,0,0.0,0,0.0,5,
+Bella Augusta,Bar,0,0.0,0,0.0,316,
+Bebe Mix Cursino,Department Store,0,0.0,0,0.0,0,
+Barão Da Itararé,Bar,0,0.0,0,0.0,0,
+Bar Tantan,Bar,0,0.0,0,0.0,166,
+Bar Real,Bar,0,0.0,0,0.0,0,
+Bar Favela Da Vila,Music Venue,0,0.0,0,0.0,0,
+Bar Do átila,Bar,0,0.0,0,0.0,0,
+Bar Do Skenta,Bar,0,0.0,0,0.0,220,
+Bar Do Sacha,Bar,0,0.0,0,0.0,141,
+Bar Do Rasta,Bar,0,0.0,0,0.0,53,
+Bar Do Mílton,Bar,0,0.0,0,0.0,100,
+Bar Do Chagas,Bar,0,0.0,0,0.0,0,
+Bar Da Esquina Da Olga,Bar,0,0.0,0,0.0,385,
+Bar Aurora,Bar,0,0.0,0,0.0,573,
+AçAí Original,Acai House,0,0.0,0,0.0,4,
+Auto Escola Santana,Driving School,0,0.0,0,0.0,1,
+Auto Escola Flash,Driving School,0,0.0,0,0.0,1,
+Aperitivos Valadares,Bar,0,0.0,0,0.0,123,
+Amigos Da Costela,Bar,0,0.0,0,0.0,55,
+Americanas Express,Department Store,0,0.0,0,0.0,0,
+Amarelinho Beer,Bar,0,0.0,0,0.0,0,
+Aj Mm,Bar,0,0.0,0,0.0,0,
+Aeropuerto Internacional Sao Paulo,Airport,0,0.0,0,0.0,112,
+Aeromexico,AeroMexico,0,0.0,0,0.0,57,
+Adeva Associação De Deficientes Visuais E Amigos,School,0,0.0,0,0.0,3,
+Academia Sp Fit,Gym,0,0.0,0,0.0,4,
+Academia Próphisical 2,Gym / Fitness Center,0,0.0,0,0.0,2,
+Academia Movimentos Art Sport Center,Gym,0,0.0,0,0.0,2,
+Academia Colisão,College Gym,0,0.0,0,0.0,5,
+Academia Ação E Saúde,Gym / Fitness Center,0,0.0,0,0.0,8,
+Ac Camargo Cancer Center,Medical Center,0,0.0,0,0.0,15,

@@ -1,2649 +1,379 @@
--------------------
-RESULTADOS POR LOCAL
--------------------
-The Art Institute Of Chicago - Art Museum
-P = 9
-Trocas: 38.61
-R = 6
-Disputa: 25.74
-Check-ins = 72
--------------------
-7Eleven - Convenience Store
-P = 6
-Trocas: 29.25
-R = 3
-Disputa: 14.63
-Check-ins = 130
--------------------
-Target - Big Box Store
-P = 6
-Trocas: 28.09
-R = 3
-Disputa: 14.05
-Check-ins = 107
--------------------
-Starbucks - Coffee Shop
-P = 4
-Trocas: 20.86
-R = 2
-Disputa: 10.43
-Check-ins = 183
--------------------
-Mcdonalds - Restaurant
-P = 4
-Trocas: 18.26
-R = 1
-Disputa: 4.56
-Check-ins = 95
--------------------
-Fireside Bowl - Bowling Alley
-P = 4
-Trocas: 17.82
-R = 3
-Disputa: 13.36
-Check-ins = 85
--------------------
-Park Community Church - Church
-P = 4
-Trocas: 17.43
-R = 2
-Disputa: 8.71
-Check-ins = 77
--------------------
-Cvspharmacy - Pharmacy
-P = 4
-Trocas: 17.16
-R = 3
-Disputa: 12.87
-Check-ins = 72
--------------------
-Chickfila - Restaurant
-P = 4
-Trocas: 16.76
-R = 3
-Disputa: 12.57
-Check-ins = 65
--------------------
-Gallery Cabaret - Bar
-P = 4
-Trocas: 14.76
-R = 2
-Disputa: 7.38
-Check-ins = 39
--------------------
-Bank Of America - Bank
-P = 4
-Trocas: 14.22
-R = 2
-Disputa: 7.11
-Check-ins = 34
--------------------
-Chicago Comics - Comic Shop
-P = 3
-Trocas: 13.6
-R = 2
-Disputa: 9.07
-Check-ins = 92
--------------------
-Fogo De Ch%C3%A3O - Restaurant
-P = 4
-Trocas: 13.18
-R = 0
-Disputa: 0.0
-Check-ins = 26
--------------------
-Uic Forum - College Auditorium
-P = 3
-Trocas: 12.83
-R = 2
-Disputa: 8.55
-Check-ins = 71
--------------------
-Taco Bell - Restaurant
-P = 4
-Trocas: 11.78
-R = 2
-Disputa: 5.89
-Check-ins = 18
--------------------
-Mini Of Chicago - Automotive Shop
-P = 3
-Trocas: 11.35
-R = 1
-Disputa: 3.78
-Check-ins = 43
--------------------
-Fletcher Jones Volkswagen - Auto Dealership
-P = 3
-Trocas: 11.14
-R = 1
-Disputa: 3.71
-Check-ins = 40
--------------------
-Neiman Marcus - Department Store
-P = 3
-Trocas: 10.75
-R = 1
-Disputa: 3.58
-Check-ins = 35
--------------------
-Fifth Third Bank Atm - Bank
-P = 3
-Trocas: 10.58
-R = 2
-Disputa: 7.05
-Check-ins = 33
--------------------
-Stans Donuts Coffee - Donut Shop
-P = 3
-Trocas: 10.49
-R = 1
-Disputa: 3.5
-Check-ins = 32
--------------------
-Katherine Anne Confections - Dessert Shop
-P = 3
-Trocas: 10.49
-R = 2
-Disputa: 6.99
-Check-ins = 32
--------------------
-Northern Trust - Bank
-P = 2
-Trocas: 10.03
-R = 1
-Disputa: 5.02
-Check-ins = 150
--------------------
-River East Center - Building
-P = 3
-Trocas: 9.66
-R = 1
-Disputa: 3.22
-Check-ins = 24
--------------------
-West On North - Bar
-P = 3
-Trocas: 9.41
-R = 1
-Disputa: 3.14
-Check-ins = 22
--------------------
-63Rd Street Beach - Beach
-P = 2
-Trocas: 9.38
-R = 1
-Disputa: 4.69
-Check-ins = 108
--------------------
-Philip H Corboy Law Center - Law School
-P = 2
-Trocas: 8.79
-R = 1
-Disputa: 4.39
-Check-ins = 80
--------------------
-Seven Ten Lanes - Bowling Alley
-P = 3
-Trocas: 8.67
-R = 1
-Disputa: 2.89
-Check-ins = 17
--------------------
-Dorite Donuts Coffee - Donut Shop
-P = 2
-Trocas: 8.5
-R = 0
-Disputa: 0.0
-Check-ins = 69
--------------------
-John Hancock Center - Building
-P = 2
-Trocas: 8.32
-R = 1
-Disputa: 4.16
-Check-ins = 63
--------------------
-57Th Street Books - Bookstore
-P = 2
-Trocas: 8.25
-R = 1
-Disputa: 4.13
-Check-ins = 61
--------------------
-Oak Street Beach - Beach
-P = 2
-Trocas: 7.05
-R = 0
-Disputa: 0.0
-Check-ins = 33
--------------------
-Annettes Homemade Italian Ice - Dessert Shop
-P = 2
-Trocas: 6.09
-R = 1
-Disputa: 3.04
-Check-ins = 20
--------------------
-12Th Street Beach - Beach
-P = 2
-Trocas: 6.09
-R = 1
-Disputa: 3.04
-Check-ins = 20
--------------------
-Dunkin Donuts - Donut Shop
-P = 1
-Trocas: 5.2
-R = 0
-Disputa: 0.0
-Check-ins = 180
--------------------
-Water Tower Place - Shopping Mall
-P = 2
-Trocas: 5.13
-R = 0
-Disputa: 0.0
-Check-ins = 12
--------------------
-North Avenue Beach - Beach
-P = 2
-Trocas: 5.13
-R = 0
-Disputa: 0.0
-Check-ins = 12
--------------------
-Chase Bank - Bank
-P = 1
-Trocas: 4.85
-R = 0
-Disputa: 0.0
-Check-ins = 127
--------------------
-Big Littles Restaurant - Restaurant
-P = 2
-Trocas: 4.39
-R = 0
-Disputa: 0.0
-Check-ins = 8
--------------------
-South Shore Cultural Center - Cultural Center
-P = 1
-Trocas: 4.22
-R = 0
-Disputa: 0.0
-Check-ins = 67
--------------------
-Saint Clement Parish - Church
-P = 1
-Trocas: 4.2
-R = 0
-Disputa: 0.0
-Check-ins = 66
--------------------
-Barnes Noble - Bookstore
-P = 1
-Trocas: 4.08
-R = 0
-Disputa: 0.0
-Check-ins = 58
--------------------
-Firecakes Donuts - Donut Shop
-P = 1
-Trocas: 3.99
-R = 0
-Disputa: 0.0
-Check-ins = 53
--------------------
-Tcf Bank - Bank
-P = 1
-Trocas: 3.95
-R = 0
-Disputa: 0.0
-Check-ins = 51
--------------------
-Northwestern Memorial Hospital - Hospital
-P = 1
-Trocas: 3.93
-R = 0
-Disputa: 0.0
-Check-ins = 50
--------------------
-The Dugout Sports Bar Grill - Bar
-P = 2
-Trocas: 3.89
-R = 1
-Disputa: 1.95
-Check-ins = 6
--------------------
-White Glove Car Wash - Car Wash
-P = 1
-Trocas: 3.83
-R = 0
-Disputa: 0.0
-Check-ins = 45
--------------------
-The Shops At Roosevelt Collection - Shopping Mall
-P = 1
-Trocas: 3.71
-R = 0
-Disputa: 0.0
-Check-ins = 40
--------------------
-Gap - Clothing Store
-P = 1
-Trocas: 3.71
-R = 0
-Disputa: 0.0
-Check-ins = 40
--------------------
-National Pride Car Wash - Car Wash
-P = 1
-Trocas: 3.69
-R = 0
-Disputa: 0.0
-Check-ins = 39
--------------------
-Euro Collision - Automotive Shop
-P = 1
-Trocas: 3.69
-R = 0
-Disputa: 0.0
-Check-ins = 39
--------------------
-Brooks Building - Building
-P = 1
-Trocas: 3.66
-R = 0
-Disputa: 0.0
-Check-ins = 38
--------------------
-The Doughnut Vault - Donut Shop
-P = 1
-Trocas: 3.64
-R = 0
-Disputa: 0.0
-Check-ins = 37
--------------------
-Dental Salon - Dentist's Office
-P = 1
-Trocas: 3.58
-R = 0
-Disputa: 0.0
-Check-ins = 35
--------------------
-West Loop Athletic Club - Gym
-P = 1
-Trocas: 3.56
-R = 0
-Disputa: 0.0
-Check-ins = 34
--------------------
-Old Navy - Clothing Store
-P = 1
-Trocas: 3.3
-R = 0
-Disputa: 0.0
-Check-ins = 26
--------------------
-Lake Shore Drivescience Dr - Lake
-P = 1
-Trocas: 3.18
-R = 0
-Disputa: 0.0
-Check-ins = 23
--------------------
-Strictly By Hand - Car Wash
-P = 1
-Trocas: 3.09
-R = 0
-Disputa: 0.0
-Check-ins = 21
--------------------
-Block 37 - Shopping Mall
-P = 1
-Trocas: 3.09
-R = 0
-Disputa: 0.0
-Check-ins = 21
--------------------
-Jewelosco - Supermarket
-P = 1
-Trocas: 3.0
-R = 0
-Disputa: 0.0
-Check-ins = 19
--------------------
-Churro Factory - Dessert Shop
-P = 1
-Trocas: 2.94
-R = 0
-Disputa: 0.0
-Check-ins = 18
--------------------
-University Of Chicago Emergency Room - Emergency Room
-P = 1
-Trocas: 2.71
-R = 0
-Disputa: 0.0
-Check-ins = 14
--------------------
-Hardpressed - Gym / Fitness Center
-P = 1
-Trocas: 2.71
-R = 0
-Disputa: 0.0
-Check-ins = 14
--------------------
-Willis Tower - Building
-P = 1
-Trocas: 2.64
-R = 0
-Disputa: 0.0
-Check-ins = 13
--------------------
-Southport Fitness - Gym
-P = 1
-Trocas: 2.64
-R = 0
-Disputa: 0.0
-Check-ins = 13
--------------------
-Potash Markets Clark St - Grocery Store
-P = 1
-Trocas: 2.64
-R = 0
-Disputa: 0.0
-Check-ins = 13
--------------------
-Intercontinental Chicago Magnificent Mile - Hotel
-P = 1
-Trocas: 2.4
-R = 0
-Disputa: 0.0
-Check-ins = 10
--------------------
-Southgate Market - Shopping Mall
-P = 1
-Trocas: 2.3
-R = 0
-Disputa: 0.0
-Check-ins = 9
--------------------
-Hyatt Regency Mccormick Place - Hotel
-P = 1
-Trocas: 2.3
-R = 0
-Disputa: 0.0
-Check-ins = 9
--------------------
-Smart Bike Parts Inc - Bike Shop
-P = 1
-Trocas: 2.2
-R = 0
-Disputa: 0.0
-Check-ins = 8
--------------------
-Galter Pavilion Northwestern Memorial Hospital - Hospital
-P = 1
-Trocas: 2.2
-R = 0
-Disputa: 0.0
-Check-ins = 8
--------------------
-Bp - Gas Station
-P = 1
-Trocas: 2.2
-R = 0
-Disputa: 0.0
-Check-ins = 8
--------------------
-Potash Bros Supermarket - Grocery Store
-P = 1
-Trocas: 2.08
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Northwestern Prentice Womens Hospital - Hospital
-P = 1
-Trocas: 2.08
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Aldi - Grocery Store
-P = 1
-Trocas: 2.08
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Stanleys Fresh Fruits And Vegetables - Fruit & Vegetable Store
-P = 1
-Trocas: 1.95
-R = 0
-Disputa: 0.0
-Check-ins = 6
--------------------
-Riverview Car Wash - Car Wash
-P = 1
-Trocas: 1.95
-R = 0
-Disputa: 0.0
-Check-ins = 6
--------------------
-Fairfield Inn Suites Chicago Downtownriver North - Hotel
-P = 1
-Trocas: 1.95
-R = 0
-Disputa: 0.0
-Check-ins = 6
--------------------
-Comer Childrens Hospital - Hospital
-P = 1
-Trocas: 1.95
-R = 0
-Disputa: 0.0
-Check-ins = 6
--------------------
-Travelodge - Hotel
-P = 1
-Trocas: 1.79
-R = 0
-Disputa: 0.0
-Check-ins = 5
--------------------
-Lake Michigan Steps - Lake
-P = 1
-Trocas: 1.79
-R = 0
-Disputa: 0.0
-Check-ins = 5
--------------------
-Flowers For Dreams - Flower Shop
-P = 1
-Trocas: 1.79
-R = 0
-Disputa: 0.0
-Check-ins = 5
--------------------
-The Field Museum - History Museum
-P = 1
-Trocas: 1.61
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-The Drucker Center - Gym
-P = 1
-Trocas: 1.61
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Quimbys - Bookstore
-P = 1
-Trocas: 1.61
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Jetro - Grocery Store
-P = 1
-Trocas: 1.61
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Chicagos Lakefront Hyde Park - Lake
-P = 1
-Trocas: 1.61
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Chicago Lakefront - Waterfront
-P = 1
-Trocas: 1.61
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Chicago History Museum - History Museum
-P = 1
-Trocas: 1.61
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Aayu Clinics Lakeview Immediate Care - Emergency Room
-P = 1
-Trocas: 1.61
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-The Shops At North Bridge - Shopping Mall
-P = 2
-Trocas: 1.39
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Washington Park - Park
-P = 1
-Trocas: 1.39
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Tiffany Co - Jewelry Store
-P = 1
-Trocas: 1.39
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-The Foundry - Shopping Mall
-P = 1
-Trocas: 1.39
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-The Fat Shallot - Food Truck
-P = 1
-Trocas: 1.39
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Sakura Teppanyaki Sushi - Restaurant
-P = 1
-Trocas: 1.39
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Rush University Medical Center Jelke Bldg - Hospital
-P = 1
-Trocas: 1.39
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Presence Saint Joseph Hospital Chicago - Hospital
-P = 1
-Trocas: 1.39
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Lifestart Fitness Monroecanal - Gym
-P = 1
-Trocas: 1.39
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Food 4 Less - Grocery Store
-P = 1
-Trocas: 1.39
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Clarke House Museum - History Museum
-P = 1
-Trocas: 1.39
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Chicago Fire Academy - Fire Station
-P = 1
-Trocas: 1.39
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Cartier - Jewelry Store
-P = 1
-Trocas: 1.39
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Windy City Sweets - Candy Store
-P = 1
-Trocas: 1.1
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Wells High School - High School
-P = 1
-Trocas: 1.1
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Umai Japanese Kitchen Sushi - Restaurant
-P = 1
-Trocas: 1.1
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Red Mango - Frozen Yogurt Shop
-P = 1
-Trocas: 1.1
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Pinkberry - Frozen Yogurt Shop
-P = 1
-Trocas: 1.1
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Forever Yogurt - Frozen Yogurt Shop
-P = 1
-Trocas: 1.1
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Five Faces Ice Cream Shop - Restaurant
-P = 1
-Trocas: 1.1
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Chicago Getaway Hostel - Hostel
-P = 1
-Trocas: 1.1
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Baskinrobbins - Ice Cream Shop
-P = 1
-Trocas: 1.1
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Anthony Marano Co - Food & Drink Shop
-P = 1
-Trocas: 1.1
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-University Of Illinois Hospital Health Sciences System - Hospital
-P = 1
-Trocas: 0.69
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Sushi Pink - Restaurant
-P = 1
-Trocas: 0.69
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Slurping Turtle - Noodle House
-P = 1
-Trocas: 0.69
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Skyline View - Beach
-P = 1
-Trocas: 0.69
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Asrai Garden - Flower Shop
-P = 1
-Trocas: 0.69
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Navy Pier - Pier
-P = 1
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Zombieland - Arcade
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Zales - Jewelry Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Yoshis Cafe - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 8
--------------------
-Yogurtland - Frozen Yogurt Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Yoberri - Ice Cream Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Xsport Fitness - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 43
--------------------
-Xocoatl - Dessert Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 18
--------------------
-Wood Street Urban Farm - Farm
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-William H Wells Community Hs - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Wicker Wash - Automotive Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Whitney Young High School - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Whimsical Chocolate - Dessert Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Well Clean Inc - Car Wash
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 168
--------------------
-Walmart Neighborhood Market - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 97
--------------------
-Walgreens - Pharmacy
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 187
--------------------
-W Chicago City Center - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Visual Effects Optical - Doctor's Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Vigilante Press - Comic Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 20
--------------------
-Victorias Secret - Lingerie Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Verizon Wireless - Mobile Phone Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Verizon - Mobile Phone Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Us Cellular - Mobile Phone Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Urban Prep Academy West Campus - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-University Of Phoenix Downtown Learning Center - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-University Of Illinois At Chicago Medical Center - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 19
--------------------
-University Of Chicago Medical Center - Doctor's Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 18
--------------------
-Ukai Restaurant - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 9
--------------------
-Uic Medical Center Emergency Room - Medical School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Uic College Prep - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Trump International Hotel Tower Chicago - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 31
--------------------
-Trader Joes - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 30
--------------------
-Tower At Rush University Medical Center - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 9
--------------------
-Tonic Room - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 257
--------------------
-Tmobile - Mobile Phone Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-The Vitamin Shoppe - Supplement Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 17
--------------------
-The Temple Bar - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 21
--------------------
-The Silver Room - Jewelry Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-The Quarter - Hostel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-The Poetry Foundation - Library
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-The Oriental Institute - History Museum
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 30
--------------------
-The Market Place Foodstore - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 12
--------------------
-The John Marshall Law School - Law School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 20
--------------------
-The Jewelers Center - Jewelry Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 18
--------------------
-The Fudge Pot - Dessert Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-The Church Of St Paul The Redeemer - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 193
--------------------
-The Chicago High School For The Arts - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 30
--------------------
-The Backyard - Cemetery
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 21
--------------------
-Tamale Cart - Food Truck
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Taboo Tabou - Lingerie Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Sweat - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 41
--------------------
-Sun And Moon Beach Yoga - Beach
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Strack Van Til - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 16
--------------------
-St Procopius Parish - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 52
--------------------
-St Peters Catholic Church - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 285
--------------------
-Sprint Store By Wireless Lifestyle - Mobile Phone Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Speedway - Gas Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 8
--------------------
-South Shore Beach - Beach
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Soldier Field - Football Stadium
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Smart Museum Of Art - Art Museum
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Sheraton Grand Chicago - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Shell - Gas Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Seven Ten Lounge - Bowling Alley
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Seminary Coop Bookstore - Bookstore
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 91
--------------------
-Seawall - Beach
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Scoops Ice Cream - Dessert Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Sanctioned Few Clubhouse - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 63
--------------------
-Saint Anthony Hospital - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Rush University Medical Center - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 28
--------------------
-Ron Of Japan - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Road Ranger - Gas Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Riverview Condos - Residential Building (Apartment / Condo)
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 16
--------------------
-River North Hand Wash Detail - Car Wash
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 43
--------------------
-Rehabilitation Institute Of Chicago - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Reeds Hot Dog Stand - Food Truck
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Quads Gym - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 22
--------------------
-Pritzker Military Library - Library
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Presence Saints Mary And Elizabeth Medical Center St Mary Campus - Emergency Room
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 309
--------------------
-Polar Cap Ice Cream - Ice Cream Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Pleasant Prairie Premuim Outlet Mall - Shopping Mall
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Planet Fitness - Gym / Fitness Center
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 41
--------------------
-Pilsen Community Church - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 80
--------------------
-Pierogi Wagon - Food Truck
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Paulies - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Parkshore Fitness And Spa - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 18
--------------------
-Park Shore Market - Convenience Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Park Hyatt Chicago - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 5
--------------------
-Palmer House A Hilton Hotel - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 15
--------------------
-Oysy - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Oral Kare - Dentist's Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 18
--------------------
-Open Books Warehouse - Bookstore
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Old Town Oil - Gourmet Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Old Town Gardens - Flower Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Ohio Street Beach - Beach
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 64
--------------------
-Norwegian American Hospital - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 41
--------------------
-Northwestern University School Of Law - Law School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Northwestern Internists - Doctor's Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 17
--------------------
-Northwestern Arkes Family Pavilion - Doctor's Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 377
--------------------
-North Western Hospital - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-North Pond Nature Sanctuary - Lake
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 50
--------------------
-North Avenue Beach Volleyball - Beach
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 34
--------------------
-Nitecap Coffee Bar - Coffee Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Never Mind - Women's Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Navy Recruiting Station - Military Base
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Myopic Books - Bookstore
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 13
--------------------
-Museum Of Contemporary Photography - Art Museum
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 17
--------------------
-Museum Campus - Other Great Outdoors
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 18
--------------------
-Monarc Custom Clothing - Clothing Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Mobil - Gas Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Millennium Park Orthodontics - Dentist's Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 18
--------------------
-Mikos Italian Ice - Ice Cream Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Midwest Trailer Repair - Automotive Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 330
--------------------
-Micro Center - Electronics Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 297
--------------------
-Mercy Hospital Emergency Room - Emergency Room
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Meigs Field Control Tower - Airport
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Marathon Gas - Gas Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Macys - Department Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 337
--------------------
-Loop Tavern - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 17
--------------------
-Lincoln Park Zoo - Zoo
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 38
--------------------
-Lincoln Park Institute - Doctor's Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Lincoln Park High School - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 36
--------------------
-Lincoln Park Boat Club - Lake
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Leonidas Chocolate - Chocolate Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Lemonade Stand - Food Truck
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Lakeview Athletic Club - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 46
--------------------
-Lakeshore Bike - Bike Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Lake Michigan Running Path - Trail
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 8
--------------------
-Lake Michigan - Lake
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Kmart - Electronics Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 36
--------------------
-Kinzie Hotel - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Kimbark Plaza - Shopping Mall
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Kenwood Academy High School - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 12
--------------------
-Kennicott Bros Floral Wholesale - Flower Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Kendall College - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 360
--------------------
-K2 Gym - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Juarez High School - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Jerk Modern Jamaican Grill Food Truck - Food Truck
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Jane Addams Hullhouse Museum - History Museum
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-J Toor - Clothing Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 20
--------------------
-J C Lind Bike Co - Bike Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Ivy Sky Terrace Chicago - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Isaacson Stein Fish Market - Fish Market
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Iron Cycles Bike Shop - Bike Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Ios Genius Llc - IT Services
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 6
--------------------
-Ihsp Chicago - Hostel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Hyde Park Shopping Center - Shopping Mall
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 6
--------------------
-Hyde Park Produce - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 12
--------------------
-Hyatt Regency Chicago - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 5
--------------------
-Hyatt Centric Chicago Magnificent Mile - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Howard Johnson Inn - Motel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Hotel Zachary - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Hostelling International Chicago - Hostel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Holiday Inn Chicago Mart Plaza River North - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Hersheys Chocolate World Chicago - Chocolate Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Haute Sausage - Food Truck
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Harmony Health - Doctor's Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Hard Rock Hotel Chicago - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Halsted Flowers - Flower Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Guaranteed Rate Field - Baseball Stadium
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 23
--------------------
-Groupon Game Room - Arcade
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 70
--------------------
-Greater Englewood Parish United Methodist Church - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 147
--------------------
-Graham Cracker Comics - Comic Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 22
--------------------
-Goose Island Shrimp House Chicago - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 14
--------------------
-Go Grocer - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Glazed And Infused - Donut Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 54
--------------------
-Gelato Greco - Dessert Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Gage Park High School - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Froyo - Frozen Yogurt Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Frank Lloyd Wright Robie House - History Museum
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Fourth Presbyterian Church - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 180
--------------------
-Forman Mills - Clothing Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Fitness Formula Club Ffc - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 52
--------------------
-First Paradise Mb Church - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 17
--------------------
-First Aid Comics - Bookstore
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 43
--------------------
-Firestone Complete Auto Care - Automotive Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Federal Reserve Bank Of Chicago - Government Building
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 135
--------------------
-Fairplay Food Liquor - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Equilibrium Health Wellness - Doctor's Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Einstein Bros Bagels - Bagel Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 40
--------------------
-Direct Repair Inc - Mobile Phone Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Dilly Lily - Flower Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Dianas Food Mart - Deli / Bodega
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Dermatology Aesthetics Of Wicker Park - Doctor's Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 18
--------------------
-Depaul University Lewis Center - Law School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Depaul University - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Depaul Center - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 39
--------------------
-De Paul University - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 461
--------------------
-David Barton Gym - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 6
--------------------
-Dairy Queen - Ice Cream Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Cycle Smithy - Bike Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Cta Bus Stop 1106 - Bus Stop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Cta Bus Stop 1097 - Bus Stop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 27
--------------------
-Costco Wholesale - Warehouse Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Cosi - Sandwich Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 35
--------------------
-Consulado Colombiano - Cultural Center
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Concord Mb Church - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Cold Stone Creamery - Ice Cream Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Clark Gas Station - Gas Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-City Church Chicago - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 52
--------------------
-Chuck E Cheeses - Arcade
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Chocolate Hill - Dessert Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 36
--------------------
-Childrens Memorial Outpatient Center - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Chicago Union Station - Train Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 42
--------------------
-Chicago Social Beach Volleyball League - Beach
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 21
--------------------
-Chicago Public Library Water Works Branch - Library
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 3
--------------------
-Chicago Public Library - Library
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 12
--------------------
-Chicago Fire Station 18 51 - Fire Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Chicago Cupcake - Food Truck
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Chicago Carry Out - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 36
--------------------
-Cheesies Food Truck - Food Truck
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Challengers Comics - Comic Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 99
--------------------
-Cattails - Flower Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Castaways Bar Grill - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Car Care Specialists Hand Car Wash Detailing - Car Wash
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 20
--------------------
-Caffe Gelato - Bakery
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Caff%C3%A8 R%C5%8Dm - Coffee Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 300
--------------------
-Caf River Boat Cruise - Lake
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Burger King - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 149
--------------------
-Bucktown Chiropractic - Chiropractor
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Brazzaz Brazilian Steakhouse - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 147
--------------------
-Brazilian Bowl Grill - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 48
--------------------
-Brasil Legal - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Body Works Health And Wellness - Doctor's Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 17
--------------------
-Bockwinkels - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 8
--------------------
-Blumgarten - Flower Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 6
--------------------
-Bicycle Station Lofts - Residential Building (Apartment / Condo)
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 36
--------------------
-Between Kinzie And Hubbard On Orleans - Food Truck
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Best Buy - Electronics Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 72
--------------------
-Berts Car Wash - Car Wash
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 33
--------------------
-Bentley Gold Coast - Auto Dealership
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 32
--------------------
-Becks Beer - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Barbour - Clothing Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Banana Republic - Clothing Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 37
--------------------
-Avenue Crowne Plaza Chicago Magnificent Mile - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Autozone - Automotive Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Att - Mobile Phone Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 10
--------------------
-Atrium Food Court James R Thompson Center - Food Court
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Atrium Food Court - Food Court
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Arista Foods - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Arbys - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 18
--------------------
-Apple North Michigan Avenue - Electronics Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Apple Lincoln Park - Electronics Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 275
--------------------
-Apostolic Church Of God - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 84
--------------------
-Anthonys Homemade Italian Ice - Ice Cream Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Ann Robert H Lurie Childrens Hospital Of Chicago - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 39
--------------------
-Ancien Bicycle - Bike Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 21
--------------------
-American Eagle Outfitters Closed - Clothing Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Alfredos Bar - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 21
--------------------
-Aji Ichiban - Candy Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Aesthetic Dermatology - Doctor's Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Ace Motorcycle And Scooter - Gas Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Aarons Apothecary - Pharmacy
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-A New Leaf - Flower Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-A A Rayner Sons Funeral Home - Funeral Home
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-900 North Michigan Shops - Shopping Mall
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 5
--------------------
-47Th Street Beach - Beach
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-400 East Fitness Spa - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-311 South Wacker - Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 196
--------------------
-31 St Lakefront - Lake
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-10Pin Bowling Lounge - Bowling Alley
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 54
--------------------
-1030 North Clark Street - Building
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 168
--------------------
+Local,Categoria,P,Trocas,R,Disputa,Check-ins
+The Art Institute Of Chicago,Art Museum,9,38.61,6,25.74,72,
+7Eleven,Convenience Store,6,29.25,3,14.63,130,
+Target,Big Box Store,6,28.09,3,14.05,107,
+Starbucks,Coffee Shop,4,20.86,2,10.43,183,
+Mcdonalds,Restaurant,4,18.26,1,4.56,95,
+Fireside Bowl,Bowling Alley,4,17.82,3,13.36,85,
+Park Community Church,Church,4,17.43,2,8.71,77,
+Cvspharmacy,Pharmacy,4,17.16,3,12.87,72,
+Chickfila,Restaurant,4,16.76,3,12.57,65,
+Gallery Cabaret,Bar,4,14.76,2,7.38,39,
+Bank Of America,Bank,4,14.22,2,7.11,34,
+Chicago Comics,Comic Shop,3,13.6,2,9.07,92,
+Fogo De Ch%C3%A3O,Restaurant,4,13.18,0,0.0,26,
+Uic Forum,College Auditorium,3,12.83,2,8.55,71,
+Taco Bell,Restaurant,4,11.78,2,5.89,18,
+Mini Of Chicago,Automotive Shop,3,11.35,1,3.78,43,
+Fletcher Jones Volkswagen,Auto Dealership,3,11.14,1,3.71,40,
+Neiman Marcus,Department Store,3,10.75,1,3.58,35,
+Fifth Third Bank Atm,Bank,3,10.58,2,7.05,33,
+Stans Donuts Coffee,Donut Shop,3,10.49,1,3.5,32,
+Katherine Anne Confections,Dessert Shop,3,10.49,2,6.99,32,
+Northern Trust,Bank,2,10.03,1,5.02,150,
+River East Center,Building,3,9.66,1,3.22,24,
+West On North,Bar,3,9.41,1,3.14,22,
+63Rd Street Beach,Beach,2,9.38,1,4.69,108,
+Philip H Corboy Law Center,Law School,2,8.79,1,4.39,80,
+Seven Ten Lanes,Bowling Alley,3,8.67,1,2.89,17,
+Dorite Donuts Coffee,Donut Shop,2,8.5,0,0.0,69,
+John Hancock Center,Building,2,8.32,1,4.16,63,
+57Th Street Books,Bookstore,2,8.25,1,4.13,61,
+Oak Street Beach,Beach,2,7.05,0,0.0,33,
+Annettes Homemade Italian Ice,Dessert Shop,2,6.09,1,3.04,20,
+12Th Street Beach,Beach,2,6.09,1,3.04,20,
+Dunkin Donuts,Donut Shop,1,5.2,0,0.0,180,
+Water Tower Place,Shopping Mall,2,5.13,0,0.0,12,
+North Avenue Beach,Beach,2,5.13,0,0.0,12,
+Chase Bank,Bank,1,4.85,0,0.0,127,
+Big Littles Restaurant,Restaurant,2,4.39,0,0.0,8,
+South Shore Cultural Center,Cultural Center,1,4.22,0,0.0,67,
+Saint Clement Parish,Church,1,4.2,0,0.0,66,
+Barnes Noble,Bookstore,1,4.08,0,0.0,58,
+Firecakes Donuts,Donut Shop,1,3.99,0,0.0,53,
+Tcf Bank,Bank,1,3.95,0,0.0,51,
+Northwestern Memorial Hospital,Hospital,1,3.93,0,0.0,50,
+The Dugout Sports Bar Grill,Bar,2,3.89,1,1.95,6,
+White Glove Car Wash,Car Wash,1,3.83,0,0.0,45,
+The Shops At Roosevelt Collection,Shopping Mall,1,3.71,0,0.0,40,
+Gap,Clothing Store,1,3.71,0,0.0,40,
+National Pride Car Wash,Car Wash,1,3.69,0,0.0,39,
+Euro Collision,Automotive Shop,1,3.69,0,0.0,39,
+Brooks Building,Building,1,3.66,0,0.0,38,
+The Doughnut Vault,Donut Shop,1,3.64,0,0.0,37,
+Dental Salon,Dentist's Office,1,3.58,0,0.0,35,
+West Loop Athletic Club,Gym,1,3.56,0,0.0,34,
+Old Navy,Clothing Store,1,3.3,0,0.0,26,
+Lake Shore Drivescience Dr,Lake,1,3.18,0,0.0,23,
+Strictly By Hand,Car Wash,1,3.09,0,0.0,21,
+Block 37,Shopping Mall,1,3.09,0,0.0,21,
+Jewelosco,Supermarket,1,3.0,0,0.0,19,
+Churro Factory,Dessert Shop,1,2.94,0,0.0,18,
+University Of Chicago Emergency Room,Emergency Room,1,2.71,0,0.0,14,
+Hardpressed,Gym / Fitness Center,1,2.71,0,0.0,14,
+Willis Tower,Building,1,2.64,0,0.0,13,
+Southport Fitness,Gym,1,2.64,0,0.0,13,
+Potash Markets Clark St,Grocery Store,1,2.64,0,0.0,13,
+Intercontinental Chicago Magnificent Mile,Hotel,1,2.4,0,0.0,10,
+Southgate Market,Shopping Mall,1,2.3,0,0.0,9,
+Hyatt Regency Mccormick Place,Hotel,1,2.3,0,0.0,9,
+Smart Bike Parts Inc,Bike Shop,1,2.2,0,0.0,8,
+Galter Pavilion Northwestern Memorial Hospital,Hospital,1,2.2,0,0.0,8,
+Bp,Gas Station,1,2.2,0,0.0,8,
+Potash Bros Supermarket,Grocery Store,1,2.08,0,0.0,7,
+Northwestern Prentice Womens Hospital,Hospital,1,2.08,0,0.0,7,
+Aldi,Grocery Store,1,2.08,0,0.0,7,
+Stanleys Fresh Fruits And Vegetables,Fruit & Vegetable Store,1,1.95,0,0.0,6,
+Riverview Car Wash,Car Wash,1,1.95,0,0.0,6,
+Fairfield Inn Suites Chicago Downtownriver North,Hotel,1,1.95,0,0.0,6,
+Comer Childrens Hospital,Hospital,1,1.95,0,0.0,6,
+Travelodge,Hotel,1,1.79,0,0.0,5,
+Lake Michigan Steps,Lake,1,1.79,0,0.0,5,
+Flowers For Dreams,Flower Shop,1,1.79,0,0.0,5,
+The Field Museum,History Museum,1,1.61,0,0.0,4,
+The Drucker Center,Gym,1,1.61,0,0.0,4,
+Quimbys,Bookstore,1,1.61,0,0.0,4,
+Jetro,Grocery Store,1,1.61,0,0.0,4,
+Chicagos Lakefront Hyde Park,Lake,1,1.61,0,0.0,4,
+Chicago Lakefront,Waterfront,1,1.61,0,0.0,4,
+Chicago History Museum,History Museum,1,1.61,0,0.0,4,
+Aayu Clinics Lakeview Immediate Care,Emergency Room,1,1.61,0,0.0,4,
+The Shops At North Bridge,Shopping Mall,2,1.39,0,0.0,1,
+Washington Park,Park,1,1.39,0,0.0,3,
+Tiffany Co,Jewelry Store,1,1.39,0,0.0,3,
+The Foundry,Shopping Mall,1,1.39,0,0.0,3,
+The Fat Shallot,Food Truck,1,1.39,0,0.0,3,
+Sakura Teppanyaki Sushi,Restaurant,1,1.39,0,0.0,3,
+Rush University Medical Center Jelke Bldg,Hospital,1,1.39,0,0.0,3,
+Presence Saint Joseph Hospital Chicago,Hospital,1,1.39,0,0.0,3,
+Lifestart Fitness Monroecanal,Gym,1,1.39,0,0.0,3,
+Food 4 Less,Grocery Store,1,1.39,0,0.0,3,
+Clarke House Museum,History Museum,1,1.39,0,0.0,3,
+Chicago Fire Academy,Fire Station,1,1.39,0,0.0,3,
+Cartier,Jewelry Store,1,1.39,0,0.0,3,
+Windy City Sweets,Candy Store,1,1.1,0,0.0,2,
+Wells High School,High School,1,1.1,0,0.0,2,
+Umai Japanese Kitchen Sushi,Restaurant,1,1.1,0,0.0,2,
+Red Mango,Frozen Yogurt Shop,1,1.1,0,0.0,2,
+Pinkberry,Frozen Yogurt Shop,1,1.1,0,0.0,2,
+Forever Yogurt,Frozen Yogurt Shop,1,1.1,0,0.0,2,
+Five Faces Ice Cream Shop,Restaurant,1,1.1,0,0.0,2,
+Chicago Getaway Hostel,Hostel,1,1.1,0,0.0,2,
+Baskinrobbins,Ice Cream Shop,1,1.1,0,0.0,2,
+Anthony Marano Co,Food & Drink Shop,1,1.1,0,0.0,2,
+University Of Illinois Hospital Health Sciences System,Hospital,1,0.69,0,0.0,1,
+Sushi Pink,Restaurant,1,0.69,0,0.0,1,
+Slurping Turtle,Noodle House,1,0.69,0,0.0,1,
+Skyline View,Beach,1,0.69,0,0.0,1,
+Asrai Garden,Flower Shop,1,0.69,0,0.0,1,
+Navy Pier,Pier,1,0.0,0,0.0,0,
+Zombieland,Arcade,0,0.0,0,0.0,0,
+Zales,Jewelry Store,0,0.0,0,0.0,0,
+Yoshis Cafe,Restaurant,0,0.0,0,0.0,8,
+Yogurtland,Frozen Yogurt Shop,0,0.0,0,0.0,2,
+Yoberri,Ice Cream Shop,0,0.0,0,0.0,1,
+Xsport Fitness,Gym,0,0.0,0,0.0,43,
+Xocoatl,Dessert Shop,0,0.0,0,0.0,18,
+Wood Street Urban Farm,Farm,0,0.0,0,0.0,0,
+William H Wells Community Hs,High School,0,0.0,0,0.0,2,
+Wicker Wash,Automotive Shop,0,0.0,0,0.0,0,
+Whitney Young High School,High School,0,0.0,0,0.0,4,
+Whimsical Chocolate,Dessert Shop,0,0.0,0,0.0,0,
+Well Clean Inc,Car Wash,0,0.0,0,0.0,168,
+Walmart Neighborhood Market,Grocery Store,0,0.0,0,0.0,97,
+Walgreens,Pharmacy,0,0.0,0,0.0,187,
+W Chicago City Center,Hotel,0,0.0,0,0.0,7,
+Visual Effects Optical,Doctor's Office,0,0.0,0,0.0,0,
+Vigilante Press,Comic Shop,0,0.0,0,0.0,20,
+Victorias Secret,Lingerie Store,0,0.0,0,0.0,3,
+Verizon Wireless,Mobile Phone Shop,0,0.0,0,0.0,0,
+Verizon,Mobile Phone Shop,0,0.0,0,0.0,1,
+Us Cellular,Mobile Phone Shop,0,0.0,0,0.0,0,
+Urban Prep Academy West Campus,High School,0,0.0,0,0.0,0,
+University Of Phoenix Downtown Learning Center,University,0,0.0,0,0.0,3,
+University Of Illinois At Chicago Medical Center,Hospital,0,0.0,0,0.0,19,
+University Of Chicago Medical Center,Doctor's Office,0,0.0,0,0.0,18,
+Ukai Restaurant,Restaurant,0,0.0,0,0.0,9,
+Uic Medical Center Emergency Room,Medical School,0,0.0,0,0.0,0,
+Uic College Prep,High School,0,0.0,0,0.0,7,
+Trump International Hotel Tower Chicago,Hotel,0,0.0,0,0.0,31,
+Trader Joes,Grocery Store,0,0.0,0,0.0,30,
+Tower At Rush University Medical Center,Hospital,0,0.0,0,0.0,9,
+Tonic Room,Bar,0,0.0,0,0.0,257,
+Tmobile,Mobile Phone Shop,0,0.0,0,0.0,0,
+The Vitamin Shoppe,Supplement Shop,0,0.0,0,0.0,17,
+The Temple Bar,Bar,0,0.0,0,0.0,21,
+The Silver Room,Jewelry Store,0,0.0,0,0.0,4,
+The Quarter,Hostel,0,0.0,0,0.0,7,
+The Poetry Foundation,Library,0,0.0,0,0.0,1,
+The Oriental Institute,History Museum,0,0.0,0,0.0,30,
+The Market Place Foodstore,Grocery Store,0,0.0,0,0.0,12,
+The John Marshall Law School,Law School,0,0.0,0,0.0,20,
+The Jewelers Center,Jewelry Store,0,0.0,0,0.0,18,
+The Fudge Pot,Dessert Shop,0,0.0,0,0.0,0,
+The Church Of St Paul The Redeemer,Church,0,0.0,0,0.0,193,
+The Chicago High School For The Arts,High School,0,0.0,0,0.0,30,
+The Backyard,Cemetery,0,0.0,0,0.0,21,
+Tamale Cart,Food Truck,0,0.0,0,0.0,0,
+Taboo Tabou,Lingerie Store,0,0.0,0,0.0,0,
+Sweat,Gym,0,0.0,0,0.0,41,
+Sun And Moon Beach Yoga,Beach,0,0.0,0,0.0,0,
+Strack Van Til,Grocery Store,0,0.0,0,0.0,16,
+St Procopius Parish,Church,0,0.0,0,0.0,52,
+St Peters Catholic Church,Church,0,0.0,0,0.0,285,
+Sprint Store By Wireless Lifestyle,Mobile Phone Shop,0,0.0,0,0.0,1,
+Speedway,Gas Station,0,0.0,0,0.0,8,
+South Shore Beach,Beach,0,0.0,0,0.0,0,
+Soldier Field,Football Stadium,0,0.0,0,0.0,1,
+Smart Museum Of Art,Art Museum,0,0.0,0,0.0,0,
+Sheraton Grand Chicago,Hotel,0,0.0,0,0.0,4,
+Shell,Gas Station,0,0.0,0,0.0,4,
+Seven Ten Lounge,Bowling Alley,0,0.0,0,0.0,0,
+Seminary Coop Bookstore,Bookstore,0,0.0,0,0.0,91,
+Seawall,Beach,0,0.0,0,0.0,0,
+Scoops Ice Cream,Dessert Shop,0,0.0,0,0.0,0,
+Sanctioned Few Clubhouse,Bar,0,0.0,0,0.0,63,
+Saint Anthony Hospital,Hospital,0,0.0,0,0.0,2,
+Rush University Medical Center,Hospital,0,0.0,0,0.0,28,
+Ron Of Japan,Restaurant,0,0.0,0,0.0,0,
+Road Ranger,Gas Station,0,0.0,0,0.0,0,
+Riverview Condos,Residential Building (Apartment / Condo),0,0.0,0,0.0,16,
+River North Hand Wash Detail,Car Wash,0,0.0,0,0.0,43,
+Rehabilitation Institute Of Chicago,Hospital,0,0.0,0,0.0,0,
+Reeds Hot Dog Stand,Food Truck,0,0.0,0,0.0,4,
+Quads Gym,Gym,0,0.0,0,0.0,22,
+Pritzker Military Library,Library,0,0.0,0,0.0,0,
+Presence Saints Mary And Elizabeth Medical Center St Mary Campus,Emergency Room,0,0.0,0,0.0,309,
+Polar Cap Ice Cream,Ice Cream Shop,0,0.0,0,0.0,0,
+Pleasant Prairie Premuim Outlet Mall,Shopping Mall,0,0.0,0,0.0,0,
+Planet Fitness,Gym / Fitness Center,0,0.0,0,0.0,41,
+Pilsen Community Church,Church,0,0.0,0,0.0,80,
+Pierogi Wagon,Food Truck,0,0.0,0,0.0,4,
+Paulies,Bar,0,0.0,0,0.0,0,
+Parkshore Fitness And Spa,Gym,0,0.0,0,0.0,18,
+Park Shore Market,Convenience Store,0,0.0,0,0.0,0,
+Park Hyatt Chicago,Hotel,0,0.0,0,0.0,5,
+Palmer House A Hilton Hotel,Hotel,0,0.0,0,0.0,15,
+Oysy,Restaurant,0,0.0,0,0.0,4,
+Oral Kare,Dentist's Office,0,0.0,0,0.0,18,
+Open Books Warehouse,Bookstore,0,0.0,0,0.0,4,
+Old Town Oil,Gourmet Shop,0,0.0,0,0.0,0,
+Old Town Gardens,Flower Shop,0,0.0,0,0.0,2,
+Ohio Street Beach,Beach,0,0.0,0,0.0,64,
+Norwegian American Hospital,Hospital,0,0.0,0,0.0,41,
+Northwestern University School Of Law,Law School,0,0.0,0,0.0,2,
+Northwestern Internists,Doctor's Office,0,0.0,0,0.0,17,
+Northwestern Arkes Family Pavilion,Doctor's Office,0,0.0,0,0.0,377,
+North Western Hospital,Hospital,0,0.0,0,0.0,0,
+North Pond Nature Sanctuary,Lake,0,0.0,0,0.0,50,
+North Avenue Beach Volleyball,Beach,0,0.0,0,0.0,34,
+Nitecap Coffee Bar,Coffee Shop,0,0.0,0,0.0,0,
+Never Mind,Women's Store,0,0.0,0,0.0,0,
+Navy Recruiting Station,Military Base,0,0.0,0,0.0,3,
+Myopic Books,Bookstore,0,0.0,0,0.0,13,
+Museum Of Contemporary Photography,Art Museum,0,0.0,0,0.0,17,
+Museum Campus,Other Great Outdoors,0,0.0,0,0.0,18,
+Monarc Custom Clothing,Clothing Store,0,0.0,0,0.0,0,
+Mobil,Gas Station,0,0.0,0,0.0,0,
+Millennium Park Orthodontics,Dentist's Office,0,0.0,0,0.0,18,
+Mikos Italian Ice,Ice Cream Shop,0,0.0,0,0.0,2,
+Midwest Trailer Repair,Automotive Shop,0,0.0,0,0.0,330,
+Micro Center,Electronics Store,0,0.0,0,0.0,297,
+Mercy Hospital Emergency Room,Emergency Room,0,0.0,0,0.0,1,
+Meigs Field Control Tower,Airport,0,0.0,0,0.0,0,
+Marathon Gas,Gas Station,0,0.0,0,0.0,2,
+Macys,Department Store,0,0.0,0,0.0,337,
+Loop Tavern,Bar,0,0.0,0,0.0,17,
+Lincoln Park Zoo,Zoo,0,0.0,0,0.0,38,
+Lincoln Park Institute,Doctor's Office,0,0.0,0,0.0,0,
+Lincoln Park High School,High School,0,0.0,0,0.0,36,
+Lincoln Park Boat Club,Lake,0,0.0,0,0.0,0,
+Leonidas Chocolate,Chocolate Shop,0,0.0,0,0.0,0,
+Lemonade Stand,Food Truck,0,0.0,0,0.0,0,
+Lakeview Athletic Club,Gym,0,0.0,0,0.0,46,
+Lakeshore Bike,Bike Shop,0,0.0,0,0.0,0,
+Lake Michigan Running Path,Trail,0,0.0,0,0.0,8,
+Lake Michigan,Lake,0,0.0,0,0.0,7,
+Kmart,Electronics Store,0,0.0,0,0.0,36,
+Kinzie Hotel,Hotel,0,0.0,0,0.0,2,
+Kimbark Plaza,Shopping Mall,0,0.0,0,0.0,4,
+Kenwood Academy High School,High School,0,0.0,0,0.0,12,
+Kennicott Bros Floral Wholesale,Flower Shop,0,0.0,0,0.0,3,
+Kendall College,University,0,0.0,0,0.0,360,
+K2 Gym,Gym,0,0.0,0,0.0,4,
+Juarez High School,High School,0,0.0,0,0.0,2,
+Jerk Modern Jamaican Grill Food Truck,Food Truck,0,0.0,0,0.0,0,
+Jane Addams Hullhouse Museum,History Museum,0,0.0,0,0.0,0,
+J Toor,Clothing Store,0,0.0,0,0.0,20,
+J C Lind Bike Co,Bike Shop,0,0.0,0,0.0,0,
+Ivy Sky Terrace Chicago,Bar,0,0.0,0,0.0,0,
+Isaacson Stein Fish Market,Fish Market,0,0.0,0,0.0,0,
+Iron Cycles Bike Shop,Bike Shop,0,0.0,0,0.0,0,
+Ios Genius Llc,IT Services,0,0.0,0,0.0,6,
+Ihsp Chicago,Hostel,0,0.0,0,0.0,0,
+Hyde Park Shopping Center,Shopping Mall,0,0.0,0,0.0,6,
+Hyde Park Produce,Grocery Store,0,0.0,0,0.0,12,
+Hyatt Regency Chicago,Hotel,0,0.0,0,0.0,5,
+Hyatt Centric Chicago Magnificent Mile,Hotel,0,0.0,0,0.0,4,
+Howard Johnson Inn,Motel,0,0.0,0,0.0,4,
+Hotel Zachary,Hotel,0,0.0,0,0.0,3,
+Hostelling International Chicago,Hostel,0,0.0,0,0.0,7,
+Holiday Inn Chicago Mart Plaza River North,Hotel,0,0.0,0,0.0,4,
+Hersheys Chocolate World Chicago,Chocolate Shop,0,0.0,0,0.0,0,
+Haute Sausage,Food Truck,0,0.0,0,0.0,2,
+Harmony Health,Doctor's Office,0,0.0,0,0.0,0,
+Hard Rock Hotel Chicago,Hotel,0,0.0,0,0.0,2,
+Halsted Flowers,Flower Shop,0,0.0,0,0.0,2,
+Guaranteed Rate Field,Baseball Stadium,0,0.0,0,0.0,23,
+Groupon Game Room,Arcade,0,0.0,0,0.0,70,
+Greater Englewood Parish United Methodist Church,Church,0,0.0,0,0.0,147,
+Graham Cracker Comics,Comic Shop,0,0.0,0,0.0,22,
+Goose Island Shrimp House Chicago,Restaurant,0,0.0,0,0.0,14,
+Go Grocer,Grocery Store,0,0.0,0,0.0,3,
+Glazed And Infused,Donut Shop,0,0.0,0,0.0,54,
+Gelato Greco,Dessert Shop,0,0.0,0,0.0,0,
+Gage Park High School,High School,0,0.0,0,0.0,2,
+Froyo,Frozen Yogurt Shop,0,0.0,0,0.0,0,
+Frank Lloyd Wright Robie House,History Museum,0,0.0,0,0.0,0,
+Fourth Presbyterian Church,Church,0,0.0,0,0.0,180,
+Forman Mills,Clothing Store,0,0.0,0,0.0,0,
+Fitness Formula Club Ffc,Gym,0,0.0,0,0.0,52,
+First Paradise Mb Church,Church,0,0.0,0,0.0,17,
+First Aid Comics,Bookstore,0,0.0,0,0.0,43,
+Firestone Complete Auto Care,Automotive Shop,0,0.0,0,0.0,1,
+Federal Reserve Bank Of Chicago,Government Building,0,0.0,0,0.0,135,
+Fairplay Food Liquor,Grocery Store,0,0.0,0,0.0,2,
+Equilibrium Health Wellness,Doctor's Office,0,0.0,0,0.0,0,
+Einstein Bros Bagels,Bagel Shop,0,0.0,0,0.0,40,
+Direct Repair Inc,Mobile Phone Shop,0,0.0,0,0.0,0,
+Dilly Lily,Flower Shop,0,0.0,0,0.0,0,
+Dianas Food Mart,Deli / Bodega,0,0.0,0,0.0,0,
+Dermatology Aesthetics Of Wicker Park,Doctor's Office,0,0.0,0,0.0,18,
+Depaul University Lewis Center,Law School,0,0.0,0,0.0,1,
+Depaul University,University,0,0.0,0,0.0,0,
+Depaul Center,University,0,0.0,0,0.0,39,
+De Paul University,University,0,0.0,0,0.0,461,
+David Barton Gym,Gym,0,0.0,0,0.0,6,
+Dairy Queen,Ice Cream Shop,0,0.0,0,0.0,0,
+Cycle Smithy,Bike Shop,0,0.0,0,0.0,0,
+Cta Bus Stop 1106,Bus Stop,0,0.0,0,0.0,0,
+Cta Bus Stop 1097,Bus Stop,0,0.0,0,0.0,27,
+Costco Wholesale,Warehouse Store,0,0.0,0,0.0,4,
+Cosi,Sandwich Place,0,0.0,0,0.0,35,
+Consulado Colombiano,Cultural Center,0,0.0,0,0.0,0,
+Concord Mb Church,Church,0,0.0,0,0.0,4,
+Cold Stone Creamery,Ice Cream Shop,0,0.0,0,0.0,0,
+Clark Gas Station,Gas Station,0,0.0,0,0.0,4,
+City Church Chicago,Church,0,0.0,0,0.0,52,
+Chuck E Cheeses,Arcade,0,0.0,0,0.0,4,
+Chocolate Hill,Dessert Shop,0,0.0,0,0.0,36,
+Childrens Memorial Outpatient Center,Hospital,0,0.0,0,0.0,0,
+Chicago Union Station,Train Station,0,0.0,0,0.0,42,
+Chicago Social Beach Volleyball League,Beach,0,0.0,0,0.0,21,
+Chicago Public Library Water Works Branch,Library,0,0.0,0,0.0,3,
+Chicago Public Library,Library,0,0.0,0,0.0,12,
+Chicago Fire Station 18 51,Fire Station,0,0.0,0,0.0,0,
+Chicago Cupcake,Food Truck,0,0.0,0,0.0,0,
+Chicago Carry Out,Restaurant,0,0.0,0,0.0,36,
+Cheesies Food Truck,Food Truck,0,0.0,0,0.0,2,
+Challengers Comics,Comic Shop,0,0.0,0,0.0,99,
+Cattails,Flower Shop,0,0.0,0,0.0,2,
+Castaways Bar Grill,Bar,0,0.0,0,0.0,0,
+Car Care Specialists Hand Car Wash Detailing,Car Wash,0,0.0,0,0.0,20,
+Caffe Gelato,Bakery,0,0.0,0,0.0,1,
+Caff%C3%A8 R%C5%8Dm,Coffee Shop,0,0.0,0,0.0,300,
+Caf River Boat Cruise,Lake,0,0.0,0,0.0,0,
+Burger King,Restaurant,0,0.0,0,0.0,149,
+Bucktown Chiropractic,Chiropractor,0,0.0,0,0.0,0,
+Brazzaz Brazilian Steakhouse,Restaurant,0,0.0,0,0.0,147,
+Brazilian Bowl Grill,Restaurant,0,0.0,0,0.0,48,
+Brasil Legal,Restaurant,0,0.0,0,0.0,0,
+Body Works Health And Wellness,Doctor's Office,0,0.0,0,0.0,17,
+Bockwinkels,Grocery Store,0,0.0,0,0.0,8,
+Blumgarten,Flower Shop,0,0.0,0,0.0,6,
+Bicycle Station Lofts,Residential Building (Apartment / Condo),0,0.0,0,0.0,36,
+Between Kinzie And Hubbard On Orleans,Food Truck,0,0.0,0,0.0,0,
+Best Buy,Electronics Store,0,0.0,0,0.0,72,
+Berts Car Wash,Car Wash,0,0.0,0,0.0,33,
+Bentley Gold Coast,Auto Dealership,0,0.0,0,0.0,32,
+Becks Beer,Bar,0,0.0,0,0.0,0,
+Barbour,Clothing Store,0,0.0,0,0.0,0,
+Banana Republic,Clothing Store,0,0.0,0,0.0,37,
+Avenue Crowne Plaza Chicago Magnificent Mile,Hotel,0,0.0,0,0.0,0,
+Autozone,Automotive Shop,0,0.0,0,0.0,0,
+Att,Mobile Phone Shop,0,0.0,0,0.0,10,
+Atrium Food Court James R Thompson Center,Food Court,0,0.0,0,0.0,0,
+Atrium Food Court,Food Court,0,0.0,0,0.0,1,
+Arista Foods,Grocery Store,0,0.0,0,0.0,4,
+Arbys,Restaurant,0,0.0,0,0.0,18,
+Apple North Michigan Avenue,Electronics Store,0,0.0,0,0.0,0,
+Apple Lincoln Park,Electronics Store,0,0.0,0,0.0,275,
+Apostolic Church Of God,Church,0,0.0,0,0.0,84,
+Anthonys Homemade Italian Ice,Ice Cream Shop,0,0.0,0,0.0,2,
+Ann Robert H Lurie Childrens Hospital Of Chicago,Hospital,0,0.0,0,0.0,39,
+Ancien Bicycle,Bike Shop,0,0.0,0,0.0,21,
+American Eagle Outfitters Closed,Clothing Store,0,0.0,0,0.0,0,
+Alfredos Bar,Bar,0,0.0,0,0.0,21,
+Aji Ichiban,Candy Store,0,0.0,0,0.0,0,
+Aesthetic Dermatology,Doctor's Office,0,0.0,0,0.0,0,
+Ace Motorcycle And Scooter,Gas Station,0,0.0,0,0.0,2,
+Aarons Apothecary,Pharmacy,0,0.0,0,0.0,0,
+A New Leaf,Flower Shop,0,0.0,0,0.0,0,
+A A Rayner Sons Funeral Home,Funeral Home,0,0.0,0,0.0,0,
+900 North Michigan Shops,Shopping Mall,0,0.0,0,0.0,5,
+47Th Street Beach,Beach,0,0.0,0,0.0,0,
+400 East Fitness Spa,Gym,0,0.0,0,0.0,0,
+311 South Wacker,Office,0,0.0,0,0.0,196,
+31 St Lakefront,Lake,0,0.0,0,0.0,7,
+10Pin Bowling Lounge,Bowling Alley,0,0.0,0,0.0,54,
+1030 North Clark Street,Building,0,0.0,0,0.0,168,

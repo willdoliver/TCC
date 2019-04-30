@@ -1,4448 +1,636 @@
--------------------
-RESULTADOS POR LOCAL
--------------------
-Parque Barigui - Park
-P = 21
-Trocas: 147.31
-R = 20
-Disputa: 140.3
-Check-ins = 1112
--------------------
-Universidade Tecnológica Federal Do Paraná Utfpr - University
-P = 19
-Trocas: 125.37
-R = 16
-Disputa: 105.58
-Check-ins = 733
--------------------
-Shopping Mueller - Shopping Mall
-P = 19
-Trocas: 100.19
-R = 9
-Disputa: 47.46
-Check-ins = 194
--------------------
-20 Batalhão De Infantaria Blindado - Military Base
-P = 15
-Trocas: 91.94
-R = 14
-Disputa: 85.81
-Check-ins = 458
--------------------
-Mcdonalds - Restaurant
-P = 14
-Trocas: 82.71
-R = 10
-Disputa: 59.08
-Check-ins = 367
--------------------
-Museu Oscar Niemeyer Mon - Art Museum
-P = 15
-Trocas: 82.27
-R = 8
-Disputa: 43.88
-Check-ins = 240
--------------------
-Parque General Iberê De Mattos Parque Bacacheri - Park
-P = 11
-Trocas: 76.49
-R = 8
-Disputa: 55.63
-Check-ins = 1046
--------------------
-Shopping Palladium - Shopping Mall
-P = 14
-Trocas: 72.62
-R = 6
-Disputa: 31.12
-Check-ins = 178
--------------------
-Park Shopping Barigui - Shopping Mall
-P = 13
-Trocas: 68.35
-R = 4
-Disputa: 21.03
-Check-ins = 191
--------------------
-Walmart - Big Box Store
-P = 10
-Trocas: 65.79
-R = 8
-Disputa: 52.63
-Check-ins = 719
--------------------
-Passeio Público - Park
-P = 9
-Trocas: 63.52
-R = 8
-Disputa: 56.46
-Check-ins = 1161
--------------------
-Universidade Positivo Up - University
-P = 10
-Trocas: 60.43
-R = 8
-Disputa: 48.34
-Check-ins = 420
--------------------
-Estação Tubo Praça EufráSio Correia - Bus Stop
-P = 8
-Trocas: 59.08
-R = 7
-Disputa: 51.69
-Check-ins = 1610
--------------------
-Estádio Durival De Britto E Silva Vila Capanema - Soccer Stadium
-P = 11
-Trocas: 58.17
-R = 7
-Disputa: 37.02
-Check-ins = 197
--------------------
-Hati Pastel - Food Truck
-P = 11
-Trocas: 57.24
-R = 10
-Disputa: 52.04
-Check-ins = 181
--------------------
-Shopping Curitiba - Shopping Mall
-P = 11
-Trocas: 57.18
-R = 5
-Disputa: 25.99
-Check-ins = 180
--------------------
-Mercado Ponto Quente - Market
-P = 10
-Trocas: 56.94
-R = 8
-Disputa: 45.55
-Check-ins = 296
--------------------
-Santo Anjo Barigui - School
-P = 10
-Trocas: 56.02
-R = 9
-Disputa: 50.42
-Check-ins = 270
--------------------
-Hospital Marcelino Champagnat - Hospital
-P = 9
-Trocas: 53.81
-R = 6
-Disputa: 35.87
-Check-ins = 394
--------------------
-Parque Tingui - Park
-P = 10
-Trocas: 53.42
-R = 7
-Disputa: 37.4
-Check-ins = 208
--------------------
-Hospital Sugisawa - Hospital
-P = 10
-Trocas: 53.33
-R = 7
-Disputa: 37.33
-Check-ins = 206
--------------------
-Hospital Ipo - Hospital
-P = 10
-Trocas: 51.87
-R = 6
-Disputa: 31.12
-Check-ins = 178
--------------------
-Quintal Do Guima - Bar
-P = 10
-Trocas: 50.94
-R = 7
-Disputa: 35.66
-Check-ins = 162
--------------------
-Polícia Federal Dpfpr - Police Station
-P = 10
-Trocas: 49.84
-R = 6
-Disputa: 29.9
-Check-ins = 145
--------------------
-Subway - Sandwich Place
-P = 8
-Trocas: 49.6
-R = 7
-Disputa: 43.4
-Check-ins = 492
--------------------
-Shopping Novo Batel - Shopping Mall
-P = 9
-Trocas: 48.54
-R = 6
-Disputa: 32.36
-Check-ins = 219
--------------------
-Anita Shopping - Shopping Plaza
-P = 9
-Trocas: 47.91
-R = 7
-Disputa: 37.26
-Check-ins = 204
--------------------
-Posto Alto Da Xv Ipiranga - Gas Station
-P = 9
-Trocas: 46.64
-R = 7
-Disputa: 36.27
-Check-ins = 177
--------------------
-SláInte Irish Pub - Irish Pub
-P = 8
-Trocas: 44.64
-R = 6
-Disputa: 33.48
-Check-ins = 264
--------------------
-Pib Primeira Igreja Batista De Curitiba - Church
-P = 6
-Trocas: 42.12
-R = 5
-Disputa: 35.1
-Check-ins = 1118
--------------------
-Unicuritiba Centro UniversitáRio Curitiba - University
-P = 6
-Trocas: 41.58
-R = 5
-Disputa: 34.65
-Check-ins = 1022
--------------------
-Jokers - Pub
-P = 8
-Trocas: 41.32
-R = 5
-Disputa: 25.82
-Check-ins = 174
--------------------
-Tânia Pães E Delícias - Coffee Shop
-P = 7
-Trocas: 40.72
-R = 6
-Disputa: 34.9
-Check-ins = 335
--------------------
-Caixa Econômica Federal - Bank
-P = 7
-Trocas: 39.64
-R = 6
-Disputa: 33.98
-Check-ins = 287
--------------------
-Estação Tubo Coronel Dulcídio - Bus Stop
-P = 7
-Trocas: 39.42
-R = 6
-Disputa: 33.79
-Check-ins = 278
--------------------
-Mabu Curitiba Convention - Hotel
-P = 7
-Trocas: 39.03
-R = 5
-Disputa: 27.88
-Check-ins = 263
--------------------
-Baggio Pizzeria Focacceria - Pizza Place
-P = 7
-Trocas: 38.16
-R = 5
-Disputa: 27.26
-Check-ins = 232
--------------------
-Correios - Post Office
-P = 6
-Trocas: 36.53
-R = 3
-Disputa: 18.27
-Check-ins = 440
--------------------
-Galeria Tijucas - Shopping Mall
-P = 7
-Trocas: 34.28
-R = 5
-Disputa: 24.49
-Check-ins = 133
--------------------
-Callfarma - Pharmacy
-P = 7
-Trocas: 33.51
-R = 4
-Disputa: 19.15
-Check-ins = 119
--------------------
-Museu Do ExpedicionáRio - History Museum
-P = 6
-Trocas: 32.81
-R = 5
-Disputa: 27.34
-Check-ins = 236
--------------------
-Memorial De Curitiba - Cultural Center
-P = 5
-Trocas: 31.69
-R = 4
-Disputa: 25.35
-Check-ins = 565
--------------------
-Clube Curitibano Sede Lucius Smyte - Gym
-P = 5
-Trocas: 30.83
-R = 4
-Disputa: 24.66
-Check-ins = 475
--------------------
-Habibs - Restaurant
-P = 6
-Trocas: 30.67
-R = 3
-Disputa: 15.34
-Check-ins = 165
--------------------
-Slaviero Suites Curitiba Batel - Hotel
-P = 6
-Trocas: 29.3
-R = 4
-Disputa: 19.53
-Check-ins = 131
--------------------
-Pizza Hut - Pizza Place
-P = 6
-Trocas: 28.47
-R = 3
-Disputa: 14.23
-Check-ins = 114
--------------------
-Feira Noturna Do Champagnat - Night Market
-P = 6
-Trocas: 28.36
-R = 3
-Disputa: 14.18
-Check-ins = 112
--------------------
-Igreja Adventista Do Sétimo Dia Central De Curitiba - Church
-P = 5
-Trocas: 28.16
-R = 4
-Disputa: 22.52
-Check-ins = 278
--------------------
-Burger King - Restaurant
-P = 6
-Trocas: 27.92
-R = 4
-Disputa: 18.62
-Check-ins = 104
--------------------
-Farmácias E Drogarias Nissei - Pharmacy
-P = 5
-Trocas: 27.53
-R = 2
-Disputa: 11.01
-Check-ins = 245
--------------------
-Amil Unidade Avançada áGua Verde - Doctors Office
-P = 5
-Trocas: 27.47
-R = 2
-Disputa: 10.99
-Check-ins = 242
--------------------
-Pernambucanas - Department Store
-P = 6
-Trocas: 27.32
-R = 3
-Disputa: 13.66
-Check-ins = 94
--------------------
-Confeitaria Das Famílias - Dessert Shop
-P = 6
-Trocas: 27.32
-R = 3
-Disputa: 13.66
-Check-ins = 94
--------------------
-Extra Hiper - Big Box Store
-P = 6
-Trocas: 27.26
-R = 3
-Disputa: 13.63
-Check-ins = 93
--------------------
-Miyo Culinária Japonesa - Restaurant
-P = 6
-Trocas: 27.13
-R = 3
-Disputa: 13.57
-Check-ins = 91
--------------------
-Bosque Papa João Paulo Ii - Park
-P = 6
-Trocas: 27.07
-R = 4
-Disputa: 18.04
-Check-ins = 90
--------------------
-Portão Cultural - Cultural Center
-P = 5
-Trocas: 26.76
-R = 2
-Disputa: 10.7
-Check-ins = 210
--------------------
-Hopn Roll - Pub
-P = 5
-Trocas: 26.69
-R = 3
-Disputa: 16.01
-Check-ins = 207
--------------------
-Restaurante Malindi - Restaurant
-P = 5
-Trocas: 26.07
-R = 2
-Disputa: 10.43
-Check-ins = 183
--------------------
-Yage - Restaurant
-P = 5
-Trocas: 25.82
-R = 3
-Disputa: 15.49
-Check-ins = 174
--------------------
-Saúdespa - Doctors Office
-P = 5
-Trocas: 25.77
-R = 4
-Disputa: 20.61
-Check-ins = 172
--------------------
-Imax - Movie Theater
-P = 5
-Trocas: 25.74
-R = 4
-Disputa: 20.59
-Check-ins = 171
--------------------
-Hospital Santa Casa De Misericórdia - Hospital
-P = 5
-Trocas: 25.18
-R = 3
-Disputa: 15.11
-Check-ins = 153
--------------------
-Slm A Casa Do Confeiteiro - Candy Store
-P = 5
-Trocas: 24.95
-R = 3
-Disputa: 14.97
-Check-ins = 146
--------------------
-La Rampa - Restaurant
-P = 5
-Trocas: 24.45
-R = 2
-Disputa: 9.78
-Check-ins = 132
--------------------
-Peixaria Tatiana - Fish Market
-P = 4
-Trocas: 24.36
-R = 3
-Disputa: 18.27
-Check-ins = 440
--------------------
-Praça Ouvidor Pardinho - Park
-P = 4
-Trocas: 23.61
-R = 2
-Disputa: 11.81
-Check-ins = 365
--------------------
-Auto Posto Champagnat - Gas Station
-P = 5
-Trocas: 23.5
-R = 3
-Disputa: 14.1
-Check-ins = 109
--------------------
-Academia Via Fitness - Gym
-P = 4
-Trocas: 23.39
-R = 3
-Disputa: 17.54
-Check-ins = 345
--------------------
-Pestana Curitiba Hotel - Hotel
-P = 5
-Trocas: 23.17
-R = 4
-Disputa: 18.54
-Check-ins = 102
--------------------
-Honjo - Pet Store
-P = 5
-Trocas: 23.08
-R = 4
-Disputa: 18.46
-Check-ins = 100
--------------------
-Bing Churrascaria Grill - Restaurant
-P = 5
-Trocas: 22.98
-R = 4
-Disputa: 18.38
-Check-ins = 98
--------------------
-Posto Colossal - Gas Station
-P = 4
-Trocas: 22.52
-R = 3
-Disputa: 16.89
-Check-ins = 278
--------------------
-Caixa Cultural - Cultural Center
-P = 4
-Trocas: 22.41
-R = 3
-Disputa: 16.81
-Check-ins = 270
--------------------
-Shopping Estação - Shopping Mall
-P = 4
-Trocas: 22.15
-R = 3
-Disputa: 16.61
-Check-ins = 253
--------------------
-Casa Do Produtor - Pet Store
-P = 4
-Trocas: 21.77
-R = 2
-Disputa: 10.88
-Check-ins = 230
--------------------
-Caramelodrama Confeitaria - Dessert Shop
-P = 5
-Trocas: 21.59
-R = 2
-Disputa: 8.63
-Check-ins = 74
--------------------
-Arrumadinho Café Bar - Gastropub
-P = 5
-Trocas: 21.45
-R = 3
-Disputa: 12.87
-Check-ins = 72
--------------------
-Super Wok - Asian Restaurant
-P = 4
-Trocas: 21.39
-R = 1
-Disputa: 5.35
-Check-ins = 209
--------------------
-Feira Gastronômica Do Batel - Farmers Market
-P = 4
-Trocas: 21.01
-R = 3
-Disputa: 15.76
-Check-ins = 190
--------------------
-Pop House Alimentos - Health Food Store
-P = 4
-Trocas: 20.59
-R = 2
-Disputa: 10.29
-Check-ins = 171
--------------------
-Hsbc - Bank
-P = 4
-Trocas: 20.33
-R = 2
-Disputa: 10.16
-Check-ins = 160
--------------------
-Condor - Supermarket
-P = 4
-Trocas: 19.96
-R = 2
-Disputa: 9.98
-Check-ins = 146
--------------------
-Babilônia Gastronomia Cia - Gastropub
-P = 4
-Trocas: 19.68
-R = 1
-Disputa: 4.92
-Check-ins = 136
--------------------
-Banoffi - Dessert Shop
-P = 4
-Trocas: 19.44
-R = 3
-Disputa: 14.58
-Check-ins = 128
--------------------
-Galeria Suissa - Shopping Mall
-P = 4
-Trocas: 19.28
-R = 2
-Disputa: 9.64
-Check-ins = 123
--------------------
-Itaú - Bank
-P = 4
-Trocas: 18.98
-R = 2
-Disputa: 9.49
-Check-ins = 114
--------------------
-Hospital ônix - Hospital
-P = 4
-Trocas: 18.77
-R = 1
-Disputa: 4.69
-Check-ins = 108
--------------------
-Batel Grill - Restaurant
-P = 4
-Trocas: 18.73
-R = 2
-Disputa: 9.36
-Check-ins = 107
--------------------
-Instituto De Identificação Do Paraná - Police Station
-P = 4
-Trocas: 18.62
-R = 2
-Disputa: 9.31
-Check-ins = 104
--------------------
-Mercabom - Convenience Store
-P = 4
-Trocas: 18.46
-R = 3
-Disputa: 13.85
-Check-ins = 100
--------------------
-Cpo Centro Paranaense De Oftalmologia - Doctors Office
-P = 4
-Trocas: 18.17
-R = 3
-Disputa: 13.63
-Check-ins = 93
--------------------
-Instituto De Direito Romeu Felipe Bacellar - Law School
-P = 3
-Trocas: 18.06
-R = 2
-Disputa: 12.04
-Check-ins = 410
--------------------
-Rdi Radioclinica - Hospital
-P = 4
-Trocas: 17.95
-R = 2
-Disputa: 8.98
-Check-ins = 88
--------------------
-Passeadores De Cães Pet Shop - Pet Store
-P = 3
-Trocas: 17.27
-R = 2
-Disputa: 11.51
-Check-ins = 315
--------------------
-Hospital De Olhos Do Paraná - Eye Doctor
-P = 4
-Trocas: 17.16
-R = 1
-Disputa: 4.29
-Check-ins = 72
--------------------
-Auto Posto Maestro Rede Pelanda - Gas Station
-P = 3
-Trocas: 16.25
-R = 2
-Disputa: 10.83
-Check-ins = 224
--------------------
-Coeur Douce - Dessert Shop
-P = 3
-Trocas: 16.18
-R = 2
-Disputa: 10.79
-Check-ins = 219
--------------------
-Danghai Club - Nightclub
-P = 3
-Trocas: 16.08
-R = 1
-Disputa: 5.36
-Check-ins = 212
--------------------
-Kamisas Bar - Sports Bar
-P = 4
-Trocas: 15.65
-R = 3
-Disputa: 11.74
-Check-ins = 49
--------------------
-Quintino Futsal - Soccer Field
-P = 3
-Trocas: 15.28
-R = 2
-Disputa: 10.19
-Check-ins = 162
--------------------
-Oftalmoclínica Curitiba - Eye Doctor
-P = 4
-Trocas: 15.14
-R = 3
-Disputa: 11.35
-Check-ins = 43
--------------------
-Cantinho Da Bica - Restaurant
-P = 3
-Trocas: 14.6
-R = 2
-Disputa: 9.74
-Check-ins = 129
--------------------
-Upa Albert Sabin Unidade De Pronto Atendimento Fazendinha - Emergency Room
-P = 3
-Trocas: 14.44
-R = 2
-Disputa: 9.62
-Check-ins = 122
--------------------
-Angeloni - Supermarket
-P = 3
-Trocas: 14.44
-R = 1
-Disputa: 4.81
-Check-ins = 122
--------------------
-PáTio Batel - Shopping Mall
-P = 3
-Trocas: 14.34
-R = 1
-Disputa: 4.78
-Check-ins = 118
--------------------
-Cartolas Sports Bar - Sports Bar
-P = 4
-Trocas: 14.33
-R = 1
-Disputa: 3.58
-Check-ins = 35
--------------------
-Parque Sao Lourenço - Park
-P = 2
-Trocas: 14.11
-R = 1
-Disputa: 7.06
-Check-ins = 1158
--------------------
-Cantinho Dos Sucos E Lanches - Sandwich Place
-P = 3
-Trocas: 14.05
-R = 2
-Disputa: 9.36
-Check-ins = 107
--------------------
-Parque Municipal Do Passaúna - Park
-P = 3
-Trocas: 13.87
-R = 2
-Disputa: 9.25
-Check-ins = 101
--------------------
-Realce Ortodontia E Clinica Geral - Dentists Office
-P = 3
-Trocas: 13.82
-R = 2
-Disputa: 9.21
-Check-ins = 99
--------------------
-Royal Street Center - Shopping Plaza
-P = 3
-Trocas: 13.6
-R = 2
-Disputa: 9.07
-Check-ins = 92
--------------------
-Curitiba Hostel - Hostel
-P = 3
-Trocas: 13.6
-R = 2
-Disputa: 9.07
-Check-ins = 92
--------------------
-Business Club - Restaurant
-P = 3
-Trocas: 13.57
-R = 2
-Disputa: 9.04
-Check-ins = 91
--------------------
-Sesc Paço Da Liberdade - Cultural Center
-P = 3
-Trocas: 13.36
-R = 2
-Disputa: 8.91
-Check-ins = 85
--------------------
-Originale Cucina E Pizzeria - Pizza Place
-P = 3
-Trocas: 13.36
-R = 1
-Disputa: 4.45
-Check-ins = 85
--------------------
-Droga Raia - Pharmacy
-P = 3
-Trocas: 13.36
-R = 1
-Disputa: 4.45
-Check-ins = 85
--------------------
-Colégio Estadual Bom Pastor Cbp - University
-P = 3
-Trocas: 13.22
-R = 2
-Disputa: 8.81
-Check-ins = 81
--------------------
-Dan Inn Hotel - Hotel
-P = 3
-Trocas: 13.15
-R = 1
-Disputa: 4.38
-Check-ins = 79
--------------------
-Super Muffato - Supermarket
-P = 3
-Trocas: 12.87
-R = 1
-Disputa: 4.29
-Check-ins = 72
--------------------
-Mercure Curitiba Batel - Hotel
-P = 3
-Trocas: 12.66
-R = 2
-Disputa: 8.44
-Check-ins = 67
--------------------
-Mercearia Anos 30 - Pizza Place
-P = 3
-Trocas: 12.52
-R = 1
-Disputa: 4.17
-Check-ins = 64
--------------------
-Parque Dos Tropeiros - Park
-P = 2
-Trocas: 11.63
-R = 1
-Disputa: 5.82
-Check-ins = 335
--------------------
-Confeitaria Moinho Holandês - Dessert Shop
-P = 3
-Trocas: 11.28
-R = 2
-Disputa: 7.52
-Check-ins = 42
--------------------
-Tesoros De Cuba - Smoke Shop
-P = 2
-Trocas: 11.23
-R = 0
-Disputa: 0.0
-Check-ins = 273
--------------------
-Bosque Alemão - Park
-P = 2
-Trocas: 11.08
-R = 1
-Disputa: 5.54
-Check-ins = 254
--------------------
-Radisson Hotel Curitiba - Hotel
-P = 2
-Trocas: 11.07
-R = 1
-Disputa: 5.54
-Check-ins = 253
--------------------
-Vox Bar - Nightclub
-P = 2
-Trocas: 10.57
-R = 1
-Disputa: 5.28
-Check-ins = 196
--------------------
-Bar Canabenta - Bar
-P = 3
-Trocas: 10.4
-R = 1
-Disputa: 3.47
-Check-ins = 31
--------------------
-Museu De Arte Contemporânea Do Paraná Mac - Art Museum
-P = 3
-Trocas: 10.3
-R = 2
-Disputa: 6.87
-Check-ins = 30
--------------------
-Centro Do Ser Espaço Terapêutico - Spa
-P = 3
-Trocas: 10.2
-R = 2
-Disputa: 6.8
-Check-ins = 29
--------------------
-Pronto Atendimento Hospital Sugisawa - Emergency Room
-P = 2
-Trocas: 10.14
-R = 1
-Disputa: 5.07
-Check-ins = 158
--------------------
-Hospital Nossa Senhora Da Luz - Hospital
-P = 2
-Trocas: 9.99
-R = 1
-Disputa: 5.0
-Check-ins = 147
--------------------
-Ca - Clothing Store
-P = 2
-Trocas: 9.75
-R = 1
-Disputa: 4.88
-Check-ins = 130
--------------------
-Curitiba Backpackers Hostel - Hostel
-P = 2
-Trocas: 9.72
-R = 1
-Disputa: 4.86
-Check-ins = 128
--------------------
-Palacete Dos Leões - Art Museum
-P = 3
-Trocas: 9.66
-R = 1
-Disputa: 3.22
-Check-ins = 24
--------------------
-Bemestar Estética - Spa
-P = 2
-Trocas: 9.64
-R = 1
-Disputa: 4.82
-Check-ins = 123
--------------------
-Iorc Centro - Dentists Office
-P = 2
-Trocas: 9.62
-R = 1
-Disputa: 4.81
-Check-ins = 122
--------------------
-Hertz - Automotive Shop
-P = 2
-Trocas: 9.49
-R = 1
-Disputa: 4.74
-Check-ins = 114
--------------------
-Goodies Bakery - Dessert Shop
-P = 2
-Trocas: 9.44
-R = 1
-Disputa: 4.72
-Check-ins = 111
--------------------
-Livrarias Curitiba - Bookstore
-P = 2
-Trocas: 9.17
-R = 1
-Disputa: 4.58
-Check-ins = 97
--------------------
-Vivo - Mobile Phone Shop
-P = 2
-Trocas: 9.04
-R = 1
-Disputa: 4.52
-Check-ins = 91
--------------------
-O Espanhol - Bar
-P = 2
-Trocas: 8.95
-R = 0
-Disputa: 0.0
-Check-ins = 87
--------------------
-De Luca Pizzaria - Pizza Place
-P = 2
-Trocas: 8.84
-R = 1
-Disputa: 4.42
-Check-ins = 82
--------------------
-Ppbar - Bar
-P = 2
-Trocas: 8.76
-R = 1
-Disputa: 4.38
-Check-ins = 79
--------------------
-Ks Espetinhos - Food Truck
-P = 2
-Trocas: 8.55
-R = 0
-Disputa: 0.0
-Check-ins = 71
--------------------
-Ancoradouro - Restaurant
-P = 2
-Trocas: 8.5
-R = 1
-Disputa: 4.25
-Check-ins = 69
--------------------
-Costelão Curitibano 24H - Restaurant
-P = 2
-Trocas: 8.12
-R = 1
-Disputa: 4.06
-Check-ins = 57
--------------------
-3 Distrito Policia Civil - Police Station
-P = 2
-Trocas: 8.12
-R = 1
-Disputa: 4.06
-Check-ins = 57
--------------------
-Delemigpf Delegacia De Estrangeiros E Imigração - Police Station
-P = 2
-Trocas: 8.05
-R = 1
-Disputa: 4.03
-Check-ins = 55
--------------------
-Auto Posto Jardim Ambiental - Gas Station
-P = 2
-Trocas: 7.98
-R = 1
-Disputa: 3.99
-Check-ins = 53
--------------------
-Empório Kaveh Kanes - Market
-P = 2
-Trocas: 7.57
-R = 1
-Disputa: 3.78
-Check-ins = 43
--------------------
-Cabral Motor Serviços - Automotive Shop
-P = 2
-Trocas: 7.38
-R = 1
-Disputa: 3.69
-Check-ins = 39
--------------------
-Kikos Bar - Sports Bar
-P = 2
-Trocas: 7.28
-R = 1
-Disputa: 3.64
-Check-ins = 37
--------------------
-Madero Sports Bar - Sports Bar
-P = 2
-Trocas: 7.22
-R = 0
-Disputa: 0.0
-Check-ins = 36
--------------------
-Bourbon Curitiba Convention Hotel - Hotel
-P = 1
-Trocas: 6.75
-R = 0
-Disputa: 0.0
-Check-ins = 852
--------------------
-Hospital Da Cruz Vermelha - Hospital
-P = 1
-Trocas: 6.55
-R = 0
-Disputa: 0.0
-Check-ins = 695
--------------------
-King Temaki - Restaurant
-P = 2
-Trocas: 6.52
-R = 0
-Disputa: 0.0
-Check-ins = 25
--------------------
-Festval - Supermarket
-P = 1
-Trocas: 6.32
-R = 0
-Disputa: 0.0
-Check-ins = 557
--------------------
-Hospital Sao Lucas - Hospital
-P = 1
-Trocas: 5.95
-R = 0
-Disputa: 0.0
-Check-ins = 384
--------------------
-Colégio Passionista N Sa Menina - High School
-P = 1
-Trocas: 5.94
-R = 0
-Disputa: 0.0
-Check-ins = 379
--------------------
-Parque Tanguá - Park
-P = 1
-Trocas: 5.74
-R = 0
-Disputa: 0.0
-Check-ins = 310
--------------------
-Shopping Crystal - Shopping Mall
-P = 1
-Trocas: 5.66
-R = 0
-Disputa: 0.0
-Check-ins = 287
--------------------
-Shopping Omar - Shopping Mall
-P = 1
-Trocas: 5.65
-R = 0
-Disputa: 0.0
-Check-ins = 284
--------------------
-Exclusivamed - Doctors Office
-P = 1
-Trocas: 5.25
-R = 0
-Disputa: 0.0
-Check-ins = 190
--------------------
-Pasteur Grill - Restaurant
-P = 1
-Trocas: 5.08
-R = 0
-Disputa: 0.0
-Check-ins = 159
--------------------
-Harbor Self Saint Emilion - Hotel
-P = 1
-Trocas: 5.07
-R = 0
-Disputa: 0.0
-Check-ins = 158
--------------------
-Ponto Frio 139 - Department Store
-P = 1
-Trocas: 4.94
-R = 0
-Disputa: 0.0
-Check-ins = 139
--------------------
-Museu Paranaense - History Museum
-P = 1
-Trocas: 4.91
-R = 0
-Disputa: 0.0
-Check-ins = 134
--------------------
-Pão De Açúcar - Supermarket
-P = 1
-Trocas: 4.88
-R = 0
-Disputa: 0.0
-Check-ins = 130
--------------------
-Casa Roxa - Nightclub
-P = 1
-Trocas: 4.85
-R = 0
-Disputa: 0.0
-Check-ins = 127
--------------------
-Auto Posto Analipe Ipiranga - Gas Station
-P = 1
-Trocas: 4.85
-R = 0
-Disputa: 0.0
-Check-ins = 127
--------------------
-Capital Shopping Centro - Shopping Mall
-P = 1
-Trocas: 4.78
-R = 0
-Disputa: 0.0
-Check-ins = 118
--------------------
-Curitiba Casa Hostel - Hostel
-P = 1
-Trocas: 4.62
-R = 0
-Disputa: 0.0
-Check-ins = 100
--------------------
-Paraná Clínicas Unidade Cic - Emergency Room
-P = 1
-Trocas: 4.6
-R = 0
-Disputa: 0.0
-Check-ins = 98
--------------------
-Pronner Confeitaria - Dessert Shop
-P = 1
-Trocas: 4.57
-R = 0
-Disputa: 0.0
-Check-ins = 96
--------------------
-Celeiro Micah - Grocery Store
-P = 1
-Trocas: 4.54
-R = 0
-Disputa: 0.0
-Check-ins = 93
--------------------
-Panificadora Gislaine - Coffee Shop
-P = 1
-Trocas: 4.5
-R = 0
-Disputa: 0.0
-Check-ins = 89
--------------------
-Upa 24H Unidade De Pronto Atendimento Boa Vista - Emergency Room
-P = 1
-Trocas: 4.47
-R = 0
-Disputa: 0.0
-Check-ins = 86
--------------------
-Auto Posto Triângulo - Gas Station
-P = 1
-Trocas: 4.43
-R = 0
-Disputa: 0.0
-Check-ins = 83
--------------------
-CemitéRio Municipal áGua Verde - Cemetery
-P = 1
-Trocas: 4.41
-R = 0
-Disputa: 0.0
-Check-ins = 81
--------------------
-Sushiaki - Sushi Restaurant
-P = 2
-Trocas: 4.39
-R = 1
-Disputa: 2.2
-Check-ins = 8
--------------------
-Chilflor Floricultura - Flower Shop
-P = 1
-Trocas: 4.39
-R = 0
-Disputa: 0.0
-Check-ins = 80
--------------------
-Sabore Pizzaria - Pizza Place
-P = 1
-Trocas: 4.29
-R = 0
-Disputa: 0.0
-Check-ins = 72
--------------------
-Shopping Cidade - Shopping Mall
-P = 1
-Trocas: 4.26
-R = 0
-Disputa: 0.0
-Check-ins = 70
--------------------
-Alô Esquenta - Convenience Store
-P = 1
-Trocas: 4.25
-R = 0
-Disputa: 0.0
-Check-ins = 69
--------------------
-CemitéRio Municipal Sao Francisco De Paula - Cemetery
-P = 1
-Trocas: 4.23
-R = 0
-Disputa: 0.0
-Check-ins = 68
--------------------
-Nurce Núcleo De Repreensão A Crimes Econômicos - Police Station
-P = 1
-Trocas: 4.22
-R = 0
-Disputa: 0.0
-Check-ins = 67
--------------------
-Mercado Municipal De Curitiba - Market
-P = 1
-Trocas: 4.22
-R = 0
-Disputa: 0.0
-Check-ins = 67
--------------------
-Master Pizza - Pizza Place
-P = 1
-Trocas: 4.22
-R = 0
-Disputa: 0.0
-Check-ins = 67
--------------------
-Memphis House Restaurante E Pizzaria - Restaurant
-P = 1
-Trocas: 4.19
-R = 0
-Disputa: 0.0
-Check-ins = 65
--------------------
-Supermercados Tissi - Supermarket
-P = 1
-Trocas: 4.17
-R = 0
-Disputa: 0.0
-Check-ins = 64
--------------------
-Café Com Bolachas - Coffee Shop
-P = 1
-Trocas: 4.09
-R = 0
-Disputa: 0.0
-Check-ins = 59
--------------------
-Sociedade Esportiva Renovicente - Soccer Field
-P = 1
-Trocas: 4.06
-R = 0
-Disputa: 0.0
-Check-ins = 57
--------------------
-Sams Club - Warehouse Store
-P = 1
-Trocas: 4.06
-R = 0
-Disputa: 0.0
-Check-ins = 57
--------------------
-Kan - Restaurant
-P = 1
-Trocas: 4.06
-R = 0
-Disputa: 0.0
-Check-ins = 57
--------------------
-Motter Home Curitiba Hostel - Hostel
-P = 1
-Trocas: 3.93
-R = 0
-Disputa: 0.0
-Check-ins = 50
--------------------
-Babilônia Gastronomia - Mediterranean Restaurant
-P = 1
-Trocas: 3.93
-R = 0
-Disputa: 0.0
-Check-ins = 50
--------------------
-Cindacta Ii - Military Base
-P = 1
-Trocas: 3.87
-R = 0
-Disputa: 0.0
-Check-ins = 47
--------------------
-Ibiza Laboratório FotográFico Digital - Electronics Store
-P = 1
-Trocas: 3.85
-R = 0
-Disputa: 0.0
-Check-ins = 46
--------------------
-Pro Campo Campo Jardim - Flower Shop
-P = 1
-Trocas: 3.81
-R = 0
-Disputa: 0.0
-Check-ins = 44
--------------------
-Centro Esportivo Ipiranga - Soccer Stadium
-P = 1
-Trocas: 3.81
-R = 0
-Disputa: 0.0
-Check-ins = 44
--------------------
-Ribamar Sports - Soccer Field
-P = 1
-Trocas: 3.78
-R = 0
-Disputa: 0.0
-Check-ins = 43
--------------------
-Granotto Sorvetes - Ice Cream Shop
-P = 1
-Trocas: 3.71
-R = 0
-Disputa: 0.0
-Check-ins = 40
--------------------
-Motel Celebrity - Motel
-P = 1
-Trocas: 3.18
-R = 0
-Disputa: 0.0
-Check-ins = 23
--------------------
-Quiosque Do Açaí - Acai House
-P = 1
-Trocas: 3.04
-R = 0
-Disputa: 0.0
-Check-ins = 20
--------------------
-Galeria Minerva - Shopping Mall
-P = 1
-Trocas: 2.4
-R = 0
-Disputa: 0.0
-Check-ins = 10
--------------------
-Clínica Adalgisa - Spa
-P = 1
-Trocas: 2.2
-R = 0
-Disputa: 0.0
-Check-ins = 8
--------------------
-Faculdade De Odontologia Universidade Positivo Foup - Dentists Office
-P = 1
-Trocas: 2.08
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Parque Do Golinha - Arcade
-P = 1
-Trocas: 1.61
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Challela Supermercado - Supermarket
-P = 1
-Trocas: 1.1
-R = 0
-Disputa: 0.0
-Check-ins = 2
--------------------
-Yogoberry Original - Frozen Yogurt Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 355
--------------------
-Yankee Bar - Nightclub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 204
--------------------
-Woods - Nightclub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 21
--------------------
-Wnk Bar - Nightclub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 134
--------------------
-Wizard Batel - Language School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Vivo Bacacheri Global Center - Mobile Phone Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 136
--------------------
-Villa Serenna Spa Estética - Spa
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 24
--------------------
-Villa Pilates - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 122
--------------------
-Viaduto Tudo Paraaado - Viaduto Tudo Paraaado
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Vernon Palace Hotel Curitiba - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 111
--------------------
-Ups Vila Sandra - Military Base
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 71
--------------------
-Upa 24H Unidade De Pronto Atendimento Pinheirinho - Emergency Room
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 857
--------------------
-Uniland Escola De Idiomas - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 396
--------------------
-Unicuritiba P%C3%B3Sgraduação Direito - Law School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Uberlandia Ec - Soccer Field
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Tv Evangelizar - TV Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 8
--------------------
-Tropeira Grill - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 216
--------------------
-Transportes Gritsch - Rental Car Location
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1782
--------------------
-Trainer Assessoria Esportiva - Park
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Toque De Bola - Soccer Stadium
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 126
--------------------
-Tio Rober - Candy Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 193
--------------------
-Thaligio - Casino
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Terceiro Andar Colégio Bom Jesus - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 142
--------------------
-Taboo Eventos - Nightclub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Sushi Arte - Sushi Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 32
--------------------
-Supermercado Zamprogna - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 530
--------------------
-Supermercado Iannes - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 287
--------------------
-Supermercado Fedalto - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 307
--------------------
-Supermercado Curitiba - Convenience Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Supercenter Angeloni - Supermarket
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 179
--------------------
-Super Kusma - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Supemercados Goes Novo Mundo - Supermarket
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 34
--------------------
-Studio Wasty - Spa
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 46
--------------------
-Strike 7 - Bowling Alley
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Soviet - Nightclub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 508
--------------------
-Sorveteria Quebragelo - Ice Cream Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 70
--------------------
-Softwaresul Tecnologia - IT Services
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-SimitéRio Moto Peças - Bike Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Shopping áGua Verde - Shopping Mall
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 450
--------------------
-Shell Select - Convenience Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 380
--------------------
-Shadow Bar - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Sefid Pmpr - Military Base
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 426
--------------------
-Sede Torcida Organizada Os Fanaticos - Professional & Other Places
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 39
--------------------
-Sede Cornetas Do Fosso - Sports Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 21
--------------------
-Sede Comando Loteca No Hugo Lange - Sports Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Sbb Sociedade Bíblica Do Brasil - Bookstore
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Satoshi Arena - Soccer Field
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 240
--------------------
-Sapeca Kids - Kids Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 213
--------------------
-Sao Francisco Do Sul Sc - Beach
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Sansai Sushi Bar - Sushi Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 28
--------------------
-Sanident - Dentists Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 72
--------------------
-Sala 9B - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 426
--------------------
-Sala 209 Colégio Sesi - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1562
--------------------
-Sal Grosso Churrasco Bar - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 14
--------------------
-Saint Patrick Pub - Pub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 183
--------------------
-Rockville Bar - Pub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Rigoletto Ristorante - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 375
--------------------
-Rg Relogi%C3%B3S - Jewelry Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 355
--------------------
-Restaurante Via Faivre - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 195
--------------------
-Restaurante Nosso Sabor - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 111
--------------------
-Restaurante Joyfull - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 40
--------------------
-Restaurante Castelo Santangelo - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 72
--------------------
-Restaurante Benvenuto - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 129
--------------------
-Rei Do Tabaco - Smoke Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Rei Do Narguile - Smoke Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Rei Do Mate - Tea Room
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-Radio Taxi Faixa Vermelha - Taxi
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 12
--------------------
-Quiznos Sub - Sandwich Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 132
--------------------
-Quick Temaki - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 177
--------------------
-Quartel Do Comando Geral Pmpr - Military Base
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 293
--------------------
-Qg Secreto Da Macumba Iniciatica De Curitiba - Cemetery
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 216
--------------------
-Purple Hills - Nightclub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Pulse Bar E Danceteria - Nightclub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 136
--------------------
-Pucpr Lumi Lanches - Sandwich Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 198
--------------------
-Psicóloga Rafaela Senff Ribeiro - Doctors Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 288
--------------------
-Prodent - Dentists Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Procampo - Pet Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 45
--------------------
-Print Express - Electronics Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Presídio Do Ahú - Police Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 785
--------------------
-Premier Sport Bar - Sports Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Praça Osvaldo Cruz - Park
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Praça Guanabara - Park
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1357
--------------------
-Praça 7 - Playground
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 102
--------------------
-Pratanet - Jewelry Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Prata Fina - Jewelry Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Pracinha De Santa - Playground
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 67
--------------------
-Posto Petronas Br - Convenience Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 71
--------------------
-Posto Ipiranga Sino - Gas Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 628
--------------------
-Posto 2001 - Gas Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 45
--------------------
-Positivo InformáTica - Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 576
--------------------
-Portal Da Marechal - Convenience Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 432
--------------------
-Ponto Frio - Department Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Ponto Do Pernil - Sandwich Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 528
--------------------
-Pontifícia Universidade Católica Do Paraná Pucpr - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Pontificão - Pontifice3o
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Política Estado E Constituição - Law School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 142
--------------------
-Polloshop - Shopping Mall
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 994
--------------------
-Poetria Livros E Arte - Bookstore
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Plug Oi Polloshop - Mobile Phone Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 183
--------------------
-Plug Oi Palladium - Mobile Phone Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 136
--------------------
-Plantação De Batatas - Farm
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Pizzaria O Fornari - Pizza Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 73
--------------------
-Pizzaria Formaggio - Pizza Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Pizzaria E Choperia Treviso - Pizza Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Pitty Dog - Food Truck
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 22
--------------------
-Piscina Utfpr - Pool
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Piscina Do Clube Morgenau - Pool
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 134
--------------------
-Phd Sports - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 538
--------------------
-Pet Shop Scooby - Pet Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 66
--------------------
-Pet Shop Do Guga - Pet Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Pet Shop Carinhosmimos - Pet Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Pet Shop Caiuá - Pet Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 134
--------------------
-Pet Boutique Batel - Pet Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Penna Sport - Soccer Field
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 57
--------------------
-Paulinho Sushi Bar - Sushi Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Passarela Ecológica - Park
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 792
--------------------
-Paróquia Santa QuitéRia - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 74
--------------------
-Parquinho Do Spazio Carmen - Playground
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 134
--------------------
-Parquinho Do Ed Lugano Blc A - Playground
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 67
--------------------
-Parque Cambuí - Park
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 467
--------------------
-Panvel Farmácias - Pharmacy
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 102
--------------------
-Panvel - Pharmacy
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Paleteria Mexicana - Ice Cream Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 72
--------------------
-Oxplen - Dentists Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 216
--------------------
-Oticas Visopol - Optical Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 71
--------------------
-Ortomaster - Dentists Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 144
--------------------
-Oi - Mobile Phone Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Núcleo De PráTica Jurídica Npj Unicuritiba - Law School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 71
--------------------
-Nuciber Núcleo De Combate Aos Cibercrimes Da Polícia Civil - Police Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Nosso Supermercado - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 92
--------------------
-Nobre Café - Coffee Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 288
--------------------
-No Chão - Funeral Home
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Nice Hand Nh Poker Club - Casino
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 144
--------------------
-New Soccer - Soccer Field
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 141
--------------------
-New Orleans - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 132
--------------------
-Museu Do Holocausto De Curitiba - History Museum
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 876
--------------------
-Museu Do Autom%C3%B3Vel - Museum
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Museu Da Fotografia Cidade De Curitiba - Museum
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Mundo MáGico Das Bolinhas - Playground
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 134
--------------------
-Mundo Do Jão - Nightclub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 272
--------------------
-Moça Biju Novo Mundo - Jewelry Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Moto Escola Bello - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 132
--------------------
-Monsters Gym Concept - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Mma Lava Car E Estacionamento - Car Wash
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 72
--------------------
-Mirante Do Passaúna - Park
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Microparts Informatica - Electronics Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Mexicato Paletas Mexicanas - Ice Cream Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 284
--------------------
-Metrô Club Show - Strip Club
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Mercure Curitiba Centro - Hotel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Mercearia Bresser - Pizza Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 98
--------------------
-Mercadorama - Supermarket
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 359
--------------------
-Mercado Vince - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 257
--------------------
-Mercado Vaccari - Food & Drink Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Mercado Popular - Food & Drink Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Mercado Ouro Verde - Food & Drink Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Medilar Hauer - Emergency Room
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 144
--------------------
-Maxisorriso - Dentists Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Max Sushi - Sushi Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Max Supermercado - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 142
--------------------
-Maia Box - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 64
--------------------
-Magnólia Atelier De Flores - Flower Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 72
--------------------
-Magazine Luiza - Department Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 56
--------------------
-Mad - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 72
--------------------
-Lojas Coppel - Department Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 71
--------------------
-Loja Dos Games - Video Game Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Localiza Rent A Car Agencia Parolim - Rental Car Location
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 50
--------------------
-Localiza Rent A Car - Rental Car Location
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Livraria Arte Letra - Bookstore
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 73
--------------------
-Lins Multimarcas - Automotive Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Linha Vila Sao Paulo - Bus Stop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Lilivet - Pet Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 134
--------------------
-Lfg Curitiba Unidade De Cursos Preparatórios - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 990
--------------------
-Le Voleur De VéLo - Bike Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 76
--------------------
-Lava Car Monte Sinai - Car Wash
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Laricão - Hot Dog Joint
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-La Paula Lanches - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 232
--------------------
-La Casa Del Tabaco - Smoke Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Kf Grill - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 167
--------------------
-Kaes Bar - Bar
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 734
--------------------
-Junta De Serviço Militar 001 - Military Base
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Joy Academia - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 213
--------------------
-John John Denim - Clothing Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 504
--------------------
-Jardins Grill - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 256
--------------------
-Jardinete Jorge Haikel Fahd - Playground
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 67
--------------------
-Jardim Botânico - Park
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1260
--------------------
-James - Nightclub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 340
--------------------
-J Bueno Mecanica - Automotive Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Ix Chel Flores - Flower Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 72
--------------------
-Itiban Comic Shop - Comic Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 77
--------------------
-Ishima Massoterapia - Spa
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 24
--------------------
-Inter Americano - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Instituto De Criminalistica - Police Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 603
--------------------
-In Corpore - Spa
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 104
--------------------
-Imperial Futebol Clube - Football Stadium
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 144
--------------------
-Imagem Corporal - Spa
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 18
--------------------
-Ihouse - Electronics Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Igreja Universal Do Reino De Deus - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 145
--------------------
-Igreja Adventista Do Sétimo Dia De Santa Efigênia - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 288
--------------------
-Ictr Instituto Do Câncer E Transplante - Doctors Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Icenter - Electronics Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 56
--------------------
-Hospital Menino Deus - Hospital
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Hipermercado Big - Big Box Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 246
--------------------
-Hiper Muffato - Supermarket
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 515
--------------------
-Himalaia Distribuidora - Candy Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 144
--------------------
-Heliponto Couto Pereira - General Travel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 152
--------------------
-Gés Jóias E Relógios - Jewelry Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Granja Giliczynski - Strip Club
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Goleadores Futebol Society - Soccer Field
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 175
--------------------
-Girardis House - Strip Club
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Genius Pizzarias - Pizza Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Genaudas Sprachschule - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 132
--------------------
-Galeria General Osório - Shopping Mall
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 84
--------------------
-Galeria Central Park - Shopping Plaza
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-G Driver - IT Services
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Fut5 - Soccer Field
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-FuréLlius Cavernius Tho - Flower Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 504
--------------------
-Ftm Sports - Soccer Field
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Frutaria Da Visconde - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 49
--------------------
-Fortress Of Solitude - Library
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Forneria Copacabana - Pizza Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Fogo Forte - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 167
--------------------
-Fofuras Pet Shop - Pet Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 201
--------------------
-Fitco Academia - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 213
--------------------
-Fisk - Language School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 45
--------------------
-Filtrosul - Automotive Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Farol Do Saber Padre Antônio Vieira - Library
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-FarmáCia Remédio Popular - Pharmacy
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-FarmáCia Pague Menos - Pharmacy
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 261
--------------------
-Faculdade Herrero - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 232
--------------------
-Faculdade De Ciências Sociais E Aplicadas Do Paraná Facet - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 229
--------------------
-Faculdade De Ciências Jurídicas - Law School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 674
--------------------
-Faculdade De Artes Do Paraná Fap - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 7
--------------------
-Faculdade Camões - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 72
--------------------
-Evs Espaço Vida Saudável Herbalife - Health Food Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 21
--------------------
-Eurocar Service - Automotive Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Estádio Major Antônio Couto Pereira - Soccer Stadium
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1935
--------------------
-Estádio Bortola Gava OperáRio Pilarzinho Sport Club - Soccer Field
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 130
--------------------
-EstáCio Radial - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 270
--------------------
-Estopim Da Fiel - Soccer Field
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 366
--------------------
-Estação Tubo Tre - Bus Stop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 795
--------------------
-Estação Tubo Maria Clara - Bus Stop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 323
--------------------
-Estação Tubo Jardim Botânico - Bus Stop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Estação Tubo Holanda - Bus Stop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 784
--------------------
-Estação Tubo Fernando De Noronha - Bus Stop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Estação Tubo Central - Bus Stop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 709
--------------------
-Estação Tubo Antônio Lago - Bus Stop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1138
--------------------
-Essencial Narguile - Smoke Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Espaço Vida Bandida - Donut Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 72
--------------------
-Espaço Vicente - Nightclub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Espaço Novo Tempo Curitiba - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 72
--------------------
-Escola Estadual Angelo Trevisan - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 117
--------------------
-Escola De Aulas Particulares Prof André E Maria Luiza - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 330
--------------------
-Escola Da Magistratura Do Paraná - Law School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Escola Ceebja Paulo Freire - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 71
--------------------
-Esalpet - Pet Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 38
--------------------
-Empório Do Bacalhau - Food & Drink Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Ecoestádio Janguito Malucelli Janguitão - Soccer Stadium
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 102
--------------------
-Ecobike Courier - Bike Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 228
--------------------
-Duo Cuisine - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Duc Club - Nightclub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 136
--------------------
-Dona Maria Buffet - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Don Martini - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 365
--------------------
-Don Giovanne Ristorante E Pizzeria - Pizza Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Dom Signori Pizzaria - Pizza Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 9
--------------------
-Dom Capone - Pizza Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Dogão Do Clé - Food Truck
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 213
--------------------
-Dog Do Nilson - Food Truck
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 31
--------------------
-Dog Campeão - Food Truck
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Docelândia - Candy Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 360
--------------------
-Divino Mestre Grill Massas - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 216
--------------------
-Diletto - Ice Cream Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 71
--------------------
-Di Vero Pizza - Pizza Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Departamento Da Polícia Civil - Police Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Dengo Pet Shop - Pet Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Delícias Do Cerrado - Ice Cream Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 355
--------------------
-Delegacia De Furtos E Roubos De Veiculos - Police Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 223
--------------------
-Delegacia De Furtos E Roubos - Police Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Datacic - Library
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Cwb Poker Club - Casino
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 144
--------------------
-Curitiba Eco Hostel - Hostel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Cuore Di Cacao - Dessert Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 144
--------------------
-Cultura Inglesa Cabral - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 93
--------------------
-Ctba Poker Club - Casino
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Correios Centro De Cartas E Encomendas - Post Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 134
--------------------
-Correio - Post Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Corpo De Bombeiros - Fire Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Coritiba - Soccer Stadium
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1904
--------------------
-Copa Do Mundo - Soccer Field
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 72
--------------------
-Conveniencias Pappa Cibo Posto De Gasolina - Convenience Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Consultório Oftalmológico Dra Maria Cecília Barros Duarte - Eye Doctor
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Consultorio Dr Virginia Oftalmo - Eye Doctor
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Confraria Grill Sushi - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 70
--------------------
-Confeitaria Swisse - Dessert Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Confeitaria Lancaster - Dessert Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 79
--------------------
-Confeitaria Casa Do Coco Bomfati - Dessert Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 131
--------------------
-Colégio Saint Germain - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Colégio Martinus - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 256
--------------------
-Colégio Estadual Professor Cleto - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 72
--------------------
-Colégio Estadual Dr Xavier Da Silva - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 71
--------------------
-Colégio Estadual Amâncio Moro - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 353
--------------------
-Colegio Estadual Zacarias - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Colegio Decisivo Cristo Rei - University
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1140
--------------------
-Clínica Zavelinski - Doctors Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 70
--------------------
-Clínica De Fraturas Novo Mundo - Emergency Room
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 77
--------------------
-Clube Da Gente Cic - Pool
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Clube Curitibano Sede Mercês - Social Club
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 108
--------------------
-Clinifama Odontologia - Dentists Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Clinica Sarraff - Doctors Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 22
--------------------
-Clinica Odontológica Dr Airton Maso - Dentists Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 144
--------------------
-Class Night Clube - Strip Club
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Cla - Funeral Home
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 142
--------------------
-Cicles Vmax - Bike Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Cicles Radar - Bike Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Churrascaria Paiol - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 197
--------------------
-Chokolat Chocolateria - Chocolate Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 66
--------------------
-Centro Nacional Da Cirurgia PláStica - Doctors Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Centro Municipal De Urgências Médicas Cmum Cic - Emergency Room
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 864
--------------------
-Centro Municipal De Urgências Médicas Cmum Campo Comprido - Emergency Room
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 130
--------------------
-Central De Relacionamento Com O Sócio - Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 98
--------------------
-CemitéRio Parque Iguaú - Cemetery
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 44
--------------------
-CemitéRio Municipal Santa Cândida - Cemetery
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1
--------------------
-CemitéRio Luterano - Cemetery
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-CemitéRio Jardim Da Saudade - Cemetery
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 182
--------------------
-Cemiterio Israelita - Cemetery
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Cassino Do Renatão - Casino
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 72
--------------------
-Casas Bahia - Department Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 182
--------------------
-Casa Fiesta Supermercados - Supermarket
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 94
--------------------
-Casa Do Nego - Military Base
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Casa Do Mamãe - Casino
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 216
--------------------
-Casa Do Fumo - Smoke Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Casa Do Crack - Strip Club
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Casa De Saúde Oibrasil Telecom - Doctors Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 8
--------------------
-Casa Da Leitura Maria Nicolas - Library
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Casa Da Leitura Dario Vellozo - Library
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Casa Da Leitura Augusto Stresser - Library
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1141
--------------------
-Carshow - Car Wash
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 216
--------------------
-Caribbean Disco Club - Nightclub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 476
--------------------
-CardáPio Nobre Buffet Grill - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Cappuccino - Fruit & Vegetable Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 71
--------------------
-Capoani - Clothing Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 72
--------------------
-Campo Do Uberlandia - Soccer Field
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 10
--------------------
-Campo Do Novo Mundo Fc - Soccer Field
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Cama Do Drew  - Strip Club
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Calabouço Do Sad - Playground
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1452
--------------------
-Caiobá - Beach
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 44
--------------------
-Caffé Truffas - Coffee Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Cafe Impresso - Coffee Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 31
--------------------
-Cachorro Quente Do Oliveira - Food Truck
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 142
--------------------
-Cacau Show - Chocolate Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 216
--------------------
-Cacau Fusion Cuisine - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 221
--------------------
-Cabaré Vichineski - Strip Club
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-By Ravelle - Spa
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Bunker Nitzschewatson - Military Base
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 136
--------------------
-Brookfield Energia Renovável - Office
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-British And American - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 178
--------------------
-Bristol Hotel Resorts - Resort
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Brasil Soccer - Soccer Field
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Bradesco Ag Merces - Bank
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 292
--------------------
-Bosque Túlio Vargas - Park
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Bosque Sao Nicolau - Park
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 406
--------------------
-Bosque Fazendinha - Park
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 67
--------------------
-Blondor Mansion - Strip Club
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 80
--------------------
-Biscoitos Família - Candy Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 73
--------------------
-Biroska - Automotive Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Bigzinho Supermercado - Grocery Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 485
--------------------
-Big Ben - Jewelry Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Big - Supermarket
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 189
--------------------
-Bichos E Caprichos - Pet Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Biblioteca Cpm - High School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Biblioteca Clube Curitibano - Library
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 133
--------------------
-Berço Do Ahnao - Nightclub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 2924
--------------------
-Bem Cuidado - Pet Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 67
--------------------
-Belleclin Estética E Depilação - Spa
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 58
--------------------
-Barbarium Beer Pub - Gastropub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 113
--------------------
-Bar Do Simão - Nightclub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 133
--------------------
-Banco Do Brasil - Bank
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 335
--------------------
-Bana Pneus - Automotive Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Bacio Gelato - Ice Cream Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 130
--------------------
-Baby Dreams - Kids Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 213
--------------------
-Azuki Sabores Do Japão - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 276
--------------------
-Avell Computadores - Electronics Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 4
--------------------
-Auto Posto Ultra Posto Apa - Gas Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 142
--------------------
-Auto Posto Jardim Ambiental Ipiranga - Gas Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 96
--------------------
-Auto Escola Veneto - Driving School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 144
--------------------
-Auto Escola Santa Cândida - Driving School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 71
--------------------
-Auto Escola Luciana - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Auto Escola Exclusiva - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 226
--------------------
-Auto Escola Ellen - Driving School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 144
--------------------
-Auto Escola Brito - Automotive Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 76
--------------------
-Auto Escola Brasília - Automotive Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 76
--------------------
-Aula Da Thais - Law School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 426
--------------------
-Associação Vila Militar - Police Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Armito - Restaurant
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 726
--------------------
-Arena Da Baixada - Soccer Stadium
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 1031
--------------------
-Arena Cof Sports - Soccer Field
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 73
--------------------
-Aqualandy - Food & Drink Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Antiga E Mística Ordem Rosacruz Amorc - History Museum
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 90
--------------------
-Ampm Posto Ipiranga - Convenience Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 164
--------------------
-Ampm - Convenience Store
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Amistoso Da Selecao - Soccer Stadium
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Amdtran - Driving School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 144
--------------------
-Ambiental Bar - Pub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Agapanthus Floricultura - Flower Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 104
--------------------
-Adrenalina Motos - Bike Shop
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 32
--------------------
-Acto Dança - School
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 9
--------------------
-Acrótona - Pizza Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 27
--------------------
-Acqua Vhiva - Pool
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 67
--------------------
-Acqua Spa Graciosa - Spa
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Acqua Motel - Motel
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Academia Sport Barigui - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Academia First Class - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 96
--------------------
-Academia Biocorpus - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Academia Area 1 - Gym
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-Abaré - Pizza Place
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 76
--------------------
-A Varanda Beer House - Pub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 67
--------------------
-9 Distrito Policial - Police Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-8 Distrito Policial - Police Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 67
--------------------
-5Bsup - Military Base
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-3a Igreja Do Evangelho Quadrangular - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 857
--------------------
-351 - Nightclub
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 82
--------------------
-27%C2%Ba Batalhão Logístico - Military Base
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 13
--------------------
-1a Igreja Do Evangelho Quadrangular - Church
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 207
--------------------
-1O Distrito Da Policia Civil - Police Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 0
--------------------
-11%C2%Ba Distrito Policial - Police Station
-P = 0
-Trocas: 0.0
-R = 0
-Disputa: 0.0
-Check-ins = 132
--------------------
+Local,Categoria,P,Trocas,R,Disputa,Check-ins
+Parque Barigui,Park,21,147.31,20,140.3,1112,
+Universidade Tecnológica Federal Do Paraná Utfpr,University,19,125.37,16,105.58,733,
+Shopping Mueller,Shopping Mall,19,100.19,9,47.46,194,
+20 Batalhão De Infantaria Blindado,Military Base,15,91.94,14,85.81,458,
+Mcdonalds,Restaurant,14,82.71,10,59.08,367,
+Museu Oscar Niemeyer Mon,Art Museum,15,82.27,8,43.88,240,
+Parque General Iberê De Mattos Parque Bacacheri,Park,11,76.49,8,55.63,1046,
+Shopping Palladium,Shopping Mall,14,72.62,6,31.12,178,
+Park Shopping Barigui,Shopping Mall,13,68.35,4,21.03,191,
+Walmart,Big Box Store,10,65.79,8,52.63,719,
+Passeio Público,Park,9,63.52,8,56.46,1161,
+Universidade Positivo Up,University,10,60.43,8,48.34,420,
+Estação Tubo Praça EufráSio Correia,Bus Stop,8,59.08,7,51.69,1610,
+Estádio Durival De Britto E Silva Vila Capanema,Soccer Stadium,11,58.17,7,37.02,197,
+Hati Pastel,Food Truck,11,57.24,10,52.04,181,
+Shopping Curitiba,Shopping Mall,11,57.18,5,25.99,180,
+Mercado Ponto Quente,Market,10,56.94,8,45.55,296,
+Santo Anjo Barigui,School,10,56.02,9,50.42,270,
+Hospital Marcelino Champagnat,Hospital,9,53.81,6,35.87,394,
+Parque Tingui,Park,10,53.42,7,37.4,208,
+Hospital Sugisawa,Hospital,10,53.33,7,37.33,206,
+Hospital Ipo,Hospital,10,51.87,6,31.12,178,
+Quintal Do Guima,Bar,10,50.94,7,35.66,162,
+Polícia Federal Dpfpr,Police Station,10,49.84,6,29.9,145,
+Subway,Sandwich Place,8,49.6,7,43.4,492,
+Shopping Novo Batel,Shopping Mall,9,48.54,6,32.36,219,
+Anita Shopping,Shopping Plaza,9,47.91,7,37.26,204,
+Posto Alto Da Xv Ipiranga,Gas Station,9,46.64,7,36.27,177,
+SláInte Irish Pub,Irish Pub,8,44.64,6,33.48,264,
+Pib Primeira Igreja Batista De Curitiba,Church,6,42.12,5,35.1,1118,
+Unicuritiba Centro UniversitáRio Curitiba,University,6,41.58,5,34.65,1022,
+Jokers,Pub,8,41.32,5,25.82,174,
+Tânia Pães E Delícias,Coffee Shop,7,40.72,6,34.9,335,
+Caixa Econômica Federal,Bank,7,39.64,6,33.98,287,
+Estação Tubo Coronel Dulcídio,Bus Stop,7,39.42,6,33.79,278,
+Mabu Curitiba Convention,Hotel,7,39.03,5,27.88,263,
+Baggio Pizzeria Focacceria,Pizza Place,7,38.16,5,27.26,232,
+Correios,Post Office,6,36.53,3,18.27,440,
+Galeria Tijucas,Shopping Mall,7,34.28,5,24.49,133,
+Callfarma,Pharmacy,7,33.51,4,19.15,119,
+Museu Do ExpedicionáRio,History Museum,6,32.81,5,27.34,236,
+Memorial De Curitiba,Cultural Center,5,31.69,4,25.35,565,
+Clube Curitibano Sede Lucius Smyte,Gym,5,30.83,4,24.66,475,
+Habibs,Restaurant,6,30.67,3,15.34,165,
+Slaviero Suites Curitiba Batel,Hotel,6,29.3,4,19.53,131,
+Pizza Hut,Pizza Place,6,28.47,3,14.23,114,
+Feira Noturna Do Champagnat,Night Market,6,28.36,3,14.18,112,
+Igreja Adventista Do Sétimo Dia Central De Curitiba,Church,5,28.16,4,22.52,278,
+Burger King,Restaurant,6,27.92,4,18.62,104,
+Farmácias E Drogarias Nissei,Pharmacy,5,27.53,2,11.01,245,
+Amil Unidade Avançada áGua Verde,Doctors Office,5,27.47,2,10.99,242,
+Pernambucanas,Department Store,6,27.32,3,13.66,94,
+Confeitaria Das Famílias,Dessert Shop,6,27.32,3,13.66,94,
+Extra Hiper,Big Box Store,6,27.26,3,13.63,93,
+Miyo Culinária Japonesa,Restaurant,6,27.13,3,13.57,91,
+Bosque Papa João Paulo Ii,Park,6,27.07,4,18.04,90,
+Portão Cultural,Cultural Center,5,26.76,2,10.7,210,
+Hopn Roll,Pub,5,26.69,3,16.01,207,
+Restaurante Malindi,Restaurant,5,26.07,2,10.43,183,
+Yage,Restaurant,5,25.82,3,15.49,174,
+Saúdespa,Doctors Office,5,25.77,4,20.61,172,
+Imax,Movie Theater,5,25.74,4,20.59,171,
+Hospital Santa Casa De Misericórdia,Hospital,5,25.18,3,15.11,153,
+Slm A Casa Do Confeiteiro,Candy Store,5,24.95,3,14.97,146,
+La Rampa,Restaurant,5,24.45,2,9.78,132,
+Peixaria Tatiana,Fish Market,4,24.36,3,18.27,440,
+Praça Ouvidor Pardinho,Park,4,23.61,2,11.81,365,
+Auto Posto Champagnat,Gas Station,5,23.5,3,14.1,109,
+Academia Via Fitness,Gym,4,23.39,3,17.54,345,
+Pestana Curitiba Hotel,Hotel,5,23.17,4,18.54,102,
+Honjo,Pet Store,5,23.08,4,18.46,100,
+Bing Churrascaria Grill,Restaurant,5,22.98,4,18.38,98,
+Posto Colossal,Gas Station,4,22.52,3,16.89,278,
+Caixa Cultural,Cultural Center,4,22.41,3,16.81,270,
+Shopping Estação,Shopping Mall,4,22.15,3,16.61,253,
+Casa Do Produtor,Pet Store,4,21.77,2,10.88,230,
+Caramelodrama Confeitaria,Dessert Shop,5,21.59,2,8.63,74,
+Arrumadinho Café Bar,Gastropub,5,21.45,3,12.87,72,
+Super Wok,Asian Restaurant,4,21.39,1,5.35,209,
+Feira Gastronômica Do Batel,Farmers Market,4,21.01,3,15.76,190,
+Pop House Alimentos,Health Food Store,4,20.59,2,10.29,171,
+Hsbc,Bank,4,20.33,2,10.16,160,
+Condor,Supermarket,4,19.96,2,9.98,146,
+Babilônia Gastronomia Cia,Gastropub,4,19.68,1,4.92,136,
+Banoffi,Dessert Shop,4,19.44,3,14.58,128,
+Galeria Suissa,Shopping Mall,4,19.28,2,9.64,123,
+Itaú,Bank,4,18.98,2,9.49,114,
+Hospital ônix,Hospital,4,18.77,1,4.69,108,
+Batel Grill,Restaurant,4,18.73,2,9.36,107,
+Instituto De Identificação Do Paraná,Police Station,4,18.62,2,9.31,104,
+Mercabom,Convenience Store,4,18.46,3,13.85,100,
+Cpo Centro Paranaense De Oftalmologia,Doctors Office,4,18.17,3,13.63,93,
+Instituto De Direito Romeu Felipe Bacellar,Law School,3,18.06,2,12.04,410,
+Rdi Radioclinica,Hospital,4,17.95,2,8.98,88,
+Passeadores De Cães Pet Shop,Pet Store,3,17.27,2,11.51,315,
+Hospital De Olhos Do Paraná,Eye Doctor,4,17.16,1,4.29,72,
+Auto Posto Maestro Rede Pelanda,Gas Station,3,16.25,2,10.83,224,
+Coeur Douce,Dessert Shop,3,16.18,2,10.79,219,
+Danghai Club,Nightclub,3,16.08,1,5.36,212,
+Kamisas Bar,Sports Bar,4,15.65,3,11.74,49,
+Quintino Futsal,Soccer Field,3,15.28,2,10.19,162,
+Oftalmoclínica Curitiba,Eye Doctor,4,15.14,3,11.35,43,
+Cantinho Da Bica,Restaurant,3,14.6,2,9.74,129,
+Upa Albert Sabin Unidade De Pronto Atendimento Fazendinha,Emergency Room,3,14.44,2,9.62,122,
+Angeloni,Supermarket,3,14.44,1,4.81,122,
+PáTio Batel,Shopping Mall,3,14.34,1,4.78,118,
+Cartolas Sports Bar,Sports Bar,4,14.33,1,3.58,35,
+Parque Sao Lourenço,Park,2,14.11,1,7.06,1158,
+Cantinho Dos Sucos E Lanches,Sandwich Place,3,14.05,2,9.36,107,
+Parque Municipal Do Passaúna,Park,3,13.87,2,9.25,101,
+Realce Ortodontia E Clinica Geral,Dentists Office,3,13.82,2,9.21,99,
+Royal Street Center,Shopping Plaza,3,13.6,2,9.07,92,
+Curitiba Hostel,Hostel,3,13.6,2,9.07,92,
+Business Club,Restaurant,3,13.57,2,9.04,91,
+Sesc Paço Da Liberdade,Cultural Center,3,13.36,2,8.91,85,
+Originale Cucina E Pizzeria,Pizza Place,3,13.36,1,4.45,85,
+Droga Raia,Pharmacy,3,13.36,1,4.45,85,
+Colégio Estadual Bom Pastor Cbp,University,3,13.22,2,8.81,81,
+Dan Inn Hotel,Hotel,3,13.15,1,4.38,79,
+Super Muffato,Supermarket,3,12.87,1,4.29,72,
+Mercure Curitiba Batel,Hotel,3,12.66,2,8.44,67,
+Mercearia Anos 30,Pizza Place,3,12.52,1,4.17,64,
+Parque Dos Tropeiros,Park,2,11.63,1,5.82,335,
+Confeitaria Moinho Holandês,Dessert Shop,3,11.28,2,7.52,42,
+Tesoros De Cuba,Smoke Shop,2,11.23,0,0.0,273,
+Bosque Alemão,Park,2,11.08,1,5.54,254,
+Radisson Hotel Curitiba,Hotel,2,11.07,1,5.54,253,
+Vox Bar,Nightclub,2,10.57,1,5.28,196,
+Bar Canabenta,Bar,3,10.4,1,3.47,31,
+Museu De Arte Contemporânea Do Paraná Mac,Art Museum,3,10.3,2,6.87,30,
+Centro Do Ser Espaço Terapêutico,Spa,3,10.2,2,6.8,29,
+Pronto Atendimento Hospital Sugisawa,Emergency Room,2,10.14,1,5.07,158,
+Hospital Nossa Senhora Da Luz,Hospital,2,9.99,1,5.0,147,
+Ca,Clothing Store,2,9.75,1,4.88,130,
+Curitiba Backpackers Hostel,Hostel,2,9.72,1,4.86,128,
+Palacete Dos Leões,Art Museum,3,9.66,1,3.22,24,
+Bemestar Estética,Spa,2,9.64,1,4.82,123,
+Iorc Centro,Dentists Office,2,9.62,1,4.81,122,
+Hertz,Automotive Shop,2,9.49,1,4.74,114,
+Goodies Bakery,Dessert Shop,2,9.44,1,4.72,111,
+Livrarias Curitiba,Bookstore,2,9.17,1,4.58,97,
+Vivo,Mobile Phone Shop,2,9.04,1,4.52,91,
+O Espanhol,Bar,2,8.95,0,0.0,87,
+De Luca Pizzaria,Pizza Place,2,8.84,1,4.42,82,
+Ppbar,Bar,2,8.76,1,4.38,79,
+Ks Espetinhos,Food Truck,2,8.55,0,0.0,71,
+Ancoradouro,Restaurant,2,8.5,1,4.25,69,
+Costelão Curitibano 24H,Restaurant,2,8.12,1,4.06,57,
+3 Distrito Policia Civil,Police Station,2,8.12,1,4.06,57,
+Delemigpf Delegacia De Estrangeiros E Imigração,Police Station,2,8.05,1,4.03,55,
+Auto Posto Jardim Ambiental,Gas Station,2,7.98,1,3.99,53,
+Empório Kaveh Kanes,Market,2,7.57,1,3.78,43,
+Cabral Motor Serviços,Automotive Shop,2,7.38,1,3.69,39,
+Kikos Bar,Sports Bar,2,7.28,1,3.64,37,
+Madero Sports Bar,Sports Bar,2,7.22,0,0.0,36,
+Bourbon Curitiba Convention Hotel,Hotel,1,6.75,0,0.0,852,
+Hospital Da Cruz Vermelha,Hospital,1,6.55,0,0.0,695,
+King Temaki,Restaurant,2,6.52,0,0.0,25,
+Festval,Supermarket,1,6.32,0,0.0,557,
+Hospital Sao Lucas,Hospital,1,5.95,0,0.0,384,
+Colégio Passionista N Sa Menina,High School,1,5.94,0,0.0,379,
+Parque Tanguá,Park,1,5.74,0,0.0,310,
+Shopping Crystal,Shopping Mall,1,5.66,0,0.0,287,
+Shopping Omar,Shopping Mall,1,5.65,0,0.0,284,
+Exclusivamed,Doctors Office,1,5.25,0,0.0,190,
+Pasteur Grill,Restaurant,1,5.08,0,0.0,159,
+Harbor Self Saint Emilion,Hotel,1,5.07,0,0.0,158,
+Ponto Frio 139,Department Store,1,4.94,0,0.0,139,
+Museu Paranaense,History Museum,1,4.91,0,0.0,134,
+Pão De Açúcar,Supermarket,1,4.88,0,0.0,130,
+Casa Roxa,Nightclub,1,4.85,0,0.0,127,
+Auto Posto Analipe Ipiranga,Gas Station,1,4.85,0,0.0,127,
+Capital Shopping Centro,Shopping Mall,1,4.78,0,0.0,118,
+Curitiba Casa Hostel,Hostel,1,4.62,0,0.0,100,
+Paraná Clínicas Unidade Cic,Emergency Room,1,4.6,0,0.0,98,
+Pronner Confeitaria,Dessert Shop,1,4.57,0,0.0,96,
+Celeiro Micah,Grocery Store,1,4.54,0,0.0,93,
+Panificadora Gislaine,Coffee Shop,1,4.5,0,0.0,89,
+Upa 24H Unidade De Pronto Atendimento Boa Vista,Emergency Room,1,4.47,0,0.0,86,
+Auto Posto Triângulo,Gas Station,1,4.43,0,0.0,83,
+CemitéRio Municipal áGua Verde,Cemetery,1,4.41,0,0.0,81,
+Sushiaki,Sushi Restaurant,2,4.39,1,2.2,8,
+Chilflor Floricultura,Flower Shop,1,4.39,0,0.0,80,
+Sabore Pizzaria,Pizza Place,1,4.29,0,0.0,72,
+Shopping Cidade,Shopping Mall,1,4.26,0,0.0,70,
+Alô Esquenta,Convenience Store,1,4.25,0,0.0,69,
+CemitéRio Municipal Sao Francisco De Paula,Cemetery,1,4.23,0,0.0,68,
+Nurce Núcleo De Repreensão A Crimes Econômicos,Police Station,1,4.22,0,0.0,67,
+Mercado Municipal De Curitiba,Market,1,4.22,0,0.0,67,
+Master Pizza,Pizza Place,1,4.22,0,0.0,67,
+Memphis House Restaurante E Pizzaria,Restaurant,1,4.19,0,0.0,65,
+Supermercados Tissi,Supermarket,1,4.17,0,0.0,64,
+Café Com Bolachas,Coffee Shop,1,4.09,0,0.0,59,
+Sociedade Esportiva Renovicente,Soccer Field,1,4.06,0,0.0,57,
+Sams Club,Warehouse Store,1,4.06,0,0.0,57,
+Kan,Restaurant,1,4.06,0,0.0,57,
+Motter Home Curitiba Hostel,Hostel,1,3.93,0,0.0,50,
+Babilônia Gastronomia,Mediterranean Restaurant,1,3.93,0,0.0,50,
+Cindacta Ii,Military Base,1,3.87,0,0.0,47,
+Ibiza Laboratório FotográFico Digital,Electronics Store,1,3.85,0,0.0,46,
+Pro Campo Campo Jardim,Flower Shop,1,3.81,0,0.0,44,
+Centro Esportivo Ipiranga,Soccer Stadium,1,3.81,0,0.0,44,
+Ribamar Sports,Soccer Field,1,3.78,0,0.0,43,
+Granotto Sorvetes,Ice Cream Shop,1,3.71,0,0.0,40,
+Motel Celebrity,Motel,1,3.18,0,0.0,23,
+Quiosque Do Açaí,Acai House,1,3.04,0,0.0,20,
+Galeria Minerva,Shopping Mall,1,2.4,0,0.0,10,
+Clínica Adalgisa,Spa,1,2.2,0,0.0,8,
+Faculdade De Odontologia Universidade Positivo Foup,Dentists Office,1,2.08,0,0.0,7,
+Parque Do Golinha,Arcade,1,1.61,0,0.0,4,
+Challela Supermercado,Supermarket,1,1.1,0,0.0,2,
+Yogoberry Original,Frozen Yogurt Shop,0,0.0,0,0.0,355,
+Yankee Bar,Nightclub,0,0.0,0,0.0,204,
+Woods,Nightclub,0,0.0,0,0.0,21,
+Wnk Bar,Nightclub,0,0.0,0,0.0,134,
+Wizard Batel,Language School,0,0.0,0,0.0,0,
+Vivo Bacacheri Global Center,Mobile Phone Shop,0,0.0,0,0.0,136,
+Villa Serenna Spa Estética,Spa,0,0.0,0,0.0,24,
+Villa Pilates,Gym,0,0.0,0,0.0,122,
+Viaduto Tudo Paraaado,Viaduto Tudo Paraaado,0,0.0,0,0.0,0,
+Vernon Palace Hotel Curitiba,Hotel,0,0.0,0,0.0,111,
+Ups Vila Sandra,Military Base,0,0.0,0,0.0,71,
+Upa 24H Unidade De Pronto Atendimento Pinheirinho,Emergency Room,0,0.0,0,0.0,857,
+Uniland Escola De Idiomas,School,0,0.0,0,0.0,396,
+Unicuritiba P%C3%B3Sgraduação Direito,Law School,0,0.0,0,0.0,0,
+Uberlandia Ec,Soccer Field,0,0.0,0,0.0,0,
+Tv Evangelizar,TV Station,0,0.0,0,0.0,8,
+Tropeira Grill,Restaurant,0,0.0,0,0.0,216,
+Transportes Gritsch,Rental Car Location,0,0.0,0,0.0,1782,
+Trainer Assessoria Esportiva,Park,0,0.0,0,0.0,0,
+Toque De Bola,Soccer Stadium,0,0.0,0,0.0,126,
+Tio Rober,Candy Store,0,0.0,0,0.0,193,
+Thaligio,Casino,0,0.0,0,0.0,0,
+Terceiro Andar Colégio Bom Jesus,High School,0,0.0,0,0.0,142,
+Taboo Eventos,Nightclub,0,0.0,0,0.0,0,
+Sushi Arte,Sushi Restaurant,0,0.0,0,0.0,32,
+Supermercado Zamprogna,Grocery Store,0,0.0,0,0.0,530,
+Supermercado Iannes,Grocery Store,0,0.0,0,0.0,287,
+Supermercado Fedalto,Grocery Store,0,0.0,0,0.0,307,
+Supermercado Curitiba,Convenience Store,0,0.0,0,0.0,0,
+Supercenter Angeloni,Supermarket,0,0.0,0,0.0,179,
+Super Kusma,Grocery Store,0,0.0,0,0.0,0,
+Supemercados Goes Novo Mundo,Supermarket,0,0.0,0,0.0,34,
+Studio Wasty,Spa,0,0.0,0,0.0,46,
+Strike 7,Bowling Alley,0,0.0,0,0.0,0,
+Soviet,Nightclub,0,0.0,0,0.0,508,
+Sorveteria Quebragelo,Ice Cream Shop,0,0.0,0,0.0,70,
+Softwaresul Tecnologia,IT Services,0,0.0,0,0.0,0,
+SimitéRio Moto Peças,Bike Shop,0,0.0,0,0.0,0,
+Shopping áGua Verde,Shopping Mall,0,0.0,0,0.0,450,
+Shell Select,Convenience Store,0,0.0,0,0.0,380,
+Shadow Bar,Bar,0,0.0,0,0.0,0,
+Sefid Pmpr,Military Base,0,0.0,0,0.0,426,
+Sede Torcida Organizada Os Fanaticos,Professional & Other Places,0,0.0,0,0.0,39,
+Sede Cornetas Do Fosso,Sports Bar,0,0.0,0,0.0,21,
+Sede Comando Loteca No Hugo Lange,Sports Bar,0,0.0,0,0.0,0,
+Sbb Sociedade Bíblica Do Brasil,Bookstore,0,0.0,0,0.0,0,
+Satoshi Arena,Soccer Field,0,0.0,0,0.0,240,
+Sapeca Kids,Kids Store,0,0.0,0,0.0,213,
+Sao Francisco Do Sul Sc,Beach,0,0.0,0,0.0,0,
+Sansai Sushi Bar,Sushi Restaurant,0,0.0,0,0.0,28,
+Sanident,Dentists Office,0,0.0,0,0.0,72,
+Sala 9B,High School,0,0.0,0,0.0,426,
+Sala 209 Colégio Sesi,High School,0,0.0,0,0.0,1562,
+Sal Grosso Churrasco Bar,Bar,0,0.0,0,0.0,14,
+Saint Patrick Pub,Pub,0,0.0,0,0.0,183,
+Rockville Bar,Pub,0,0.0,0,0.0,0,
+Rigoletto Ristorante,Restaurant,0,0.0,0,0.0,375,
+Rg Relogi%C3%B3S,Jewelry Store,0,0.0,0,0.0,355,
+Restaurante Via Faivre,Restaurant,0,0.0,0,0.0,195,
+Restaurante Nosso Sabor,Restaurant,0,0.0,0,0.0,111,
+Restaurante Joyfull,Restaurant,0,0.0,0,0.0,40,
+Restaurante Castelo Santangelo,Restaurant,0,0.0,0,0.0,72,
+Restaurante Benvenuto,Restaurant,0,0.0,0,0.0,129,
+Rei Do Tabaco,Smoke Shop,0,0.0,0,0.0,0,
+Rei Do Narguile,Smoke Shop,0,0.0,0,0.0,0,
+Rei Do Mate,Tea Room,0,0.0,0,0.0,1,
+Radio Taxi Faixa Vermelha,Taxi,0,0.0,0,0.0,12,
+Quiznos Sub,Sandwich Place,0,0.0,0,0.0,132,
+Quick Temaki,Restaurant,0,0.0,0,0.0,177,
+Quartel Do Comando Geral Pmpr,Military Base,0,0.0,0,0.0,293,
+Qg Secreto Da Macumba Iniciatica De Curitiba,Cemetery,0,0.0,0,0.0,216,
+Purple Hills,Nightclub,0,0.0,0,0.0,0,
+Pulse Bar E Danceteria,Nightclub,0,0.0,0,0.0,136,
+Pucpr Lumi Lanches,Sandwich Place,0,0.0,0,0.0,198,
+Psicóloga Rafaela Senff Ribeiro,Doctors Office,0,0.0,0,0.0,288,
+Prodent,Dentists Office,0,0.0,0,0.0,0,
+Procampo,Pet Store,0,0.0,0,0.0,45,
+Print Express,Electronics Store,0,0.0,0,0.0,0,
+Presídio Do Ahú,Police Station,0,0.0,0,0.0,785,
+Premier Sport Bar,Sports Bar,0,0.0,0,0.0,0,
+Praça Osvaldo Cruz,Park,0,0.0,0,0.0,0,
+Praça Guanabara,Park,0,0.0,0,0.0,1357,
+Praça 7,Playground,0,0.0,0,0.0,102,
+Pratanet,Jewelry Store,0,0.0,0,0.0,0,
+Prata Fina,Jewelry Store,0,0.0,0,0.0,0,
+Pracinha De Santa,Playground,0,0.0,0,0.0,67,
+Posto Petronas Br,Convenience Store,0,0.0,0,0.0,71,
+Posto Ipiranga Sino,Gas Station,0,0.0,0,0.0,628,
+Posto 2001,Gas Station,0,0.0,0,0.0,45,
+Positivo InformáTica,Office,0,0.0,0,0.0,576,
+Portal Da Marechal,Convenience Store,0,0.0,0,0.0,432,
+Ponto Frio,Department Store,0,0.0,0,0.0,0,
+Ponto Do Pernil,Sandwich Place,0,0.0,0,0.0,528,
+Pontifícia Universidade Católica Do Paraná Pucpr,University,0,0.0,0,0.0,0,
+Pontificão,Pontifice3o,0,0.0,0,0.0,0,
+Política Estado E Constituição,Law School,0,0.0,0,0.0,142,
+Polloshop,Shopping Mall,0,0.0,0,0.0,994,
+Poetria Livros E Arte,Bookstore,0,0.0,0,0.0,0,
+Plug Oi Polloshop,Mobile Phone Shop,0,0.0,0,0.0,183,
+Plug Oi Palladium,Mobile Phone Shop,0,0.0,0,0.0,136,
+Plantação De Batatas,Farm,0,0.0,0,0.0,0,
+Pizzaria O Fornari,Pizza Place,0,0.0,0,0.0,73,
+Pizzaria Formaggio,Pizza Place,0,0.0,0,0.0,0,
+Pizzaria E Choperia Treviso,Pizza Place,0,0.0,0,0.0,0,
+Pitty Dog,Food Truck,0,0.0,0,0.0,22,
+Piscina Utfpr,Pool,0,0.0,0,0.0,0,
+Piscina Do Clube Morgenau,Pool,0,0.0,0,0.0,134,
+Phd Sports,Gym,0,0.0,0,0.0,538,
+Pet Shop Scooby,Pet Store,0,0.0,0,0.0,66,
+Pet Shop Do Guga,Pet Store,0,0.0,0,0.0,0,
+Pet Shop Carinhosmimos,Pet Store,0,0.0,0,0.0,0,
+Pet Shop Caiuá,Pet Store,0,0.0,0,0.0,134,
+Pet Boutique Batel,Pet Store,0,0.0,0,0.0,0,
+Penna Sport,Soccer Field,0,0.0,0,0.0,57,
+Paulinho Sushi Bar,Sushi Restaurant,0,0.0,0,0.0,4,
+Passarela Ecológica,Park,0,0.0,0,0.0,792,
+Paróquia Santa QuitéRia,Church,0,0.0,0,0.0,74,
+Parquinho Do Spazio Carmen,Playground,0,0.0,0,0.0,134,
+Parquinho Do Ed Lugano Blc A,Playground,0,0.0,0,0.0,67,
+Parque Cambuí,Park,0,0.0,0,0.0,467,
+Panvel Farmácias,Pharmacy,0,0.0,0,0.0,102,
+Panvel,Pharmacy,0,0.0,0,0.0,0,
+Paleteria Mexicana,Ice Cream Shop,0,0.0,0,0.0,72,
+Oxplen,Dentists Office,0,0.0,0,0.0,216,
+Oticas Visopol,Optical Shop,0,0.0,0,0.0,71,
+Ortomaster,Dentists Office,0,0.0,0,0.0,144,
+Oi,Mobile Phone Shop,0,0.0,0,0.0,0,
+Núcleo De PráTica Jurídica Npj Unicuritiba,Law School,0,0.0,0,0.0,71,
+Nuciber Núcleo De Combate Aos Cibercrimes Da Polícia Civil,Police Station,0,0.0,0,0.0,0,
+Nosso Supermercado,Grocery Store,0,0.0,0,0.0,92,
+Nobre Café,Coffee Shop,0,0.0,0,0.0,288,
+No Chão,Funeral Home,0,0.0,0,0.0,0,
+Nice Hand Nh Poker Club,Casino,0,0.0,0,0.0,144,
+New Soccer,Soccer Field,0,0.0,0,0.0,141,
+New Orleans,Restaurant,0,0.0,0,0.0,132,
+Museu Do Holocausto De Curitiba,History Museum,0,0.0,0,0.0,876,
+Museu Do Autom%C3%B3Vel,Museum,0,0.0,0,0.0,0,
+Museu Da Fotografia Cidade De Curitiba,Museum,0,0.0,0,0.0,0,
+Mundo MáGico Das Bolinhas,Playground,0,0.0,0,0.0,134,
+Mundo Do Jão,Nightclub,0,0.0,0,0.0,272,
+Moça Biju Novo Mundo,Jewelry Store,0,0.0,0,0.0,0,
+Moto Escola Bello,School,0,0.0,0,0.0,132,
+Monsters Gym Concept,Gym,0,0.0,0,0.0,7,
+Mma Lava Car E Estacionamento,Car Wash,0,0.0,0,0.0,72,
+Mirante Do Passaúna,Park,0,0.0,0,0.0,0,
+Microparts Informatica,Electronics Store,0,0.0,0,0.0,0,
+Mexicato Paletas Mexicanas,Ice Cream Shop,0,0.0,0,0.0,284,
+Metrô Club Show,Strip Club,0,0.0,0,0.0,0,
+Mercure Curitiba Centro,Hotel,0,0.0,0,0.0,0,
+Mercearia Bresser,Pizza Place,0,0.0,0,0.0,98,
+Mercadorama,Supermarket,0,0.0,0,0.0,359,
+Mercado Vince,Grocery Store,0,0.0,0,0.0,257,
+Mercado Vaccari,Food & Drink Shop,0,0.0,0,0.0,0,
+Mercado Popular,Food & Drink Shop,0,0.0,0,0.0,0,
+Mercado Ouro Verde,Food & Drink Shop,0,0.0,0,0.0,0,
+Medilar Hauer,Emergency Room,0,0.0,0,0.0,144,
+Maxisorriso,Dentists Office,0,0.0,0,0.0,0,
+Max Sushi,Sushi Restaurant,0,0.0,0,0.0,7,
+Max Supermercado,Grocery Store,0,0.0,0,0.0,142,
+Maia Box,Restaurant,0,0.0,0,0.0,64,
+Magnólia Atelier De Flores,Flower Shop,0,0.0,0,0.0,72,
+Magazine Luiza,Department Store,0,0.0,0,0.0,56,
+Mad,Church,0,0.0,0,0.0,72,
+Lojas Coppel,Department Store,0,0.0,0,0.0,71,
+Loja Dos Games,Video Game Store,0,0.0,0,0.0,0,
+Localiza Rent A Car Agencia Parolim,Rental Car Location,0,0.0,0,0.0,50,
+Localiza Rent A Car,Rental Car Location,0,0.0,0,0.0,0,
+Livraria Arte Letra,Bookstore,0,0.0,0,0.0,73,
+Lins Multimarcas,Automotive Shop,0,0.0,0,0.0,0,
+Linha Vila Sao Paulo,Bus Stop,0,0.0,0,0.0,0,
+Lilivet,Pet Store,0,0.0,0,0.0,134,
+Lfg Curitiba Unidade De Cursos Preparatórios,School,0,0.0,0,0.0,990,
+Le Voleur De VéLo,Bike Shop,0,0.0,0,0.0,76,
+Lava Car Monte Sinai,Car Wash,0,0.0,0,0.0,0,
+Laricão,Hot Dog Joint,0,0.0,0,0.0,0,
+La Paula Lanches,Bar,0,0.0,0,0.0,232,
+La Casa Del Tabaco,Smoke Shop,0,0.0,0,0.0,0,
+Kf Grill,Restaurant,0,0.0,0,0.0,167,
+Kaes Bar,Bar,0,0.0,0,0.0,734,
+Junta De Serviço Militar 001,Military Base,0,0.0,0,0.0,0,
+Joy Academia,Gym,0,0.0,0,0.0,213,
+John John Denim,Clothing Store,0,0.0,0,0.0,504,
+Jardins Grill,Restaurant,0,0.0,0,0.0,256,
+Jardinete Jorge Haikel Fahd,Playground,0,0.0,0,0.0,67,
+Jardim Botânico,Park,0,0.0,0,0.0,1260,
+James,Nightclub,0,0.0,0,0.0,340,
+J Bueno Mecanica,Automotive Shop,0,0.0,0,0.0,0,
+Ix Chel Flores,Flower Shop,0,0.0,0,0.0,72,
+Itiban Comic Shop,Comic Shop,0,0.0,0,0.0,77,
+Ishima Massoterapia,Spa,0,0.0,0,0.0,24,
+Inter Americano,School,0,0.0,0,0.0,0,
+Instituto De Criminalistica,Police Station,0,0.0,0,0.0,603,
+In Corpore,Spa,0,0.0,0,0.0,104,
+Imperial Futebol Clube,Football Stadium,0,0.0,0,0.0,144,
+Imagem Corporal,Spa,0,0.0,0,0.0,18,
+Ihouse,Electronics Store,0,0.0,0,0.0,0,
+Igreja Universal Do Reino De Deus,Church,0,0.0,0,0.0,145,
+Igreja Adventista Do Sétimo Dia De Santa Efigênia,Church,0,0.0,0,0.0,288,
+Ictr Instituto Do Câncer E Transplante,Doctors Office,0,0.0,0,0.0,0,
+Icenter,Electronics Store,0,0.0,0,0.0,56,
+Hospital Menino Deus,Hospital,0,0.0,0,0.0,0,
+Hipermercado Big,Big Box Store,0,0.0,0,0.0,246,
+Hiper Muffato,Supermarket,0,0.0,0,0.0,515,
+Himalaia Distribuidora,Candy Store,0,0.0,0,0.0,144,
+Heliponto Couto Pereira,General Travel,0,0.0,0,0.0,152,
+Gés Jóias E Relógios,Jewelry Store,0,0.0,0,0.0,0,
+Granja Giliczynski,Strip Club,0,0.0,0,0.0,0,
+Goleadores Futebol Society,Soccer Field,0,0.0,0,0.0,175,
+Girardis House,Strip Club,0,0.0,0,0.0,0,
+Genius Pizzarias,Pizza Place,0,0.0,0,0.0,0,
+Genaudas Sprachschule,School,0,0.0,0,0.0,132,
+Galeria General Osório,Shopping Mall,0,0.0,0,0.0,84,
+Galeria Central Park,Shopping Plaza,0,0.0,0,0.0,0,
+G Driver,IT Services,0,0.0,0,0.0,0,
+Fut5,Soccer Field,0,0.0,0,0.0,0,
+FuréLlius Cavernius Tho,Flower Shop,0,0.0,0,0.0,504,
+Ftm Sports,Soccer Field,0,0.0,0,0.0,0,
+Frutaria Da Visconde,Grocery Store,0,0.0,0,0.0,49,
+Fortress Of Solitude,Library,0,0.0,0,0.0,0,
+Forneria Copacabana,Pizza Place,0,0.0,0,0.0,0,
+Fogo Forte,Restaurant,0,0.0,0,0.0,167,
+Fofuras Pet Shop,Pet Store,0,0.0,0,0.0,201,
+Fitco Academia,Gym,0,0.0,0,0.0,213,
+Fisk,Language School,0,0.0,0,0.0,45,
+Filtrosul,Automotive Shop,0,0.0,0,0.0,0,
+Farol Do Saber Padre Antônio Vieira,Library,0,0.0,0,0.0,0,
+FarmáCia Remédio Popular,Pharmacy,0,0.0,0,0.0,0,
+FarmáCia Pague Menos,Pharmacy,0,0.0,0,0.0,261,
+Faculdade Herrero,University,0,0.0,0,0.0,232,
+Faculdade De Ciências Sociais E Aplicadas Do Paraná Facet,University,0,0.0,0,0.0,229,
+Faculdade De Ciências Jurídicas,Law School,0,0.0,0,0.0,674,
+Faculdade De Artes Do Paraná Fap,University,0,0.0,0,0.0,7,
+Faculdade Camões,University,0,0.0,0,0.0,72,
+Evs Espaço Vida Saudável Herbalife,Health Food Store,0,0.0,0,0.0,21,
+Eurocar Service,Automotive Shop,0,0.0,0,0.0,0,
+Estádio Major Antônio Couto Pereira,Soccer Stadium,0,0.0,0,0.0,1935,
+Estádio Bortola Gava OperáRio Pilarzinho Sport Club,Soccer Field,0,0.0,0,0.0,130,
+EstáCio Radial,University,0,0.0,0,0.0,270,
+Estopim Da Fiel,Soccer Field,0,0.0,0,0.0,366,
+Estação Tubo Tre,Bus Stop,0,0.0,0,0.0,795,
+Estação Tubo Maria Clara,Bus Stop,0,0.0,0,0.0,323,
+Estação Tubo Jardim Botânico,Bus Stop,0,0.0,0,0.0,0,
+Estação Tubo Holanda,Bus Stop,0,0.0,0,0.0,784,
+Estação Tubo Fernando De Noronha,Bus Stop,0,0.0,0,0.0,0,
+Estação Tubo Central,Bus Stop,0,0.0,0,0.0,709,
+Estação Tubo Antônio Lago,Bus Stop,0,0.0,0,0.0,1138,
+Essencial Narguile,Smoke Shop,0,0.0,0,0.0,0,
+Espaço Vida Bandida,Donut Shop,0,0.0,0,0.0,72,
+Espaço Vicente,Nightclub,0,0.0,0,0.0,0,
+Espaço Novo Tempo Curitiba,Church,0,0.0,0,0.0,72,
+Escola Estadual Angelo Trevisan,School,0,0.0,0,0.0,117,
+Escola De Aulas Particulares Prof André E Maria Luiza,School,0,0.0,0,0.0,330,
+Escola Da Magistratura Do Paraná,Law School,0,0.0,0,0.0,0,
+Escola Ceebja Paulo Freire,High School,0,0.0,0,0.0,71,
+Esalpet,Pet Store,0,0.0,0,0.0,38,
+Empório Do Bacalhau,Food & Drink Shop,0,0.0,0,0.0,0,
+Ecoestádio Janguito Malucelli Janguitão,Soccer Stadium,0,0.0,0,0.0,102,
+Ecobike Courier,Bike Shop,0,0.0,0,0.0,228,
+Duo Cuisine,Restaurant,0,0.0,0,0.0,0,
+Duc Club,Nightclub,0,0.0,0,0.0,136,
+Dona Maria Buffet,Restaurant,0,0.0,0,0.0,0,
+Don Martini,Restaurant,0,0.0,0,0.0,365,
+Don Giovanne Ristorante E Pizzeria,Pizza Place,0,0.0,0,0.0,0,
+Dom Signori Pizzaria,Pizza Place,0,0.0,0,0.0,9,
+Dom Capone,Pizza Place,0,0.0,0,0.0,0,
+Dogão Do Clé,Food Truck,0,0.0,0,0.0,213,
+Dog Do Nilson,Food Truck,0,0.0,0,0.0,31,
+Dog Campeão,Food Truck,0,0.0,0,0.0,0,
+Docelândia,Candy Store,0,0.0,0,0.0,360,
+Divino Mestre Grill Massas,Restaurant,0,0.0,0,0.0,216,
+Diletto,Ice Cream Shop,0,0.0,0,0.0,71,
+Di Vero Pizza,Pizza Place,0,0.0,0,0.0,0,
+Departamento Da Polícia Civil,Police Station,0,0.0,0,0.0,0,
+Dengo Pet Shop,Pet Store,0,0.0,0,0.0,0,
+Delícias Do Cerrado,Ice Cream Shop,0,0.0,0,0.0,355,
+Delegacia De Furtos E Roubos De Veiculos,Police Station,0,0.0,0,0.0,223,
+Delegacia De Furtos E Roubos,Police Station,0,0.0,0,0.0,0,
+Datacic,Library,0,0.0,0,0.0,0,
+Cwb Poker Club,Casino,0,0.0,0,0.0,144,
+Curitiba Eco Hostel,Hostel,0,0.0,0,0.0,0,
+Cuore Di Cacao,Dessert Shop,0,0.0,0,0.0,144,
+Cultura Inglesa Cabral,University,0,0.0,0,0.0,93,
+Ctba Poker Club,Casino,0,0.0,0,0.0,0,
+Correios Centro De Cartas E Encomendas,Post Office,0,0.0,0,0.0,134,
+Correio,Post Office,0,0.0,0,0.0,0,
+Corpo De Bombeiros,Fire Station,0,0.0,0,0.0,0,
+Coritiba,Soccer Stadium,0,0.0,0,0.0,1904,
+Copa Do Mundo,Soccer Field,0,0.0,0,0.0,72,
+Conveniencias Pappa Cibo Posto De Gasolina,Convenience Store,0,0.0,0,0.0,0,
+Consultório Oftalmológico Dra Maria Cecília Barros Duarte,Eye Doctor,0,0.0,0,0.0,0,
+Consultorio Dr Virginia Oftalmo,Eye Doctor,0,0.0,0,0.0,0,
+Confraria Grill Sushi,Restaurant,0,0.0,0,0.0,70,
+Confeitaria Swisse,Dessert Shop,0,0.0,0,0.0,0,
+Confeitaria Lancaster,Dessert Shop,0,0.0,0,0.0,79,
+Confeitaria Casa Do Coco Bomfati,Dessert Shop,0,0.0,0,0.0,131,
+Colégio Saint Germain,High School,0,0.0,0,0.0,0,
+Colégio Martinus,High School,0,0.0,0,0.0,256,
+Colégio Estadual Professor Cleto,University,0,0.0,0,0.0,72,
+Colégio Estadual Dr Xavier Da Silva,High School,0,0.0,0,0.0,71,
+Colégio Estadual Amâncio Moro,School,0,0.0,0,0.0,353,
+Colegio Estadual Zacarias,High School,0,0.0,0,0.0,0,
+Colegio Decisivo Cristo Rei,University,0,0.0,0,0.0,1140,
+Clínica Zavelinski,Doctors Office,0,0.0,0,0.0,70,
+Clínica De Fraturas Novo Mundo,Emergency Room,0,0.0,0,0.0,77,
+Clube Da Gente Cic,Pool,0,0.0,0,0.0,0,
+Clube Curitibano Sede Mercês,Social Club,0,0.0,0,0.0,108,
+Clinifama Odontologia,Dentists Office,0,0.0,0,0.0,0,
+Clinica Sarraff,Doctors Office,0,0.0,0,0.0,22,
+Clinica Odontológica Dr Airton Maso,Dentists Office,0,0.0,0,0.0,144,
+Class Night Clube,Strip Club,0,0.0,0,0.0,0,
+Cla,Funeral Home,0,0.0,0,0.0,142,
+Cicles Vmax,Bike Shop,0,0.0,0,0.0,0,
+Cicles Radar,Bike Shop,0,0.0,0,0.0,0,
+Churrascaria Paiol,Restaurant,0,0.0,0,0.0,197,
+Chokolat Chocolateria,Chocolate Shop,0,0.0,0,0.0,66,
+Centro Nacional Da Cirurgia PláStica,Doctors Office,0,0.0,0,0.0,0,
+Centro Municipal De Urgências Médicas Cmum Cic,Emergency Room,0,0.0,0,0.0,864,
+Centro Municipal De Urgências Médicas Cmum Campo Comprido,Emergency Room,0,0.0,0,0.0,130,
+Central De Relacionamento Com O Sócio,Office,0,0.0,0,0.0,98,
+CemitéRio Parque Iguaú,Cemetery,0,0.0,0,0.0,44,
+CemitéRio Municipal Santa Cândida,Cemetery,0,0.0,0,0.0,1,
+CemitéRio Luterano,Cemetery,0,0.0,0,0.0,0,
+CemitéRio Jardim Da Saudade,Cemetery,0,0.0,0,0.0,182,
+Cemiterio Israelita,Cemetery,0,0.0,0,0.0,0,
+Cassino Do Renatão,Casino,0,0.0,0,0.0,72,
+Casas Bahia,Department Store,0,0.0,0,0.0,182,
+Casa Fiesta Supermercados,Supermarket,0,0.0,0,0.0,94,
+Casa Do Nego,Military Base,0,0.0,0,0.0,0,
+Casa Do Mamãe,Casino,0,0.0,0,0.0,216,
+Casa Do Fumo,Smoke Shop,0,0.0,0,0.0,0,
+Casa Do Crack,Strip Club,0,0.0,0,0.0,0,
+Casa De Saúde Oibrasil Telecom,Doctors Office,0,0.0,0,0.0,8,
+Casa Da Leitura Maria Nicolas,Library,0,0.0,0,0.0,0,
+Casa Da Leitura Dario Vellozo,Library,0,0.0,0,0.0,0,
+Casa Da Leitura Augusto Stresser,Library,0,0.0,0,0.0,1141,
+Carshow,Car Wash,0,0.0,0,0.0,216,
+Caribbean Disco Club,Nightclub,0,0.0,0,0.0,476,
+CardáPio Nobre Buffet Grill,Restaurant,0,0.0,0,0.0,0,
+Cappuccino,Fruit & Vegetable Store,0,0.0,0,0.0,71,
+Capoani,Clothing Store,0,0.0,0,0.0,72,
+Campo Do Uberlandia,Soccer Field,0,0.0,0,0.0,10,
+Campo Do Novo Mundo Fc,Soccer Field,0,0.0,0,0.0,0,
+Cama Do Drew ,Strip Club,0,0.0,0,0.0,0,
+Calabouço Do Sad,Playground,0,0.0,0,0.0,1452,
+Caiobá,Beach,0,0.0,0,0.0,44,
+Caffé Truffas,Coffee Shop,0,0.0,0,0.0,0,
+Cafe Impresso,Coffee Shop,0,0.0,0,0.0,31,
+Cachorro Quente Do Oliveira,Food Truck,0,0.0,0,0.0,142,
+Cacau Show,Chocolate Shop,0,0.0,0,0.0,216,
+Cacau Fusion Cuisine,Restaurant,0,0.0,0,0.0,221,
+Cabaré Vichineski,Strip Club,0,0.0,0,0.0,0,
+By Ravelle,Spa,0,0.0,0,0.0,0,
+Bunker Nitzschewatson,Military Base,0,0.0,0,0.0,136,
+Brookfield Energia Renovável,Office,0,0.0,0,0.0,0,
+British And American,School,0,0.0,0,0.0,178,
+Bristol Hotel Resorts,Resort,0,0.0,0,0.0,0,
+Brasil Soccer,Soccer Field,0,0.0,0,0.0,0,
+Bradesco Ag Merces,Bank,0,0.0,0,0.0,292,
+Bosque Túlio Vargas,Park,0,0.0,0,0.0,0,
+Bosque Sao Nicolau,Park,0,0.0,0,0.0,406,
+Bosque Fazendinha,Park,0,0.0,0,0.0,67,
+Blondor Mansion,Strip Club,0,0.0,0,0.0,80,
+Biscoitos Família,Candy Store,0,0.0,0,0.0,73,
+Biroska,Automotive Shop,0,0.0,0,0.0,0,
+Bigzinho Supermercado,Grocery Store,0,0.0,0,0.0,485,
+Big Ben,Jewelry Store,0,0.0,0,0.0,0,
+Big,Supermarket,0,0.0,0,0.0,189,
+Bichos E Caprichos,Pet Store,0,0.0,0,0.0,0,
+Biblioteca Cpm,High School,0,0.0,0,0.0,0,
+Biblioteca Clube Curitibano,Library,0,0.0,0,0.0,133,
+Berço Do Ahnao,Nightclub,0,0.0,0,0.0,2924,
+Bem Cuidado,Pet Store,0,0.0,0,0.0,67,
+Belleclin Estética E Depilação,Spa,0,0.0,0,0.0,58,
+Barbarium Beer Pub,Gastropub,0,0.0,0,0.0,113,
+Bar Do Simão,Nightclub,0,0.0,0,0.0,133,
+Banco Do Brasil,Bank,0,0.0,0,0.0,335,
+Bana Pneus,Automotive Shop,0,0.0,0,0.0,0,
+Bacio Gelato,Ice Cream Shop,0,0.0,0,0.0,130,
+Baby Dreams,Kids Store,0,0.0,0,0.0,213,
+Azuki Sabores Do Japão,Restaurant,0,0.0,0,0.0,276,
+Avell Computadores,Electronics Store,0,0.0,0,0.0,4,
+Auto Posto Ultra Posto Apa,Gas Station,0,0.0,0,0.0,142,
+Auto Posto Jardim Ambiental Ipiranga,Gas Station,0,0.0,0,0.0,96,
+Auto Escola Veneto,Driving School,0,0.0,0,0.0,144,
+Auto Escola Santa Cândida,Driving School,0,0.0,0,0.0,71,
+Auto Escola Luciana,School,0,0.0,0,0.0,0,
+Auto Escola Exclusiva,School,0,0.0,0,0.0,226,
+Auto Escola Ellen,Driving School,0,0.0,0,0.0,144,
+Auto Escola Brito,Automotive Shop,0,0.0,0,0.0,76,
+Auto Escola Brasília,Automotive Shop,0,0.0,0,0.0,76,
+Aula Da Thais,Law School,0,0.0,0,0.0,426,
+Associação Vila Militar,Police Station,0,0.0,0,0.0,0,
+Armito,Restaurant,0,0.0,0,0.0,726,
+Arena Da Baixada,Soccer Stadium,0,0.0,0,0.0,1031,
+Arena Cof Sports,Soccer Field,0,0.0,0,0.0,73,
+Aqualandy,Food & Drink Shop,0,0.0,0,0.0,0,
+Antiga E Mística Ordem Rosacruz Amorc,History Museum,0,0.0,0,0.0,90,
+Ampm Posto Ipiranga,Convenience Store,0,0.0,0,0.0,164,
+Ampm,Convenience Store,0,0.0,0,0.0,0,
+Amistoso Da Selecao,Soccer Stadium,0,0.0,0,0.0,0,
+Amdtran,Driving School,0,0.0,0,0.0,144,
+Ambiental Bar,Pub,0,0.0,0,0.0,0,
+Agapanthus Floricultura,Flower Shop,0,0.0,0,0.0,104,
+Adrenalina Motos,Bike Shop,0,0.0,0,0.0,32,
+Acto Dança,School,0,0.0,0,0.0,9,
+Acrótona,Pizza Place,0,0.0,0,0.0,27,
+Acqua Vhiva,Pool,0,0.0,0,0.0,67,
+Acqua Spa Graciosa,Spa,0,0.0,0,0.0,0,
+Acqua Motel,Motel,0,0.0,0,0.0,0,
+Academia Sport Barigui,Gym,0,0.0,0,0.0,0,
+Academia First Class,Gym,0,0.0,0,0.0,96,
+Academia Biocorpus,Gym,0,0.0,0,0.0,0,
+Academia Area 1,Gym,0,0.0,0,0.0,0,
+Abaré,Pizza Place,0,0.0,0,0.0,76,
+A Varanda Beer House,Pub,0,0.0,0,0.0,67,
+9 Distrito Policial,Police Station,0,0.0,0,0.0,0,
+8 Distrito Policial,Police Station,0,0.0,0,0.0,67,
+5Bsup,Military Base,0,0.0,0,0.0,0,
+3a Igreja Do Evangelho Quadrangular,Church,0,0.0,0,0.0,857,
+351,Nightclub,0,0.0,0,0.0,82,
+27%C2%Ba Batalhão Logístico,Military Base,0,0.0,0,0.0,13,
+1a Igreja Do Evangelho Quadrangular,Church,0,0.0,0,0.0,207,
+1O Distrito Da Policia Civil,Police Station,0,0.0,0,0.0,0,
+11%C2%Ba Distrito Policial,Police Station,0,0.0,0,0.0,132,

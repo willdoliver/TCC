@@ -1,42 +1,42 @@
 categorias,Media Check-ins,Fórmula Trocas,Fórmula Disputa,Count,Desvio Padrao, Elements
-General Entertainment	122.0	5.0	2.0	1	nan	[122]
-Business Center	54.0	2.0	1.0	1	nan	[54]
-Bar	89.0	1.51	0.88	85	179.44	[0, 0, 55, 123, 127, 573, 236, 152, 385, 0, 114, 100, 53, 141, 220, 0, 106, 213, 0, 65, 166, 0, 78, 316, 356, 44, 1083, 55, 55, 0, 74, 193, 68, 623, 70, 0, 612, 137, 550, 0, 67, 287, 136, 22, 0, 0, 0, 110, 240, 73, 0, 296, 218, 54, 55, 0, 14, 52, 92, 179, 153, 324, 360, 147, 99, 39, 54, 103, 463, 89, 0, 55, 59, 304, 56, 220, 91, 51, 0, 124, 305, 165, 48, 2, 64]
-Arcade	373.0	1.5	0.0	2	185.26	[242, 504]
-Airport	112.0	1.33	1.0	3	320.17	[602, 112, 0]
-Indie Movie Theater	1.0	1.0	0.0	1	nan	[1]
-Church	50.0	0.95	0.57	21	147.58	[269, 93, 0, 322, 103, 0, 50, 334, 43, 10, 0, 14, 0, 91, 50, 550, 29, 0, 198, 50, 0]
-Coffee Shop	9.0	0.83	0.17	6	115.13	[7, 23, 8, 0, 10, 291]
-Shopping Mall	14.0	0.6	0.0	15	75.22	[1, 14, 4, 303, 0, 16, 14, 28, 13, 20, 14, 11, 16, 43, 10]
-Residential Building (Apartment / Condo)	28.5	0.5	0.0	2	23.33	[12, 45]
-Building	9.5	0.5	0.0	2	13.44	[0, 19]
-University	15.0	0.43	0.0	7	18.18	[8, 11, 9, 26, 41, 55, 15]
-Temple	713.0	0.0	0.0	1	nan	[713]
-Office	280.0	0.0	0.0	2	316.78	[504, 56]
-AeroMexico	57.0	0.0	0.0	1	nan	[57]
-Café	39.0	0.0	0.0	2	0.0	[39, 39]
-Cultural Center	32.0	0.0	0.0	1	nan	[32]
-Medical Center	15.0	0.0	0.0	1	nan	[15]
-Bookstore	12.0	0.0	0.0	1	nan	[12]
-Language School	7.0	0.0	0.0	1	nan	[7]
-Gym	7.0	0.0	0.0	17	9.01	[2, 4, 31, 7, 13, 0, 0, 3, 17, 2, 15, 12, 0, 19, 9, 20, 1]
-Tea Room	6.0	0.0	0.0	2	0.0	[6, 6]
-Sports Club	6.0	0.0	0.0	1	nan	[6]
-Gym / Fitness Center	5.0	0.0	0.0	7	9.71	[8, 2, 1, 19, 0, 5, 25]
-College Gym	5.0	0.0	0.0	1	nan	[5]
-Hospital	4.0	0.0	0.0	23	6.93	[1, 17, 17, 2, 7, 0, 7, 6, 1, 22, 3, 19, 17, 10, 2, 4, 14, 2, 2, 7, 0, 4, 2]
-Acai House	4.0	0.0	0.0	1	nan	[4]
-School	3.0	0.0	0.0	19	9.47	[3, 5, 4, 1, 5, 3, 1, 2, 4, 0, 1, 2, 3, 43, 0, 0, 1, 4, 6]
-Burger Joint	3.0	0.0	0.0	1	nan	[3]
-Restaurant	2.5	0.0	0.0	10	75.08	[2, 0, 3, 225, 1, 113, 0, 5, 2, 6]
-Zoo	2.0	0.0	0.0	1	nan	[2]
-Pizza Place	2.0	0.0	0.0	1	nan	[2]
-Hotel	2.0	0.0	0.0	21	5.73	[0, 2, 2, 3, 16, 5, 3, 0, 0, 6, 2, 1, 2, 14, 0, 1, 3, 21, 1, 5, 1]
-Home (private)	2.0	0.0	0.0	1	nan	[2]
-Department Store	1.5	0.0	0.0	10	1.43	[0, 0, 0, 2, 0, 2, 1, 3, 2, 4]
-Gymnastics Gym	1.0	0.0	0.0	3	8.66	[1, 1, 16]
-Driving School	1.0	0.0	0.0	2	0.0	[1, 1]
-Private School	0.0	0.0	0.0	1	nan	[0]
-Music Venue	0.0	0.0	0.0	1	nan	[0]
-Furniture / Home Store	0.0	0.0	0.0	1	nan	[0]
-Art Museum	0.0	0.0	0.0	1	nan	[0]
+General Entertainment	122.0	5.0	2.0
+Business Center	54.0	2.0	1.0
+Bar	89.0	1.51	0.88
+Arcade	373.0	1.5	0.0
+Airport	112.0	1.33	1.0
+Indie Movie Theater	1.0	1.0	0.0
+Church	50.0	0.95	0.57
+Coffee Shop	9.0	0.83	0.17
+Shopping Mall	14.0	0.6	0.0
+Residential Building (Apartment / Condo)	28.5	0.5	0.0
+Building	9.5	0.5	0.0
+University	15.0	0.43	0.0
+Temple	713.0	0.0	0.0
+Office	280.0	0.0	0.0
+AeroMexico	57.0	0.0	0.0
+Café	39.0	0.0	0.0
+Cultural Center	32.0	0.0	0.0
+Medical Center	15.0	0.0	0.0
+Bookstore	12.0	0.0	0.0
+Language School	7.0	0.0	0.0
+Gym	7.0	0.0	0.0
+Tea Room	6.0	0.0	0.0
+Sports Club	6.0	0.0	0.0
+Gym / Fitness Center	5.0	0.0	0.0
+College Gym	5.0	0.0	0.0
+Hospital	4.0	0.0	0.0
+Acai House	4.0	0.0	0.0
+School	3.0	0.0	0.0
+Burger Joint	3.0	0.0	0.0
+Restaurant	2.5	0.0	0.0
+Zoo	2.0	0.0	0.0
+Pizza Place	2.0	0.0	0.0
+Hotel	2.0	0.0	0.0
+Home (private)	2.0	0.0	0.0
+Department Store	1.5	0.0	0.0
+Gymnastics Gym	1.0	0.0	0.0
+Driving School	1.0	0.0	0.0
+Private School	0.0	0.0	0.0
+Music Venue	0.0	0.0	0.0
+Furniture / Home Store	0.0	0.0	0.0
+Art Museum	0.0	0.0	0.0

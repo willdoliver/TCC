@@ -169,11 +169,7 @@ def analisaDados(arqAnalise,arqSaida):
 
 		arq = open(arqSaida+'.txt', 'w')
 		print("Escrevendo saida arquivo: "+ arqSaida+'.txt')
-		arq.write("-------------------")
-		arq.write("\n")
-		arq.write("RESULTADOS POR LOCAL")
-		arq.write("\n")
-		arq.write("-------------------")
+		arq.write("Local,Categoria,P,Trocas,R,Disputa,Check-ins")
 		arq.write("\n")
 		saida.sort(reverse=True)
 
@@ -181,19 +177,18 @@ def analisaDados(arqAnalise,arqSaida):
 			if s[2].encode('utf-8') == "Canonicalurl': U'Https:":
 				continue
 			# print(s)
-			arq.write(str(s[2].encode('utf-8')) + ' - ' + str(s[6])) # Local
-			arq.write("\n")
-			arq.write( "P = " + str( s[1]) ) # quantidade de trocas
-			arq.write("\n")
-			arq.write( "Trocas: " + str(s[0]) ) # Calculo da formula para P
-			arq.write("\n")
-			arq.write( "R = " + str(s[4]) ) # quantidade de reaparicoes
-			arq.write("\n")
-			arq.write( "Disputa: " + str(s[3]) ) # Calculo da formula para R
-			arq.write("\n")
-			arq.write( "Check-ins = " + str(s[5]) ) # numero de reaparicoes
-			arq.write("\n")
-			arq.write("-------------------")
+			arq.write(str(s[2].encode('utf-8')) + ',' + str(s[6])) # Local
+			arq.write(",")
+			arq.write(str(s[1]) ) # quantidade de trocas
+			arq.write(",")
+			arq.write(str(s[0]) ) # Calculo da formula para P
+			arq.write(",")
+			arq.write(str(s[4]) ) # quantidade de reaparicoes
+			arq.write(",")
+			arq.write(str(s[3]) ) # Calculo da formula para R
+			arq.write(",")
+			arq.write(str(s[5]) ) # numero de reaparicoes
+			arq.write(",")
 			arq.write("\n")
 
 		arq.close()
@@ -226,12 +221,9 @@ def analisaDados(arqAnalise,arqSaida):
 				pd.Series(agrupTrocas).mean(),
 				pd.Series(agrupReap).mean(),
 				pd.Series(agrupCat).median(),
-				r,
-				len(agrupCat),
-				pd.Series(agrupCat).std(), # Desvio padrao
-				agrupCat
+				r
 			])
-		print(checkinsCat)
+		# print(checkinsCat)
 		# exit(0)
 		checkinsCat.sort(reverse=True)
 		# print(checkinsCat)
@@ -251,12 +243,6 @@ def analisaDados(arqAnalise,arqSaida):
 			arqCat.write(str(round(cat[0],2)))
 			arqCat.write('	')
 			arqCat.write(str(round(cat[1],2)))
-			arqCat.write('	')
-			arqCat.write(str(cat[4]))
-			arqCat.write('	')
-			arqCat.write(str(round(cat[5],2)))
-			arqCat.write('	')
-			arqCat.write(str(cat[6]))
 			arqCat.write('\n')
 			numCategs += 1
 
