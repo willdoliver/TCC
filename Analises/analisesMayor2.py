@@ -7,6 +7,8 @@ from pprint import pprint
 from datetime import datetime
 import matplotlib.pyplot as plt
 import pandas as pd
+from scipy.stats import sem, t
+from scipy import mean
 
 
 ############ Formulas ############
@@ -25,7 +27,7 @@ import pandas as pd
 nome_local = []
 results = []
 resultCats = []
-
+confidence = 0.95
 
 def remove_repetidos(lista):
     l = []
@@ -164,7 +166,7 @@ def analisaDados(arqAnalise,arqSaida):
 			disputa = round(reapPrefs * (math.log( sum(total)+1 )),2)	
 
 			saida.append([trocas, trocaPrefs, loc, disputa, reapPrefs, sum(total), cat])
-
+			
 			resultCats.append([cat, loc, sum(total), trocaPrefs, reapPrefs])
 
 		arq = open(arqSaida+'.txt', 'w')
@@ -177,17 +179,17 @@ def analisaDados(arqAnalise,arqSaida):
 			if s[2].encode('utf-8') == "Canonicalurl': U'Https:":
 				continue
 			# print(s)
-			arq.write(str(s[2].encode('utf-8')) + ',' + str(s[6])) # Local
+			arq.write(str(s[2].encode('utf-8')) + ',' + str(s[6])) # Local - Categoria
 			arq.write(",")
-			arq.write(str(s[1]) ) # quantidade de trocas
+			arq.write(str(s[1]) ) # Quantidade de trocas
 			arq.write(",")
 			arq.write(str(s[0]) ) # Calculo da formula para P
 			arq.write(",")
-			arq.write(str(s[4]) ) # quantidade de reaparicoes
+			arq.write(str(s[4]) ) # Quantidade de reaparicoes
 			arq.write(",")
 			arq.write(str(s[3]) ) # Calculo da formula para R
 			arq.write(",")
-			arq.write(str(s[5]) ) # numero de reaparicoes
+			arq.write(str(s[5]) ) # Soma check-ins
 			arq.write(",")
 			arq.write("\n")
 
@@ -198,11 +200,11 @@ def analisaDados(arqAnalise,arqSaida):
 		# print(resultCats)
 		# exit(0)
 		
+		# vetor auxiliar com categorias unicas
 		res = []
 		for r in resultCats:
 			res.append(r[0])
 		res = remove_repetidos(res)
-		# print(res)
 		
 		checkinsCat=[]
 		for r in res:
@@ -217,19 +219,30 @@ def analisaDados(arqAnalise,arqSaida):
 				else:
 					continue
 
+			n = len(agrupCat) 		# Tamanho Lista
+			m = mean(agrupCat) 		# Mediana
+			std_err = sem(agrupCat) # Erro
+			h = std_err * t.ppf((1 + confidence) / 2, n - 1) # Desvio
+			print(str(r) + ' - ' + str(agrupCat) + ' - len:' + str(n))
+
+			start = m - h
+			end = m + h
+
 			checkinsCat.append([
 				pd.Series(agrupTrocas).mean(),
 				pd.Series(agrupReap).mean(),
 				pd.Series(agrupCat).median(),
-				r
+				r,
+				start,
+				end
 			])
 		# print(checkinsCat)
 		# exit(0)
 		checkinsCat.sort(reverse=True)
-		# print(checkinsCat)
+		
 		arqCat = open(arqSaida+'Cats.txt', 'w')
 		
-		arqCat.write("categorias,Media Check-ins,Fórmula Trocas,Fórmula Disputa,Count,Desvio Padrao, Elements")
+		arqCat.write("Categoria,Media Check-ins,Mediana Trocas,Mediana Disputa,Inferior,Superior")
 		arqCat.write("\n")
 		
 		numCategs = 0
@@ -240,9 +253,13 @@ def analisaDados(arqAnalise,arqSaida):
 			arqCat.write('	')
 			arqCat.write(str(cat[2]))
 			arqCat.write('	')
-			arqCat.write(str(round(cat[0],2)))
+			# arqCat.write(str(round(cat[0],2)))
+			# arqCat.write('	')
+			# arqCat.write(str(round(cat[1],2)))
+			# arqCat.write('	')
+			arqCat.write(str(round(cat[4],2)))
 			arqCat.write('	')
-			arqCat.write(str(round(cat[1],2)))
+			arqCat.write(str(round(cat[5],2)))
 			arqCat.write('\n')
 			numCategs += 1
 
@@ -256,9 +273,9 @@ def analisaDados(arqAnalise,arqSaida):
 
 def main():
 
-	# analisaDados('curitibaWithName.json', 'CWB_resultado')
+	analisaDados('curitibaWithName.json', 'CWB_resultado')
 	# analisaDados('chicagoWithName.json', 'CHICAGO_resultado')
-	analisaDados('saoPauloWithName.json', 'SP_resultado')
+	# analisaDados('saoPauloWithName.json', 'SP_resultado')
 	
 
 if __name__ == '__main__':

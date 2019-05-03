@@ -1,51 +1,51 @@
-categorias,Media Check-ins,Fórmula Trocas,Fórmula Disputa,Count,Desvio Padrao, Elements
-Irish Pub	264.0	8.0	6.0
-Art Museum	30.0	7.0	3.67
-Night Market	112.0	6.0	3.0
-Big Box Store	246.0	5.33	3.67
-Shopping Mall	180.0	5.24	2.41
-Movie Theater	171.0	5.0	4.0
-Beer Store	439.0	5.0	2.0
-Hospital	165.5	4.6	2.6
-Market	67.0	4.33	3.0
-Cultural Center	240.0	4.25	2.75
-Fish Market	440.0	4.0	3.0
-Farmers Market	190.0	4.0	3.0
-Shopping Plaza	92.0	4.0	3.0
-Asian Restaurant	209.0	4.0	1.0
-Park	335.0	3.38	2.57
-Bank	287.0	3.0	2.0
-Gastropub	113.0	3.0	1.33
-University	229.0	2.92	2.38
-Hotel	121.0	2.8	1.7
-Gas Station	127.0	2.27	1.45
-Sandwich Place	198.0	2.2	1.8
-Dessert Shop	96.0	2.18	1.18
-Pub	120.5	2.17	1.33
-Pharmacy	102.0	2.14	1.0
-Bar	83.0	2.13	1.13
-Post Office	134.0	2.0	1.0
-Health Food Store	96.0	2.0	1.0
-Eye Doctor	21.5	2.0	1.0
-Food Truck	71.0	1.86	1.43
-Restaurant	130.5	1.77	0.97
-History Museum	185.0	1.75	1.25
-Sports Bar	35.0	1.71	0.71
-Military Base	59.0	1.6	1.4
-Bus Stop	516.0	1.5	1.3
-Coffee Shop	74.0	1.5	1.0
-Doctors Office	81.5	1.5	0.9
-Soccer Stadium	161.5	1.5	0.88
-Hostel	92.0	1.4	0.6
-Church	207.0	1.22	1.0
-Pizza Place	64.0	1.21	0.58
-Police Station	62.0	1.19	0.63
-Department Store	82.5	1.17	0.5
-Supermarket	130.0	1.08	0.31
-Candy Store	146.0	1.0	0.6
-Warehouse Store	57.0	1.0	0.0
-Mediterranean Restaurant	50.0	1.0	0.0
-Acai House	20.0	1.0	0.0
-Arcade	4.0	1.0	0.0
-Gym	122.0	0.82	0.64
-Pet Store	66.0	0.8	0.53
+Categoria,Media Check-ins,Mediana Trocas,Mediana Disputa,Inferior,Superior
+Irish Pub	264.0	nan	nan
+Art Museum	30.0	-207.58	403.58
+Night Market	112.0	nan	nan
+Big Box Store	246.0	-458.02	1163.36
+Shopping Mall	180.0	114.47	342.7
+Movie Theater	171.0	nan	nan
+Beer Store	439.0	nan	nan
+Hospital	165.5	90.14	380.46
+Market	67.0	-211.6	482.26
+Cultural Center	240.0	-41.3	606.3
+Fish Market	440.0	nan	nan
+Farmers Market	190.0	nan	nan
+Shopping Plaza	92.0	-155.12	352.45
+Asian Restaurant	209.0	nan	nan
+Park	335.0	279.0	719.95
+Bank	287.0	119.5	355.7
+Gastropub	113.0	26.47	187.53
+University	229.0	102.65	569.81
+Hotel	121.0	28.29	374.91
+Gas Station	127.0	67.5	289.23
+Sandwich Place	198.0	39.71	543.09
+Dessert Shop	96.0	63.36	139.92
+Pub	120.5	5.89	204.44
+Pharmacy	102.0	19.19	212.81
+Bar	83.0	-34.87	369.62
+Post Office	134.0	-368.92	751.59
+Health Food Store	96.0	-856.97	1048.97
+Eye Doctor	21.5	-27.33	84.83
+Food Truck	71.0	16.4	172.17
+Restaurant	130.5	113.73	198.52
+History Museum	185.0	-249.14	917.14
+Sports Bar	35.0	7.7	43.16
+Military Base	59.0	15.0	273.8
+Bus Stop	516.0	176.22	951.18
+Coffee Shop	74.0	-14.99	282.32
+Doctors Office	81.5	31.76	185.24
+Soccer Stadium	161.5	-34.68	1369.43
+Hostel	92.0	12.02	135.98
+Church	207.0	54.36	636.97
+Pizza Place	64.0	23.94	81.21
+Police Station	62.0	18.28	261.47
+Department Store	82.5	23.14	157.53
+Supermarket	130.0	82.23	296.69
+Candy Store	146.0	49.44	316.96
+Warehouse Store	57.0	nan	nan
+Mediterranean Restaurant	50.0	nan	nan
+Acai House	20.0	nan	nan
+Arcade	4.0	nan	nan
+Gym	122.0	51.32	313.95
+Pet Store	66.0	34.73	142.61
