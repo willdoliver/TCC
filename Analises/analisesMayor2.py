@@ -223,15 +223,15 @@ def analisaDados(arqAnalise,arqSaida):
 			m = mean(agrupCat) 		# Mediana
 			std_err = sem(agrupCat) # Erro
 			h = std_err * t.ppf((1 + confidence) / 2, n - 1) # Desvio
-			print(str(r) + ' - ' + str(agrupCat) + ' - len:' + str(n))
+			# print(str(r) + ' - ' + str(agrupCat) + ' - len:' + str(n))
 
 			start = m - h
 			end = m + h
 
 			checkinsCat.append([
-				pd.Series(agrupTrocas).mean(),
-				pd.Series(agrupReap).mean(),
-				pd.Series(agrupCat).median(),
+				pd.Series(agrupTrocas).median(),
+				pd.Series(agrupReap).median(),
+				pd.Series(agrupCat).mean(),
 				r,
 				start,
 				end
@@ -246,20 +246,25 @@ def analisaDados(arqAnalise,arqSaida):
 		arqCat.write("\n")
 		
 		numCategs = 0
-		catsMax = 50
+		catsMax = 5000
 	
 		for cat in checkinsCat:
 			arqCat.write(str(cat[3]))
 			arqCat.write('	')
-			arqCat.write(str(cat[2]))
+			arqCat.write(	str(round(cat[2],2)).replace(".",",") )
 			arqCat.write('	')
-			# arqCat.write(str(round(cat[0],2)))
-			# arqCat.write('	')
-			# arqCat.write(str(round(cat[1],2)))
-			# arqCat.write('	')
-			arqCat.write(str(round(cat[4],2)))
+			arqCat.write(	str(round(cat[0],2)).replace(".",",") )
 			arqCat.write('	')
-			arqCat.write(str(round(cat[5],2)))
+			arqCat.write(str(round(cat[1],2)).replace(".",",") )
+			arqCat.write('	')
+			if (math.isnan(cat[4])):
+				arqCat.write(str(0))
+				arqCat.write('	')
+				arqCat.write(str(0))
+			else:
+				arqCat.write(str(round(cat[4],2)).replace(".",","))
+				arqCat.write('	')
+				arqCat.write(str(round(cat[5],2)).replace(".",","))
 			arqCat.write('\n')
 			numCategs += 1
 
@@ -273,8 +278,8 @@ def analisaDados(arqAnalise,arqSaida):
 
 def main():
 
-	analisaDados('curitibaWithName.json', 'CWB_resultado')
-	# analisaDados('chicagoWithName.json', 'CHICAGO_resultado')
+	# analisaDados('curitibaWithName.json', 'CWB_resultado')
+	analisaDados('chicagoWithName.json', 'CHICAGO_resultado')
 	# analisaDados('saoPauloWithName.json', 'SP_resultado')
 	
 
