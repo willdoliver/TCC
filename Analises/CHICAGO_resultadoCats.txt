@@ -1,89 +1,89 @@
-Categoria,Media Check-ins,Mediana Trocas,Mediana Disputa,Inferior,Superior
-Big Box Store	107,0	6,0	3,0	0	0
-College Auditorium	71,0	3,0	2,0	0	0
-Convenience Store	65,0	3,0	1,5	-760,9	890,9
-Bank	79,0	2,0	1,0	10,23	147,77
-Department Store	186,0	1,5	0,5	-1732,64	2104,64
-Bowling Alley	39,0	1,5	0,5	-21,56	99,56
-Auto Dealership	36,0	1,5	0,5	-14,82	86,82
-Donut Shop	70,83	1,0	0,0	13,02	128,65
-Building	61,2	1,0	0,0	-16,48	138,88
-Supermarket	19,0	1,0	0,0	0	0
-Shopping Mall	10,1	1,0	0,0	1,39	18,81
-Fruit & Vegetable Store	6,0	1,0	0,0	0	0
-Waterfront	4,0	1,0	0,0	0	0
-Park	3,0	1,0	0,0	0	0
-Food & Drink Shop	2,0	1,0	0,0	0	0
-Frozen Yogurt Shop	1,6	1,0	0,0	0,49	2,71
-Noodle House	1,0	1,0	0,0	0	0
-Pier	0,0	1,0	0,0	0	0
-Emergency Room	82,0	0,5	0,0	-158,97	322,97
-Car Wash	46,88	0,5	0,0	4,47	89,28
-Cultural Center	33,5	0,5	0,0	-392,16	459,16
-History Museum	6,83	0,5	0,0	-5,23	18,9
-Fire Station	1,5	0,5	0,0	-17,56	20,56
-Candy Store	1,0	0,5	0,0	-11,71	13,71
-Office	196,0	0,0	0,0	0	0
-University	172,6	0,0	0,0	-101,34	446,54
-Coffee Shop	161,0	0,0	0,0	-214,61	536,61
-Electronics Store	136,0	0,0	0,0	-37,2	309,2
-Government Building	135,0	0,0	0,0	0	0
-Church	103,08	0,0	0,0	50,82	155,35
-Pharmacy	86,33	0,0	0,0	-147,97	320,64
-Automotive Shop	68,83	0,0	0,0	-67,06	204,73
-Comic Shop	58,25	0,0	0,0	-10,36	126,86
-Doctor's Office	44,7	0,0	0,0	-39,06	128,46
-Train Station	42,0	0,0	0,0	0	0
-Bagel Shop	40,0	0,0	0,0	0	0
-Bookstore	39,14	0,0	0,0	8,26	70,03
-Zoo	38,0	0,0	0,0	0	0
-Bar	37,17	0,0	0,0	-8,43	82,76
-Sandwich Place	35,0	0,0	0,0	0	0
-Restaurant	32,65	0,0	0,0	10,88	54,42
-Art Museum	29,67	0,0	0,0	-63,82	123,16
-Residential Building (Apartment / Condo)	26,0	0,0	0,0	-101,06	153,06
-Law School	25,75	0,0	0,0	-33,45	84,95
-Arcade	24,67	0,0	0,0	-72,99	122,32
-Beach	24,42	0,0	0,0	3,57	45,26
-Dentist's Office	23,67	0,0	0,0	-0,72	48,05
-Baseball Stadium	23,0	0,0	0,0	0	0
-Gym	22,73	0,0	0,0	12,6	32,86
-Cemetery	21,0	0,0	0,0	0	0
-Lake	19,11	0,0	0,0	-1,33	39,55
-Other Great Outdoors	18,0	0,0	0,0	0	0
-Supplement Shop	17,0	0,0	0,0	0	0
-Grocery Store	15,57	0,0	0,0	1,39	29,75
-Clothing Store	15,38	0,0	0,0	0,71	30,04
-Dessert Shop	13,78	0,0	0,0	2,71	24,85
-Hospital	13,5	0,0	0,0	4,6	22,4
-Bus Stop	13,5	0,0	0,0	-158,03	185,03
-High School	9,7	0,0	0,0	0,53	18,87
-Trail	8,0	0,0	0,0	0	0
-Hotel	7,0	0,0	0,0	3,09	10,91
-IT Services	6,0	0,0	0,0	0	0
-Jewelry Store	5,6	0,0	0,0	-3,21	14,41
-Bike Shop	4,83	0,0	0,0	-4,13	13,8
-Warehouse Store	4,0	0,0	0,0	0	0
-Motel	4,0	0,0	0,0	0	0
-Library	4,0	0,0	0,0	-4,72	12,72
-Hostel	4,0	0,0	0,0	-1,66	9,66
-Gas Station	3,5	0,0	0,0	0,86	6,14
-Military Base	3,0	0,0	0,0	0	0
-Flower Shop	2,33	0,0	0,0	0,75	3,92
-Mobile Phone Shop	1,71	0,0	0,0	-1,69	5,12
-Lingerie Store	1,5	0,0	0,0	-17,56	20,56
-Food Truck	1,5	0,0	0,0	0,27	2,73
-Ice Cream Shop	1,0	0,0	0,0	0,08	1,92
-Football Stadium	1,0	0,0	0,0	0	0
-Bakery	1,0	0,0	0,0	0	0
-Food Court	0,5	0,0	0,0	-5,85	6,85
-Women's Store	0,0	0,0	0,0	0	0
-Medical School	0,0	0,0	0,0	0	0
-Gourmet Shop	0,0	0,0	0,0	0	0
-Funeral Home	0,0	0,0	0,0	0	0
-Fish Market	0,0	0,0	0,0	0	0
-Farm	0,0	0,0	0,0	0	0
-Deli / Bodega	0,0	0,0	0,0	0	0
+Categoria,Inferior,Superior,Media Check-ins,Mediana Trocas,Mediana Disputa
+Big Box Store	0	0	107,0	6,0	3,0
+College Auditorium	0	0	71,0	3,0	2,0
+Convenience Store	-760,9	890,9	65,0	3,0	1,5
+Bank	10,23	147,77	79,0	2,0	1,0
+Department Store	-1732,64	2104,64	186,0	1,5	0,5
+Bowling Alley	-21,56	99,56	39,0	1,5	0,5
+Auto Dealership	-14,82	86,82	36,0	1,5	0,5
+Donut Shop	13,02	128,65	70,83	1,0	0,0
+Building	-16,48	138,88	61,2	1,0	0,0
+Supermarket	0	0	19,0	1,0	0,0
+Shopping Mall	1,39	18,81	10,1	1,0	0,0
+Fruit & Vegetable Store	0	0	6,0	1,0	0,0
+Waterfront	0	0	4,0	1,0	0,0
+Park	0	0	3,0	1,0	0,0
+Food & Drink Shop	0	0	2,0	1,0	0,0
+Frozen Yogurt Shop	0,49	2,71	1,6	1,0	0,0
+Noodle House	0	0	1,0	1,0	0,0
+Pier	0	0	0,0	1,0	0,0
+Emergency Room	-158,97	322,97	82,0	0,5	0,0
+Car Wash	4,47	89,28	46,88	0,5	0,0
+Cultural Center	-392,16	459,16	33,5	0,5	0,0
+History Museum	-5,23	18,9	6,83	0,5	0,0
+Fire Station	-17,56	20,56	1,5	0,5	0,0
+Candy Store	-11,71	13,71	1,0	0,5	0,0
+Office	0	0	196,0	0,0	0,0
+University	-101,34	446,54	172,6	0,0	0,0
+Coffee Shop	-214,61	536,61	161,0	0,0	0,0
+Electronics Store	-37,2	309,2	136,0	0,0	0,0
+Government Building	0	0	135,0	0,0	0,0
+Church	50,82	155,35	103,08	0,0	0,0
+Pharmacy	-147,97	320,64	86,33	0,0	0,0
+Automotive Shop	-67,06	204,73	68,83	0,0	0,0
+Comic Shop	-10,36	126,86	58,25	0,0	0,0
+Doctor's Office	-39,06	128,46	44,7	0,0	0,0
+Train Station	0	0	42,0	0,0	0,0
+Bagel Shop	0	0	40,0	0,0	0,0
+Bookstore	8,26	70,03	39,14	0,0	0,0
+Zoo	0	0	38,0	0,0	0,0
+Bar	-8,43	82,76	37,17	0,0	0,0
+Sandwich Place	0	0	35,0	0,0	0,0
+Restaurant	10,88	54,42	32,65	0,0	0,0
+Art Museum	-63,82	123,16	29,67	0,0	0,0
+Residential Building (Apartment / Condo)	-101,06	153,06	26,0	0,0	0,0
+Law School	-33,45	84,95	25,75	0,0	0,0
+Arcade	-72,99	122,32	24,67	0,0	0,0
+Beach	3,57	45,26	24,42	0,0	0,0
+Dentist's Office	-0,72	48,05	23,67	0,0	0,0
+Baseball Stadium	0	0	23,0	0,0	0,0
+Gym	12,6	32,86	22,73	0,0	0,0
+Cemetery	0	0	21,0	0,0	0,0
+Lake	-1,33	39,55	19,11	0,0	0,0
+Other Great Outdoors	0	0	18,0	0,0	0,0
+Supplement Shop	0	0	17,0	0,0	0,0
+Grocery Store	1,39	29,75	15,57	0,0	0,0
+Clothing Store	0,71	30,04	15,38	0,0	0,0
+Dessert Shop	2,71	24,85	13,78	0,0	0,0
+Hospital	4,6	22,4	13,5	0,0	0,0
+Bus Stop	-158,03	185,03	13,5	0,0	0,0
+High School	0,53	18,87	9,7	0,0	0,0
+Trail	0	0	8,0	0,0	0,0
+Hotel	3,09	10,91	7,0	0,0	0,0
+IT Services	0	0	6,0	0,0	0,0
+Jewelry Store	-3,21	14,41	5,6	0,0	0,0
+Bike Shop	-4,13	13,8	4,83	0,0	0,0
+Warehouse Store	0	0	4,0	0,0	0,0
+Motel	0	0	4,0	0,0	0,0
+Library	-4,72	12,72	4,0	0,0	0,0
+Hostel	-1,66	9,66	4,0	0,0	0,0
+Gas Station	0,86	6,14	3,5	0,0	0,0
+Military Base	0	0	3,0	0,0	0,0
+Flower Shop	0,75	3,92	2,33	0,0	0,0
+Mobile Phone Shop	-1,69	5,12	1,71	0,0	0,0
+Lingerie Store	-17,56	20,56	1,5	0,0	0,0
+Food Truck	0,27	2,73	1,5	0,0	0,0
+Ice Cream Shop	0,08	1,92	1,0	0,0	0,0
+Football Stadium	0	0	1,0	0,0	0,0
+Bakery	0	0	1,0	0,0	0,0
+Food Court	-5,85	6,85	0,5	0,0	0,0
+Women's Store	0	0	0,0	0,0	0,0
+Medical School	0	0	0,0	0,0	0,0
+Gourmet Shop	0	0	0,0	0,0	0,0
+Funeral Home	0	0	0,0	0,0	0,0
+Fish Market	0	0	0,0	0,0	0,0
+Farm	0	0	0,0	0,0	0,0
+Deli / Bodega	0	0	0,0	0,0	0,0
 Chocolate Shop	0,0	0,0	0,0	0,0	0,0
-Chiropractor	0,0	0,0	0,0	0	0
-Airport	0,0	0,0	0,0	0	0
+Chiropractor	0	0	0,0	0,0	0,0
+Airport	0	0	0,0	0,0	0,0

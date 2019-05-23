@@ -1,14 +1,16 @@
 # -*- coding: utf-8 -*-
-#import matplotlib.pyplot as plt
 import os,re,sys
 import json
 import math
 from pprint import pprint
 from datetime import datetime
+import matplotlib as mpl 
 import matplotlib.pyplot as plt
+import numpy as np
 import pandas as pd
 from scipy.stats import sem, t
 from scipy import mean
+mpl.use('agg')
 
 
 ############ Formulas ############
@@ -27,7 +29,7 @@ from scipy import mean
 nome_local = []
 results = []
 resultCats = []
-confidence = 0.95
+confidence = 0.05
 
 def remove_repetidos(lista):
     l = []
@@ -207,6 +209,7 @@ def analisaDados(arqAnalise,arqSaida):
 		res = remove_repetidos(res)
 		
 		checkinsCat=[]
+		data_to_plot=[]
 		for r in res:
 			agrupTrocas = []
 			agrupReap = []
@@ -228,6 +231,15 @@ def analisaDados(arqAnalise,arqSaida):
 			start = m - h
 			end = m + h
 
+			if (math.isnan(h)):
+				continue
+
+			data_to_plot.append([
+				m, # Media Checkins
+				agrupCat,
+				r
+			])
+
 			checkinsCat.append([
 				pd.Series(agrupTrocas).median(),
 				pd.Series(agrupReap).median(),
@@ -236,27 +248,83 @@ def analisaDados(arqAnalise,arqSaida):
 				start,
 				end
 			])
-		# print(checkinsCat)
+		# print(data_to_plot)
 		# exit(0)
-		checkinsCat.sort(reverse=True)
+
+		data_to_plot.sort(reverse=True)
 		
-		arqCat = open(arqSaida+'Cats.txt', 'w')
+		# arqBox = open('Curitiba_boxPlot.txt', 'w')
+		arqBox = open('Chicago_boxPlot.txt', 'w')
 		
-		arqCat.write("Categoria,Media Check-ins,Mediana Trocas,Mediana Disputa,Inferior,Superior")
+		data_to_plot2=[]
+		data_cat=[]
+		aux = 0
+		for data in data_to_plot:
+			if (aux == 50):
+				break
+			arqBox.write(data[2]) # categoria 
+			arqBox.write(',')
+			arqBox.write(str(round(data[0],2))) # media check-ins
+			arqBox.write(',')
+			arqBox.write(str(data[1])) #lista com check-ins
+			arqBox.write('\n')
+			aux += 1
+
+			data_to_plot2.append([data[2],data[1]])
+
+		arqBox.close()
+		
+		data_to_plot3=[]
+		data_to_plot2.sort()
+		for d in data_to_plot2:
+			data_cat.append(d[0])
+			data_to_plot3.append([d[1]])
+
+		# Create a figure instance
+		fig = plt.figure(1, figsize=(20, 10))
+
+		# Create an axes instance
+		ax = fig.add_subplot(111)
+
+		# Save the figure
+		bp = ax.boxplot(data_to_plot3, patch_artist=True)
+
+		## Custom x-axis labels
+		ax.set_xticklabels(data_cat,rotation=90)
+		ax.set_ylabel('Quantidade de check-ins',rotation=90)
+
+		width = 2
+		# Configuracao de cores
+		for box in bp['boxes']:
+		    box.set( color='#5a5b5b', linewidth=width)
+		    box.set( facecolor = '#3f30ff' )
+
+		for whisker in bp['whiskers']:
+		    whisker.set(color='#171626', linewidth=width)
+
+		for cap in bp['caps']:
+		    cap.set(color='#171626', linewidth=width)
+
+		for median in bp['medians']:
+		    median.set(color='#72b239', linewidth=width)
+
+		for flier in bp['fliers']:
+		    flier.set(marker='o', color='#000000', alpha=5)
+		# Create the boxplot
+		# fig.savefig('Curitiba_boxPlot.png', bbox_inches='tight')
+		fig.savefig('Chicago_boxPlot.png', bbox_inches='tight')
+
+		exit(0)
+
+		arqCat.write("Categoria,Media Check-ins,Mediana Trocas,Mediana Disputa")
 		arqCat.write("\n")
 		
 		numCategs = 0
-		catsMax = 5000
-	
+		catsMax = 50
+		checkinsCat.sort(reverse=True)
+
 		for cat in checkinsCat:
-			arqCat.write(str(cat[3]))
-			arqCat.write('	')
-			arqCat.write(	str(round(cat[2],2)).replace(".",",") )
-			arqCat.write('	')
-			arqCat.write(	str(round(cat[0],2)).replace(".",",") )
-			arqCat.write('	')
-			arqCat.write(str(round(cat[1],2)).replace(".",",") )
-			arqCat.write('	')
+
 			if (math.isnan(cat[4])):
 				arqCat.write(str(0))
 				arqCat.write('	')
@@ -264,7 +332,13 @@ def analisaDados(arqAnalise,arqSaida):
 			else:
 				arqCat.write(str(round(cat[4],2)).replace(".",","))
 				arqCat.write('	')
-				arqCat.write(str(round(cat[5],2)).replace(".",","))
+				arqCat.write(str(round(cat[3],2)).replace(".",","))
+			arqCat.write('	')
+			arqCat.write(	str(round(cat[2],2)).replace(".",",") ) # media check-ins
+			arqCat.write('	')
+			arqCat.write(	str(round(cat[0],2)).replace(".",",") ) # Trocas
+			arqCat.write('	')
+			arqCat.write(str(round(cat[1],2)).replace(".",",") ) # Reap
 			arqCat.write('\n')
 			numCategs += 1
 
