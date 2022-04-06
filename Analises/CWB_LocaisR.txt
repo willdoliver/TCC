@@ -1,7 +1,6 @@
 -------------------
 RESULTADOS
 -------------------
-<<<<<<< HEAD
 Polloshop
 P = 2
 Disputa: 121.52
@@ -17,7 +16,6 @@ R = 19
 Canonicalurl': U'Https:
 P = 15
 Disputa: 13.64
-=======
 Habibs
 P = 4
 X1: 32.05
@@ -33,37 +31,27 @@ R = 2
 Canonicalurl': U'Https:
 P = 15
 X1: 13.64
->>>>>>> 8996de159195e0b5a6d536a57def0ad94e982df4
 2018-04-28 - 2018-05-27
 R = 2
 -------------------
 Baggio Pizzeria Focacceria
 P = 2
-<<<<<<< HEAD
 Disputa: 5.33
-=======
 X1: 5.33
->>>>>>> 8996de159195e0b5a6d536a57def0ad94e982df4
 2018-04-29 - 2018-05-30
 R = 1
 -------------------
 Casa Do Produtor
 P = 2
-<<<<<<< HEAD
 Disputa: 4.87
-=======
 X1: 4.87
->>>>>>> 8996de159195e0b5a6d536a57def0ad94e982df4
 2018-04-06 - 2018-05-20
 R = 1
 -------------------
 Goodies Bakery
 P = 2
-<<<<<<< HEAD
 Disputa: 4.36
-=======
 X1: 4.36
->>>>>>> 8996de159195e0b5a6d536a57def0ad94e982df4
 2018-04-11 - 2018-05-28
 R = 1
 -------------------
